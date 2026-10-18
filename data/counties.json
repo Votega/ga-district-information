@@ -1,0 +1,5453 @@
+{
+ "metadata": {
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-10-18T14:25:09+00:00",
+  "source": "Georgia General Assembly Office of Legislative & Congressional Reapportionment block-equivalency files, joined to U.S. Census Bureau 2020 block populations",
+  "censusVintage": "2020 Census PL 94-171 (block population, POP100)",
+  "plans": {
+   "s": "Senate-2023",
+   "h": "House-2023",
+   "c": "Congress-2023"
+  },
+  "count": 159,
+  "totalPopulation": 10711908,
+  "note": "For each county, the 2020 population living in each district of each plan, and that as a share of the county. Districts are listed in number order. A county in several districts appears once per district. Matches the Office of Legislative and Congressional Reapportionment's county reports."
+ },
+ "counties": {
+  "001": {
+   "name": "Appling",
+   "population": 18444,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 18444,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 157,
+     "population": 12825,
+     "share": 0.69535
+    },
+    {
+     "district": 178,
+     "population": 5619,
+     "share": 0.30465
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 18444,
+     "share": 1.0
+    }
+   ]
+  },
+  "003": {
+   "name": "Atkinson",
+   "population": 8286,
+   "state-senate": [
+    {
+     "district": 8,
+     "population": 8286,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 176,
+     "population": 8286,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 8286,
+     "share": 1.0
+    }
+   ]
+  },
+  "005": {
+   "name": "Bacon",
+   "population": 11140,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 11140,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 178,
+     "population": 11140,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 11140,
+     "share": 1.0
+    }
+   ]
+  },
+  "007": {
+   "name": "Baker",
+   "population": 2876,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 2876,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 2876,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 2876,
+     "share": 1.0
+    }
+   ]
+  },
+  "009": {
+   "name": "Baldwin",
+   "population": 43799,
+   "state-senate": [
+    {
+     "district": 25,
+     "population": 43799,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 128,
+     "population": 5158,
+     "share": 0.11777
+    },
+    {
+     "district": 149,
+     "population": 38641,
+     "share": 0.88223
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 43799,
+     "share": 1.0
+    }
+   ]
+  },
+  "011": {
+   "name": "Banks",
+   "population": 18035,
+   "state-senate": [
+    {
+     "district": 50,
+     "population": 18035,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 32,
+     "population": 18035,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 18035,
+     "share": 1.0
+    }
+   ]
+  },
+  "013": {
+   "name": "Barrow",
+   "population": 83505,
+   "state-senate": [
+    {
+     "district": 45,
+     "population": 39217,
+     "share": 0.46964
+    },
+    {
+     "district": 46,
+     "population": 17116,
+     "share": 0.20497
+    },
+    {
+     "district": 47,
+     "population": 27172,
+     "share": 0.32539
+    }
+   ],
+   "state-house": [
+    {
+     "district": 104,
+     "population": 24245,
+     "share": 0.29034
+    },
+    {
+     "district": 119,
+     "population": 54736,
+     "share": 0.65548
+    },
+    {
+     "district": 120,
+     "population": 4524,
+     "share": 0.05418
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 83505,
+     "share": 1.0
+    }
+   ]
+  },
+  "015": {
+   "name": "Bartow",
+   "population": 108901,
+   "state-senate": [
+    {
+     "district": 37,
+     "population": 11130,
+     "share": 0.1022
+    },
+    {
+     "district": 52,
+     "population": 97771,
+     "share": 0.8978
+    }
+   ],
+   "state-house": [
+    {
+     "district": 14,
+     "population": 49688,
+     "share": 0.45627
+    },
+    {
+     "district": 15,
+     "population": 59213,
+     "share": 0.54373
+    }
+   ],
+   "us-house": [
+    {
+     "district": 11,
+     "population": 108901,
+     "share": 1.0
+    }
+   ]
+  },
+  "017": {
+   "name": "Ben Hill",
+   "population": 17194,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 17194,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 148,
+     "population": 5115,
+     "share": 0.29749
+    },
+    {
+     "district": 156,
+     "population": 12079,
+     "share": 0.70251
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 17194,
+     "share": 1.0
+    }
+   ]
+  },
+  "019": {
+   "name": "Berrien",
+   "population": 18160,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 18160,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 170,
+     "population": 18160,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 18160,
+     "share": 1.0
+    }
+   ]
+  },
+  "021": {
+   "name": "Bibb",
+   "population": 157346,
+   "state-senate": [
+    {
+     "district": 18,
+     "population": 53182,
+     "share": 0.33799
+    },
+    {
+     "district": 25,
+     "population": 15513,
+     "share": 0.09859
+    },
+    {
+     "district": 26,
+     "population": 88651,
+     "share": 0.56341
+    }
+   ],
+   "state-house": [
+    {
+     "district": 142,
+     "population": 59312,
+     "share": 0.37695
+    },
+    {
+     "district": 143,
+     "population": 29369,
+     "share": 0.18665
+    },
+    {
+     "district": 144,
+     "population": 10640,
+     "share": 0.06762
+    },
+    {
+     "district": 145,
+     "population": 44737,
+     "share": 0.28432
+    },
+    {
+     "district": 149,
+     "population": 13288,
+     "share": 0.08445
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 108371,
+     "share": 0.68874
+    },
+    {
+     "district": 8,
+     "population": 48975,
+     "share": 0.31126
+    }
+   ]
+  },
+  "023": {
+   "name": "Bleckley",
+   "population": 12583,
+   "state-senate": [
+    {
+     "district": 20,
+     "population": 12583,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 133,
+     "population": 12583,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 12583,
+     "share": 1.0
+    }
+   ]
+  },
+  "025": {
+   "name": "Brantley",
+   "population": 18021,
+   "state-senate": [
+    {
+     "district": 3,
+     "population": 18021,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 174,
+     "population": 18021,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 18021,
+     "share": 1.0
+    }
+   ]
+  },
+  "027": {
+   "name": "Brooks",
+   "population": 16301,
+   "state-senate": [
+    {
+     "district": 11,
+     "population": 16301,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 175,
+     "population": 16301,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 16301,
+     "share": 1.0
+    }
+   ]
+  },
+  "029": {
+   "name": "Bryan",
+   "population": 44738,
+   "state-senate": [
+    {
+     "district": 1,
+     "population": 44738,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 160,
+     "population": 11008,
+     "share": 0.24605
+    },
+    {
+     "district": 164,
+     "population": 21420,
+     "share": 0.47879
+    },
+    {
+     "district": 166,
+     "population": 12310,
+     "share": 0.27516
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 44738,
+     "share": 1.0
+    }
+   ]
+  },
+  "031": {
+   "name": "Bulloch",
+   "population": 81099,
+   "state-senate": [
+    {
+     "district": 4,
+     "population": 81099,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 158,
+     "population": 19285,
+     "share": 0.2378
+    },
+    {
+     "district": 159,
+     "population": 12887,
+     "share": 0.1589
+    },
+    {
+     "district": 160,
+     "population": 48927,
+     "share": 0.6033
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 81099,
+     "share": 1.0
+    }
+   ]
+  },
+  "033": {
+   "name": "Burke",
+   "population": 24596,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 24596,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 126,
+     "population": 24596,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 24596,
+     "share": 1.0
+    }
+   ]
+  },
+  "035": {
+   "name": "Butts",
+   "population": 25434,
+   "state-senate": [
+    {
+     "district": 25,
+     "population": 25434,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 118,
+     "population": 25434,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 25434,
+     "share": 1.0
+    }
+   ]
+  },
+  "037": {
+   "name": "Calhoun",
+   "population": 5573,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 5573,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 5573,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 5573,
+     "share": 1.0
+    }
+   ]
+  },
+  "039": {
+   "name": "Camden",
+   "population": 54768,
+   "state-senate": [
+    {
+     "district": 3,
+     "population": 54768,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 180,
+     "population": 54768,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 54768,
+     "share": 1.0
+    }
+   ]
+  },
+  "043": {
+   "name": "Candler",
+   "population": 10981,
+   "state-senate": [
+    {
+     "district": 4,
+     "population": 10981,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 158,
+     "population": 10981,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 10981,
+     "share": 1.0
+    }
+   ]
+  },
+  "045": {
+   "name": "Carroll",
+   "population": 119148,
+   "state-senate": [
+    {
+     "district": 6,
+     "population": 33482,
+     "share": 0.28101
+    },
+    {
+     "district": 30,
+     "population": 85666,
+     "share": 0.71899
+    }
+   ],
+   "state-house": [
+    {
+     "district": 18,
+     "population": 18789,
+     "share": 0.15769
+    },
+    {
+     "district": 70,
+     "population": 2854,
+     "share": 0.02395
+    },
+    {
+     "district": 71,
+     "population": 59538,
+     "share": 0.4997
+    },
+    {
+     "district": 72,
+     "population": 37967,
+     "share": 0.31865
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 119148,
+     "share": 1.0
+    }
+   ]
+  },
+  "047": {
+   "name": "Catoosa",
+   "population": 67872,
+   "state-senate": [
+    {
+     "district": 53,
+     "population": 67872,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 2,
+     "population": 7673,
+     "share": 0.11305
+    },
+    {
+     "district": 3,
+     "population": 60199,
+     "share": 0.88695
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 67872,
+     "share": 1.0
+    }
+   ]
+  },
+  "049": {
+   "name": "Charlton",
+   "population": 12518,
+   "state-senate": [
+    {
+     "district": 3,
+     "population": 12518,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 174,
+     "population": 12518,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 12518,
+     "share": 1.0
+    }
+   ]
+  },
+  "051": {
+   "name": "Chatham",
+   "population": 295291,
+   "state-senate": [
+    {
+     "district": 1,
+     "population": 81408,
+     "share": 0.27569
+    },
+    {
+     "district": 2,
+     "population": 190408,
+     "share": 0.64481
+    },
+    {
+     "district": 4,
+     "population": 23475,
+     "share": 0.0795
+    }
+   ],
+   "state-house": [
+    {
+     "district": 161,
+     "population": 28269,
+     "share": 0.09573
+    },
+    {
+     "district": 162,
+     "population": 60308,
+     "share": 0.20423
+    },
+    {
+     "district": 163,
+     "population": 60123,
+     "share": 0.20361
+    },
+    {
+     "district": 164,
+     "population": 38681,
+     "share": 0.13099
+    },
+    {
+     "district": 165,
+     "population": 59978,
+     "share": 0.20311
+    },
+    {
+     "district": 166,
+     "population": 47932,
+     "share": 0.16232
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 295291,
+     "share": 1.0
+    }
+   ]
+  },
+  "053": {
+   "name": "Chattahoochee",
+   "population": 9565,
+   "state-senate": [
+    {
+     "district": 15,
+     "population": 9565,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 151,
+     "population": 9565,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 9565,
+     "share": 1.0
+    }
+   ]
+  },
+  "055": {
+   "name": "Chattooga",
+   "population": 24965,
+   "state-senate": [
+    {
+     "district": 53,
+     "population": 24965,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 12,
+     "population": 24965,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 24965,
+     "share": 1.0
+    }
+   ]
+  },
+  "057": {
+   "name": "Cherokee",
+   "population": 266620,
+   "state-senate": [
+    {
+     "district": 21,
+     "population": 109034,
+     "share": 0.40895
+    },
+    {
+     "district": 32,
+     "population": 90981,
+     "share": 0.34124
+    },
+    {
+     "district": 56,
+     "population": 66605,
+     "share": 0.24981
+    }
+   ],
+   "state-house": [
+    {
+     "district": 11,
+     "population": 6557,
+     "share": 0.02459
+    },
+    {
+     "district": 14,
+     "population": 9447,
+     "share": 0.03543
+    },
+    {
+     "district": 20,
+     "population": 60107,
+     "share": 0.22544
+    },
+    {
+     "district": 21,
+     "population": 59529,
+     "share": 0.22327
+    },
+    {
+     "district": 22,
+     "population": 30874,
+     "share": 0.1158
+    },
+    {
+     "district": 23,
+     "population": 59048,
+     "share": 0.22147
+    },
+    {
+     "district": 44,
+     "population": 21989,
+     "share": 0.08247
+    },
+    {
+     "district": 46,
+     "population": 15178,
+     "share": 0.05693
+    },
+    {
+     "district": 47,
+     "population": 3891,
+     "share": 0.01459
+    }
+   ],
+   "us-house": [
+    {
+     "district": 7,
+     "population": 40881,
+     "share": 0.15333
+    },
+    {
+     "district": 11,
+     "population": 225739,
+     "share": 0.84667
+    }
+   ]
+  },
+  "059": {
+   "name": "Clarke",
+   "population": 128671,
+   "state-senate": [
+    {
+     "district": 46,
+     "population": 52016,
+     "share": 0.40426
+    },
+    {
+     "district": 47,
+     "population": 76655,
+     "share": 0.59574
+    }
+   ],
+   "state-house": [
+    {
+     "district": 120,
+     "population": 30095,
+     "share": 0.23389
+    },
+    {
+     "district": 121,
+     "population": 26478,
+     "share": 0.20578
+    },
+    {
+     "district": 122,
+     "population": 59632,
+     "share": 0.46345
+    },
+    {
+     "district": 124,
+     "population": 12466,
+     "share": 0.09688
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 128671,
+     "share": 1.0
+    }
+   ]
+  },
+  "061": {
+   "name": "Clay",
+   "population": 2848,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 2848,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 2848,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 2848,
+     "share": 1.0
+    }
+   ]
+  },
+  "063": {
+   "name": "Clayton",
+   "population": 297595,
+   "state-senate": [
+    {
+     "district": 17,
+     "population": 74353,
+     "share": 0.24985
+    },
+    {
+     "district": 34,
+     "population": 158608,
+     "share": 0.53297
+    },
+    {
+     "district": 44,
+     "population": 64634,
+     "share": 0.21719
+    }
+   ],
+   "state-house": [
+    {
+     "district": 74,
+     "population": 40723,
+     "share": 0.13684
+    },
+    {
+     "district": 75,
+     "population": 59743,
+     "share": 0.20075
+    },
+    {
+     "district": 76,
+     "population": 59759,
+     "share": 0.20081
+    },
+    {
+     "district": 77,
+     "population": 59242,
+     "share": 0.19907
+    },
+    {
+     "district": 78,
+     "population": 18628,
+     "share": 0.0626
+    },
+    {
+     "district": 79,
+     "population": 59500,
+     "share": 0.19994
+    }
+   ],
+   "us-house": [
+    {
+     "district": 5,
+     "population": 171184,
+     "share": 0.57522
+    },
+    {
+     "district": 13,
+     "population": 126411,
+     "share": 0.42478
+    }
+   ]
+  },
+  "065": {
+   "name": "Clinch",
+   "population": 6749,
+   "state-senate": [
+    {
+     "district": 8,
+     "population": 6749,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 174,
+     "population": 6749,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 6749,
+     "share": 1.0
+    }
+   ]
+  },
+  "067": {
+   "name": "Cobb",
+   "population": 766149,
+   "state-senate": [
+    {
+     "district": 28,
+     "population": 87585,
+     "share": 0.11432
+    },
+    {
+     "district": 32,
+     "population": 101467,
+     "share": 0.13244
+    },
+    {
+     "district": 33,
+     "population": 192766,
+     "share": 0.2516
+    },
+    {
+     "district": 35,
+     "population": 112897,
+     "share": 0.14736
+    },
+    {
+     "district": 37,
+     "population": 181541,
+     "share": 0.23695
+    },
+    {
+     "district": 56,
+     "population": 89893,
+     "share": 0.11733
+    }
+   ],
+   "state-house": [
+    {
+     "district": 19,
+     "population": 13248,
+     "share": 0.01729
+    },
+    {
+     "district": 22,
+     "population": 28586,
+     "share": 0.03731
+    },
+    {
+     "district": 34,
+     "population": 58947,
+     "share": 0.07694
+    },
+    {
+     "district": 35,
+     "population": 59689,
+     "share": 0.07791
+    },
+    {
+     "district": 36,
+     "population": 59898,
+     "share": 0.07818
+    },
+    {
+     "district": 37,
+     "population": 58927,
+     "share": 0.07691
+    },
+    {
+     "district": 38,
+     "population": 59317,
+     "share": 0.07742
+    },
+    {
+     "district": 39,
+     "population": 59381,
+     "share": 0.07751
+    },
+    {
+     "district": 41,
+     "population": 60122,
+     "share": 0.07847
+    },
+    {
+     "district": 42,
+     "population": 59017,
+     "share": 0.07703
+    },
+    {
+     "district": 43,
+     "population": 59626,
+     "share": 0.07783
+    },
+    {
+     "district": 44,
+     "population": 38013,
+     "share": 0.04962
+    },
+    {
+     "district": 45,
+     "population": 59738,
+     "share": 0.07797
+    },
+    {
+     "district": 46,
+     "population": 43930,
+     "share": 0.05734
+    },
+    {
+     "district": 60,
+     "population": 8600,
+     "share": 0.01122
+    },
+    {
+     "district": 61,
+     "population": 39110,
+     "share": 0.05105
+    }
+   ],
+   "us-house": [
+    {
+     "district": 6,
+     "population": 290955,
+     "share": 0.37976
+    },
+    {
+     "district": 11,
+     "population": 339735,
+     "share": 0.44343
+    },
+    {
+     "district": 14,
+     "population": 135459,
+     "share": 0.17681
+    }
+   ]
+  },
+  "069": {
+   "name": "Coffee",
+   "population": 43092,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 19881,
+     "share": 0.46136
+    },
+    {
+     "district": 19,
+     "population": 23211,
+     "share": 0.53864
+    }
+   ],
+   "state-house": [
+    {
+     "district": 169,
+     "population": 33736,
+     "share": 0.78288
+    },
+    {
+     "district": 176,
+     "population": 9356,
+     "share": 0.21712
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 43092,
+     "share": 1.0
+    }
+   ]
+  },
+  "071": {
+   "name": "Colquitt",
+   "population": 45898,
+   "state-senate": [
+    {
+     "district": 11,
+     "population": 45898,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 172,
+     "population": 45898,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 45898,
+     "share": 1.0
+    }
+   ]
+  },
+  "073": {
+   "name": "Columbia",
+   "population": 156010,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 59796,
+     "share": 0.38328
+    },
+    {
+     "district": 24,
+     "population": 96214,
+     "share": 0.61672
+    }
+   ],
+   "state-house": [
+    {
+     "district": 123,
+     "population": 2205,
+     "share": 0.01413
+    },
+    {
+     "district": 125,
+     "population": 55389,
+     "share": 0.35503
+    },
+    {
+     "district": 127,
+     "population": 39526,
+     "share": 0.25336
+    },
+    {
+     "district": 131,
+     "population": 58890,
+     "share": 0.37748
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 156010,
+     "share": 1.0
+    }
+   ]
+  },
+  "075": {
+   "name": "Cook",
+   "population": 17229,
+   "state-senate": [
+    {
+     "district": 11,
+     "population": 17229,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 170,
+     "population": 7342,
+     "share": 0.42614
+    },
+    {
+     "district": 172,
+     "population": 9887,
+     "share": 0.57386
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 17229,
+     "share": 1.0
+    }
+   ]
+  },
+  "077": {
+   "name": "Coweta",
+   "population": 146158,
+   "state-senate": [
+    {
+     "district": 6,
+     "population": 146158,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 65,
+     "population": 13008,
+     "share": 0.089
+    },
+    {
+     "district": 67,
+     "population": 17272,
+     "share": 0.11817
+    },
+    {
+     "district": 70,
+     "population": 56267,
+     "share": 0.38497
+    },
+    {
+     "district": 73,
+     "population": 31608,
+     "share": 0.21626
+    },
+    {
+     "district": 136,
+     "population": 28003,
+     "share": 0.19159
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 146158,
+     "share": 1.0
+    }
+   ]
+  },
+  "079": {
+   "name": "Crawford",
+   "population": 12130,
+   "state-senate": [
+    {
+     "district": 18,
+     "population": 12130,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 134,
+     "population": 12130,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 12130,
+     "share": 1.0
+    }
+   ]
+  },
+  "081": {
+   "name": "Crisp",
+   "population": 20128,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 20128,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 148,
+     "population": 20128,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 20128,
+     "share": 1.0
+    }
+   ]
+  },
+  "083": {
+   "name": "Dade",
+   "population": 16251,
+   "state-senate": [
+    {
+     "district": 53,
+     "population": 16251,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 1,
+     "population": 16251,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 16251,
+     "share": 1.0
+    }
+   ]
+  },
+  "085": {
+   "name": "Dawson",
+   "population": 26798,
+   "state-senate": [
+    {
+     "district": 51,
+     "population": 26798,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 7,
+     "population": 2409,
+     "share": 0.08989
+    },
+    {
+     "district": 9,
+     "population": 24389,
+     "share": 0.91011
+    }
+   ],
+   "us-house": [
+    {
+     "district": 7,
+     "population": 26798,
+     "share": 1.0
+    }
+   ]
+  },
+  "087": {
+   "name": "Decatur",
+   "population": 29367,
+   "state-senate": [
+    {
+     "district": 11,
+     "population": 29367,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 171,
+     "population": 29367,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 29367,
+     "share": 1.0
+    }
+   ]
+  },
+  "089": {
+   "name": "DeKalb",
+   "population": 764382,
+   "state-senate": [
+    {
+     "district": 10,
+     "population": 143417,
+     "share": 0.18762
+    },
+    {
+     "district": 40,
+     "population": 164997,
+     "share": 0.21586
+    },
+    {
+     "district": 41,
+     "population": 193109,
+     "share": 0.25263
+    },
+    {
+     "district": 43,
+     "population": 17660,
+     "share": 0.0231
+    },
+    {
+     "district": 44,
+     "population": 128522,
+     "share": 0.16814
+    },
+    {
+     "district": 55,
+     "population": 116677,
+     "share": 0.15264
+    }
+   ],
+   "state-house": [
+    {
+     "district": 52,
+     "population": 28300,
+     "share": 0.03702
+    },
+    {
+     "district": 80,
+     "population": 59461,
+     "share": 0.07779
+    },
+    {
+     "district": 83,
+     "population": 59416,
+     "share": 0.07773
+    },
+    {
+     "district": 84,
+     "population": 58801,
+     "share": 0.07693
+    },
+    {
+     "district": 85,
+     "population": 59591,
+     "share": 0.07796
+    },
+    {
+     "district": 86,
+     "population": 59153,
+     "share": 0.07739
+    },
+    {
+     "district": 87,
+     "population": 59684,
+     "share": 0.07808
+    },
+    {
+     "district": 88,
+     "population": 47844,
+     "share": 0.06259
+    },
+    {
+     "district": 89,
+     "population": 60231,
+     "share": 0.0788
+    },
+    {
+     "district": 90,
+     "population": 59856,
+     "share": 0.07831
+    },
+    {
+     "district": 91,
+     "population": 35612,
+     "share": 0.04659
+    },
+    {
+     "district": 93,
+     "population": 21077,
+     "share": 0.02757
+    },
+    {
+     "district": 94,
+     "population": 24370,
+     "share": 0.03188
+    },
+    {
+     "district": 95,
+     "population": 15345,
+     "share": 0.02008
+    },
+    {
+     "district": 101,
+     "population": 59240,
+     "share": 0.0775
+    },
+    {
+     "district": 115,
+     "population": 30232,
+     "share": 0.03955
+    },
+    {
+     "district": 116,
+     "population": 26169,
+     "share": 0.03424
+    }
+   ],
+   "us-house": [
+    {
+     "district": 4,
+     "population": 514165,
+     "share": 0.67265
+    },
+    {
+     "district": 5,
+     "population": 231534,
+     "share": 0.3029
+    },
+    {
+     "district": 13,
+     "population": 18683,
+     "share": 0.02444
+    }
+   ]
+  },
+  "091": {
+   "name": "Dodge",
+   "population": 19925,
+   "state-senate": [
+    {
+     "district": 20,
+     "population": 19925,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 133,
+     "population": 19925,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 19925,
+     "share": 1.0
+    }
+   ]
+  },
+  "093": {
+   "name": "Dooly",
+   "population": 11208,
+   "state-senate": [
+    {
+     "district": 20,
+     "population": 11208,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 150,
+     "population": 11208,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 11208,
+     "share": 1.0
+    }
+   ]
+  },
+  "095": {
+   "name": "Dougherty",
+   "population": 85790,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 85790,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 151,
+     "population": 6268,
+     "share": 0.07306
+    },
+    {
+     "district": 152,
+     "population": 6187,
+     "share": 0.07212
+    },
+    {
+     "district": 153,
+     "population": 59299,
+     "share": 0.69121
+    },
+    {
+     "district": 154,
+     "population": 14036,
+     "share": 0.16361
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 85790,
+     "share": 1.0
+    }
+   ]
+  },
+  "097": {
+   "name": "Douglas",
+   "population": 144237,
+   "state-senate": [
+    {
+     "district": 28,
+     "population": 87159,
+     "share": 0.60428
+    },
+    {
+     "district": 30,
+     "population": 57078,
+     "share": 0.39572
+    }
+   ],
+   "state-house": [
+    {
+     "district": 40,
+     "population": 24323,
+     "share": 0.16863
+    },
+    {
+     "district": 64,
+     "population": 59608,
+     "share": 0.41326
+    },
+    {
+     "district": 66,
+     "population": 60306,
+     "share": 0.4181
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 42970,
+     "share": 0.29791
+    },
+    {
+     "district": 6,
+     "population": 101267,
+     "share": 0.70209
+    }
+   ]
+  },
+  "099": {
+   "name": "Early",
+   "population": 10854,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 10854,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 10854,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 10854,
+     "share": 1.0
+    }
+   ]
+  },
+  "101": {
+   "name": "Echols",
+   "population": 3697,
+   "state-senate": [
+    {
+     "district": 8,
+     "population": 3697,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 174,
+     "population": 3697,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 3697,
+     "share": 1.0
+    }
+   ]
+  },
+  "103": {
+   "name": "Effingham",
+   "population": 64769,
+   "state-senate": [
+    {
+     "district": 4,
+     "population": 64769,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 159,
+     "population": 32941,
+     "share": 0.50859
+    },
+    {
+     "district": 161,
+     "population": 31828,
+     "share": 0.49141
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 47208,
+     "share": 0.72887
+    },
+    {
+     "district": 12,
+     "population": 17561,
+     "share": 0.27113
+    }
+   ]
+  },
+  "105": {
+   "name": "Elbert",
+   "population": 19637,
+   "state-senate": [
+    {
+     "district": 24,
+     "population": 19637,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 123,
+     "population": 19637,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 19637,
+     "share": 1.0
+    }
+   ]
+  },
+  "107": {
+   "name": "Emanuel",
+   "population": 22768,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 22768,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 158,
+     "population": 22768,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 22768,
+     "share": 1.0
+    }
+   ]
+  },
+  "109": {
+   "name": "Evans",
+   "population": 10774,
+   "state-senate": [
+    {
+     "district": 4,
+     "population": 10774,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 157,
+     "population": 10774,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 10774,
+     "share": 1.0
+    }
+   ]
+  },
+  "111": {
+   "name": "Fannin",
+   "population": 25319,
+   "state-senate": [
+    {
+     "district": 51,
+     "population": 25319,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 7,
+     "population": 25319,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 25319,
+     "share": 1.0
+    }
+   ]
+  },
+  "113": {
+   "name": "Fayette",
+   "population": 119194,
+   "state-senate": [
+    {
+     "district": 16,
+     "population": 87134,
+     "share": 0.73103
+    },
+    {
+     "district": 34,
+     "population": 32060,
+     "share": 0.26897
+    }
+   ],
+   "state-house": [
+    {
+     "district": 68,
+     "population": 29719,
+     "share": 0.24933
+    },
+    {
+     "district": 69,
+     "population": 37303,
+     "share": 0.31296
+    },
+    {
+     "district": 73,
+     "population": 28428,
+     "share": 0.2385
+    },
+    {
+     "district": 82,
+     "population": 23744,
+     "share": 0.1992
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 102685,
+     "share": 0.86149
+    },
+    {
+     "district": 6,
+     "population": 16509,
+     "share": 0.13851
+    }
+   ]
+  },
+  "115": {
+   "name": "Floyd",
+   "population": 98584,
+   "state-senate": [
+    {
+     "district": 52,
+     "population": 85090,
+     "share": 0.86312
+    },
+    {
+     "district": 53,
+     "population": 13494,
+     "share": 0.13688
+    }
+   ],
+   "state-house": [
+    {
+     "district": 5,
+     "population": 5099,
+     "share": 0.05172
+    },
+    {
+     "district": 12,
+     "population": 34335,
+     "share": 0.34828
+    },
+    {
+     "district": 13,
+     "population": 59150,
+     "share": 0.6
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 98584,
+     "share": 1.0
+    }
+   ]
+  },
+  "117": {
+   "name": "Forsyth",
+   "population": 251283,
+   "state-senate": [
+    {
+     "district": 27,
+     "population": 190676,
+     "share": 0.75881
+    },
+    {
+     "district": 48,
+     "population": 60607,
+     "share": 0.24119
+    }
+   ],
+   "state-house": [
+    {
+     "district": 11,
+     "population": 19019,
+     "share": 0.07569
+    },
+    {
+     "district": 24,
+     "population": 59011,
+     "share": 0.23484
+    },
+    {
+     "district": 25,
+     "population": 46134,
+     "share": 0.18359
+    },
+    {
+     "district": 26,
+     "population": 59248,
+     "share": 0.23578
+    },
+    {
+     "district": 28,
+     "population": 50864,
+     "share": 0.20242
+    },
+    {
+     "district": 100,
+     "population": 17007,
+     "share": 0.06768
+    }
+   ],
+   "us-house": [
+    {
+     "district": 7,
+     "population": 251283,
+     "share": 1.0
+    }
+   ]
+  },
+  "119": {
+   "name": "Franklin",
+   "population": 23424,
+   "state-senate": [
+    {
+     "district": 50,
+     "population": 23424,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 33,
+     "population": 23424,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 23424,
+     "share": 1.0
+    }
+   ]
+  },
+  "121": {
+   "name": "Fulton",
+   "population": 1066710,
+   "state-senate": [
+    {
+     "district": 14,
+     "population": 192533,
+     "share": 0.18049
+    },
+    {
+     "district": 21,
+     "population": 83538,
+     "share": 0.07831
+    },
+    {
+     "district": 28,
+     "population": 16479,
+     "share": 0.01545
+    },
+    {
+     "district": 35,
+     "population": 79575,
+     "share": 0.0746
+    },
+    {
+     "district": 36,
+     "population": 192282,
+     "share": 0.18026
+    },
+    {
+     "district": 38,
+     "population": 192309,
+     "share": 0.18028
+    },
+    {
+     "district": 39,
+     "population": 192047,
+     "share": 0.18004
+    },
+    {
+     "district": 48,
+     "population": 83219,
+     "share": 0.07801
+    },
+    {
+     "district": 56,
+     "population": 34728,
+     "share": 0.03256
+    }
+   ],
+   "state-house": [
+    {
+     "district": 25,
+     "population": 13280,
+     "share": 0.01245
+    },
+    {
+     "district": 47,
+     "population": 55235,
+     "share": 0.05178
+    },
+    {
+     "district": 48,
+     "population": 43976,
+     "share": 0.04123
+    },
+    {
+     "district": 49,
+     "population": 59153,
+     "share": 0.05545
+    },
+    {
+     "district": 50,
+     "population": 59523,
+     "share": 0.0558
+    },
+    {
+     "district": 51,
+     "population": 58952,
+     "share": 0.05527
+    },
+    {
+     "district": 52,
+     "population": 31511,
+     "share": 0.02954
+    },
+    {
+     "district": 53,
+     "population": 59953,
+     "share": 0.0562
+    },
+    {
+     "district": 54,
+     "population": 60083,
+     "share": 0.05633
+    },
+    {
+     "district": 55,
+     "population": 59115,
+     "share": 0.05542
+    },
+    {
+     "district": 56,
+     "population": 59783,
+     "share": 0.05604
+    },
+    {
+     "district": 57,
+     "population": 58961,
+     "share": 0.05527
+    },
+    {
+     "district": 58,
+     "population": 58788,
+     "share": 0.05511
+    },
+    {
+     "district": 59,
+     "population": 59434,
+     "share": 0.05572
+    },
+    {
+     "district": 60,
+     "population": 50960,
+     "share": 0.04777
+    },
+    {
+     "district": 61,
+     "population": 20051,
+     "share": 0.0188
+    },
+    {
+     "district": 62,
+     "population": 59450,
+     "share": 0.05573
+    },
+    {
+     "district": 63,
+     "population": 59381,
+     "share": 0.05567
+    },
+    {
+     "district": 65,
+     "population": 46121,
+     "share": 0.04324
+    },
+    {
+     "district": 67,
+     "population": 41863,
+     "share": 0.03924
+    },
+    {
+     "district": 68,
+     "population": 29758,
+     "share": 0.0279
+    },
+    {
+     "district": 69,
+     "population": 21379,
+     "share": 0.02004
+    }
+   ],
+   "us-house": [
+    {
+     "district": 5,
+     "population": 362419,
+     "share": 0.33975
+    },
+    {
+     "district": 6,
+     "population": 356405,
+     "share": 0.33412
+    },
+    {
+     "district": 7,
+     "population": 347886,
+     "share": 0.32613
+    }
+   ]
+  },
+  "123": {
+   "name": "Gilmer",
+   "population": 31353,
+   "state-senate": [
+    {
+     "district": 51,
+     "population": 31353,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 7,
+     "population": 31353,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 31353,
+     "share": 1.0
+    }
+   ]
+  },
+  "125": {
+   "name": "Glascock",
+   "population": 2884,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 2884,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 128,
+     "population": 2884,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 2884,
+     "share": 1.0
+    }
+   ]
+  },
+  "127": {
+   "name": "Glynn",
+   "population": 84499,
+   "state-senate": [
+    {
+     "district": 3,
+     "population": 84499,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 167,
+     "population": 20499,
+     "share": 0.24259
+    },
+    {
+     "district": 179,
+     "population": 59356,
+     "share": 0.70245
+    },
+    {
+     "district": 180,
+     "population": 4644,
+     "share": 0.05496
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 84499,
+     "share": 1.0
+    }
+   ]
+  },
+  "129": {
+   "name": "Gordon",
+   "population": 57544,
+   "state-senate": [
+    {
+     "district": 52,
+     "population": 7938,
+     "share": 0.13795
+    },
+    {
+     "district": 54,
+     "population": 49606,
+     "share": 0.86205
+    }
+   ],
+   "state-house": [
+    {
+     "district": 5,
+     "population": 53738,
+     "share": 0.93386
+    },
+    {
+     "district": 6,
+     "population": 3806,
+     "share": 0.06614
+    }
+   ],
+   "us-house": [
+    {
+     "district": 11,
+     "population": 57544,
+     "share": 1.0
+    }
+   ]
+  },
+  "131": {
+   "name": "Grady",
+   "population": 26236,
+   "state-senate": [
+    {
+     "district": 11,
+     "population": 26236,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 171,
+     "population": 8115,
+     "share": 0.30931
+    },
+    {
+     "district": 173,
+     "population": 18121,
+     "share": 0.69069
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 26236,
+     "share": 1.0
+    }
+   ]
+  },
+  "133": {
+   "name": "Greene",
+   "population": 18915,
+   "state-senate": [
+    {
+     "district": 24,
+     "population": 18915,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 124,
+     "population": 18915,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 18915,
+     "share": 1.0
+    }
+   ]
+  },
+  "135": {
+   "name": "Gwinnett",
+   "population": 957062,
+   "state-senate": [
+    {
+     "district": 5,
+     "population": 191921,
+     "share": 0.20053
+    },
+    {
+     "district": 7,
+     "population": 189709,
+     "share": 0.19822
+    },
+    {
+     "district": 9,
+     "population": 192915,
+     "share": 0.20157
+    },
+    {
+     "district": 40,
+     "population": 25547,
+     "share": 0.02669
+    },
+    {
+     "district": 43,
+     "population": 56342,
+     "share": 0.05887
+    },
+    {
+     "district": 45,
+     "population": 151475,
+     "share": 0.15827
+    },
+    {
+     "district": 46,
+     "population": 27298,
+     "share": 0.02852
+    },
+    {
+     "district": 48,
+     "population": 46297,
+     "share": 0.04837
+    },
+    {
+     "district": 55,
+     "population": 75558,
+     "share": 0.07895
+    }
+   ],
+   "state-house": [
+    {
+     "district": 30,
+     "population": 8620,
+     "share": 0.00901
+    },
+    {
+     "district": 48,
+     "population": 15027,
+     "share": 0.0157
+    },
+    {
+     "district": 88,
+     "population": 11845,
+     "share": 0.01238
+    },
+    {
+     "district": 93,
+     "population": 30157,
+     "share": 0.03151
+    },
+    {
+     "district": 94,
+     "population": 35822,
+     "share": 0.03743
+    },
+    {
+     "district": 95,
+     "population": 43647,
+     "share": 0.04561
+    },
+    {
+     "district": 96,
+     "population": 59515,
+     "share": 0.06219
+    },
+    {
+     "district": 97,
+     "population": 59072,
+     "share": 0.06172
+    },
+    {
+     "district": 98,
+     "population": 59998,
+     "share": 0.06269
+    },
+    {
+     "district": 99,
+     "population": 59850,
+     "share": 0.06254
+    },
+    {
+     "district": 100,
+     "population": 35204,
+     "share": 0.03678
+    },
+    {
+     "district": 102,
+     "population": 60038,
+     "share": 0.06273
+    },
+    {
+     "district": 103,
+     "population": 51691,
+     "share": 0.05401
+    },
+    {
+     "district": 104,
+     "population": 35117,
+     "share": 0.03669
+    },
+    {
+     "district": 105,
+     "population": 59395,
+     "share": 0.06206
+    },
+    {
+     "district": 106,
+     "population": 59981,
+     "share": 0.06267
+    },
+    {
+     "district": 107,
+     "population": 60033,
+     "share": 0.06273
+    },
+    {
+     "district": 108,
+     "population": 58942,
+     "share": 0.06159
+    },
+    {
+     "district": 109,
+     "population": 59697,
+     "share": 0.06238
+    },
+    {
+     "district": 110,
+     "population": 60278,
+     "share": 0.06298
+    },
+    {
+     "district": 111,
+     "population": 24686,
+     "share": 0.02579
+    },
+    {
+     "district": 112,
+     "population": 8447,
+     "share": 0.00883
+    }
+   ],
+   "us-house": [
+    {
+     "district": 4,
+     "population": 250972,
+     "share": 0.26223
+    },
+    {
+     "district": 9,
+     "population": 321360,
+     "share": 0.33578
+    },
+    {
+     "district": 10,
+     "population": 26657,
+     "share": 0.02785
+    },
+    {
+     "district": 13,
+     "population": 358073,
+     "share": 0.37414
+    }
+   ]
+  },
+  "137": {
+   "name": "Habersham",
+   "population": 46031,
+   "state-senate": [
+    {
+     "district": 50,
+     "population": 46031,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 10,
+     "population": 42636,
+     "share": 0.92625
+    },
+    {
+     "district": 32,
+     "population": 3395,
+     "share": 0.07375
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 46031,
+     "share": 1.0
+    }
+   ]
+  },
+  "139": {
+   "name": "Hall",
+   "population": 203136,
+   "state-senate": [
+    {
+     "district": 49,
+     "population": 189355,
+     "share": 0.93216
+    },
+    {
+     "district": 50,
+     "population": 13781,
+     "share": 0.06784
+    }
+   ],
+   "state-house": [
+    {
+     "district": 27,
+     "population": 54508,
+     "share": 0.26833
+    },
+    {
+     "district": 28,
+     "population": 8108,
+     "share": 0.03991
+    },
+    {
+     "district": 29,
+     "population": 59200,
+     "share": 0.29143
+    },
+    {
+     "district": 30,
+     "population": 50646,
+     "share": 0.24932
+    },
+    {
+     "district": 31,
+     "population": 14349,
+     "share": 0.07064
+    },
+    {
+     "district": 100,
+     "population": 7819,
+     "share": 0.03849
+    },
+    {
+     "district": 103,
+     "population": 8506,
+     "share": 0.04187
+    }
+   ],
+   "us-house": [
+    {
+     "district": 7,
+     "population": 64801,
+     "share": 0.319
+    },
+    {
+     "district": 9,
+     "population": 138335,
+     "share": 0.681
+    }
+   ]
+  },
+  "141": {
+   "name": "Hancock",
+   "population": 8735,
+   "state-senate": [
+    {
+     "district": 26,
+     "population": 8735,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 128,
+     "population": 8735,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 8735,
+     "share": 1.0
+    }
+   ]
+  },
+  "143": {
+   "name": "Haralson",
+   "population": 29919,
+   "state-senate": [
+    {
+     "district": 30,
+     "population": 29919,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 18,
+     "population": 29919,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 29919,
+     "share": 1.0
+    }
+   ]
+  },
+  "145": {
+   "name": "Harris",
+   "population": 34668,
+   "state-senate": [
+    {
+     "district": 29,
+     "population": 34668,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 138,
+     "population": 21634,
+     "share": 0.62403
+    },
+    {
+     "district": 139,
+     "population": 13034,
+     "share": 0.37597
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 34668,
+     "share": 1.0
+    }
+   ]
+  },
+  "147": {
+   "name": "Hart",
+   "population": 25828,
+   "state-senate": [
+    {
+     "district": 24,
+     "population": 25828,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 33,
+     "population": 25828,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 25828,
+     "share": 1.0
+    }
+   ]
+  },
+  "149": {
+   "name": "Heard",
+   "population": 11412,
+   "state-senate": [
+    {
+     "district": 6,
+     "population": 11412,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 72,
+     "population": 11412,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 11412,
+     "share": 1.0
+    }
+   ]
+  },
+  "151": {
+   "name": "Henry",
+   "population": 240712,
+   "state-senate": [
+    {
+     "district": 10,
+     "population": 49566,
+     "share": 0.20591
+    },
+    {
+     "district": 17,
+     "population": 115647,
+     "share": 0.48044
+    },
+    {
+     "district": 25,
+     "population": 39741,
+     "share": 0.1651
+    },
+    {
+     "district": 42,
+     "population": 35758,
+     "share": 0.14855
+    }
+   ],
+   "state-house": [
+    {
+     "district": 74,
+     "population": 18397,
+     "share": 0.07643
+    },
+    {
+     "district": 78,
+     "population": 41106,
+     "share": 0.17077
+    },
+    {
+     "district": 81,
+     "population": 58919,
+     "share": 0.24477
+    },
+    {
+     "district": 115,
+     "population": 29149,
+     "share": 0.12109
+    },
+    {
+     "district": 116,
+     "population": 33608,
+     "share": 0.13962
+    },
+    {
+     "district": 117,
+     "population": 59533,
+     "share": 0.24732
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 23975,
+     "share": 0.0996
+    },
+    {
+     "district": 10,
+     "population": 118452,
+     "share": 0.49209
+    },
+    {
+     "district": 13,
+     "population": 98285,
+     "share": 0.40831
+    }
+   ]
+  },
+  "153": {
+   "name": "Houston",
+   "population": 163633,
+   "state-senate": [
+    {
+     "district": 18,
+     "population": 42875,
+     "share": 0.26202
+    },
+    {
+     "district": 20,
+     "population": 74275,
+     "share": 0.45391
+    },
+    {
+     "district": 26,
+     "population": 46483,
+     "share": 0.28407
+    }
+   ],
+   "state-house": [
+    {
+     "district": 143,
+     "population": 30063,
+     "share": 0.18372
+    },
+    {
+     "district": 146,
+     "population": 60203,
+     "share": 0.36791
+    },
+    {
+     "district": 147,
+     "population": 57247,
+     "share": 0.34985
+    },
+    {
+     "district": 148,
+     "population": 16120,
+     "share": 0.09851
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 48521,
+     "share": 0.29652
+    },
+    {
+     "district": 8,
+     "population": 115112,
+     "share": 0.70348
+    }
+   ]
+  },
+  "155": {
+   "name": "Irwin",
+   "population": 9666,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 9666,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 169,
+     "population": 9666,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 9666,
+     "share": 1.0
+    }
+   ]
+  },
+  "157": {
+   "name": "Jackson",
+   "population": 75907,
+   "state-senate": [
+    {
+     "district": 47,
+     "population": 56660,
+     "share": 0.74644
+    },
+    {
+     "district": 50,
+     "population": 19247,
+     "share": 0.25356
+    }
+   ],
+   "state-house": [
+    {
+     "district": 31,
+     "population": 45552,
+     "share": 0.6001
+    },
+    {
+     "district": 32,
+     "population": 10931,
+     "share": 0.14401
+    },
+    {
+     "district": 119,
+     "population": 4211,
+     "share": 0.05548
+    },
+    {
+     "district": 120,
+     "population": 15213,
+     "share": 0.20042
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 75907,
+     "share": 1.0
+    }
+   ]
+  },
+  "159": {
+   "name": "Jasper",
+   "population": 14588,
+   "state-senate": [
+    {
+     "district": 25,
+     "population": 14588,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 144,
+     "population": 14588,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 14588,
+     "share": 1.0
+    }
+   ]
+  },
+  "161": {
+   "name": "Jeff Davis",
+   "population": 14779,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 14779,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 157,
+     "population": 14779,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 14779,
+     "share": 1.0
+    }
+   ]
+  },
+  "163": {
+   "name": "Jefferson",
+   "population": 15709,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 15709,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 132,
+     "population": 15709,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 15709,
+     "share": 1.0
+    }
+   ]
+  },
+  "165": {
+   "name": "Jenkins",
+   "population": 8674,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 8674,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 126,
+     "population": 8674,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 8674,
+     "share": 1.0
+    }
+   ]
+  },
+  "167": {
+   "name": "Johnson",
+   "population": 9189,
+   "state-senate": [
+    {
+     "district": 26,
+     "population": 9189,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 155,
+     "population": 9189,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 9189,
+     "share": 1.0
+    }
+   ]
+  },
+  "169": {
+   "name": "Jones",
+   "population": 28347,
+   "state-senate": [
+    {
+     "district": 25,
+     "population": 28347,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 144,
+     "population": 20561,
+     "share": 0.72533
+    },
+    {
+     "district": 149,
+     "population": 7786,
+     "share": 0.27467
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 28347,
+     "share": 1.0
+    }
+   ]
+  },
+  "171": {
+   "name": "Lamar",
+   "population": 18500,
+   "state-senate": [
+    {
+     "district": 16,
+     "population": 18500,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 134,
+     "population": 8780,
+     "share": 0.47459
+    },
+    {
+     "district": 135,
+     "population": 9720,
+     "share": 0.52541
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 18500,
+     "share": 1.0
+    }
+   ]
+  },
+  "173": {
+   "name": "Lanier",
+   "population": 9877,
+   "state-senate": [
+    {
+     "district": 8,
+     "population": 9877,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 176,
+     "population": 9877,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 9877,
+     "share": 1.0
+    }
+   ]
+  },
+  "175": {
+   "name": "Laurens",
+   "population": 49570,
+   "state-senate": [
+    {
+     "district": 20,
+     "population": 49570,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 155,
+     "population": 49570,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 49570,
+     "share": 1.0
+    }
+   ]
+  },
+  "177": {
+   "name": "Lee",
+   "population": 33163,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 33163,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 152,
+     "population": 33163,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 33163,
+     "share": 1.0
+    }
+   ]
+  },
+  "179": {
+   "name": "Liberty",
+   "population": 65256,
+   "state-senate": [
+    {
+     "district": 1,
+     "population": 65256,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 167,
+     "population": 5109,
+     "share": 0.07829
+    },
+    {
+     "district": 168,
+     "population": 60147,
+     "share": 0.92171
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 65256,
+     "share": 1.0
+    }
+   ]
+  },
+  "181": {
+   "name": "Lincoln",
+   "population": 7690,
+   "state-senate": [
+    {
+     "district": 24,
+     "population": 7690,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 123,
+     "population": 7690,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 7690,
+     "share": 1.0
+    }
+   ]
+  },
+  "183": {
+   "name": "Long",
+   "population": 16168,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 16168,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 167,
+     "population": 16168,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 16168,
+     "share": 1.0
+    }
+   ]
+  },
+  "185": {
+   "name": "Lowndes",
+   "population": 118251,
+   "state-senate": [
+    {
+     "district": 8,
+     "population": 118251,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 174,
+     "population": 9770,
+     "share": 0.08262
+    },
+    {
+     "district": 175,
+     "population": 43692,
+     "share": 0.36949
+    },
+    {
+     "district": 176,
+     "population": 4797,
+     "share": 0.04057
+    },
+    {
+     "district": 177,
+     "population": 59992,
+     "share": 0.50733
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 118251,
+     "share": 1.0
+    }
+   ]
+  },
+  "187": {
+   "name": "Lumpkin",
+   "population": 33488,
+   "state-senate": [
+    {
+     "district": 51,
+     "population": 33488,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 9,
+     "population": 29201,
+     "share": 0.87198
+    },
+    {
+     "district": 27,
+     "population": 4287,
+     "share": 0.12802
+    }
+   ],
+   "us-house": [
+    {
+     "district": 7,
+     "population": 33488,
+     "share": 1.0
+    }
+   ]
+  },
+  "189": {
+   "name": "McDuffie",
+   "population": 21632,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 21632,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 125,
+     "population": 4748,
+     "share": 0.21949
+    },
+    {
+     "district": 128,
+     "population": 16884,
+     "share": 0.78051
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 21632,
+     "share": 1.0
+    }
+   ]
+  },
+  "191": {
+   "name": "McIntosh",
+   "population": 10975,
+   "state-senate": [
+    {
+     "district": 3,
+     "population": 10975,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 167,
+     "population": 10975,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 10975,
+     "share": 1.0
+    }
+   ]
+  },
+  "193": {
+   "name": "Macon",
+   "population": 12082,
+   "state-senate": [
+    {
+     "district": 15,
+     "population": 12082,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 150,
+     "population": 12082,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 12082,
+     "share": 1.0
+    }
+   ]
+  },
+  "195": {
+   "name": "Madison",
+   "population": 30120,
+   "state-senate": [
+    {
+     "district": 47,
+     "population": 30120,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 33,
+     "population": 9935,
+     "share": 0.32985
+    },
+    {
+     "district": 123,
+     "population": 20185,
+     "share": 0.67015
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 30120,
+     "share": 1.0
+    }
+   ]
+  },
+  "197": {
+   "name": "Marion",
+   "population": 7498,
+   "state-senate": [
+    {
+     "district": 15,
+     "population": 7498,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 151,
+     "population": 7498,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 7498,
+     "share": 1.0
+    }
+   ]
+  },
+  "199": {
+   "name": "Meriwether",
+   "population": 20613,
+   "state-senate": [
+    {
+     "district": 29,
+     "population": 20613,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 136,
+     "population": 13382,
+     "share": 0.6492
+    },
+    {
+     "district": 137,
+     "population": 7231,
+     "share": 0.3508
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 20613,
+     "share": 1.0
+    }
+   ]
+  },
+  "201": {
+   "name": "Miller",
+   "population": 6000,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 6000,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 6000,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 6000,
+     "share": 1.0
+    }
+   ]
+  },
+  "205": {
+   "name": "Mitchell",
+   "population": 21755,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 21755,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 171,
+     "population": 21755,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 21755,
+     "share": 1.0
+    }
+   ]
+  },
+  "207": {
+   "name": "Monroe",
+   "population": 27957,
+   "state-senate": [
+    {
+     "district": 18,
+     "population": 27957,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 118,
+     "population": 10962,
+     "share": 0.3921
+    },
+    {
+     "district": 144,
+     "population": 2927,
+     "share": 0.1047
+    },
+    {
+     "district": 145,
+     "population": 14068,
+     "share": 0.5032
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 27957,
+     "share": 1.0
+    }
+   ]
+  },
+  "209": {
+   "name": "Montgomery",
+   "population": 8610,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 8610,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 156,
+     "population": 8610,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 8610,
+     "share": 1.0
+    }
+   ]
+  },
+  "211": {
+   "name": "Morgan",
+   "population": 20097,
+   "state-senate": [
+    {
+     "district": 42,
+     "population": 20097,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 114,
+     "population": 20097,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 20097,
+     "share": 1.0
+    }
+   ]
+  },
+  "213": {
+   "name": "Murray",
+   "population": 39973,
+   "state-senate": [
+    {
+     "district": 54,
+     "population": 39973,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 6,
+     "population": 39973,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 39973,
+     "share": 1.0
+    }
+   ]
+  },
+  "215": {
+   "name": "Muscogee",
+   "population": 206922,
+   "state-senate": [
+    {
+     "district": 15,
+     "population": 142205,
+     "share": 0.68724
+    },
+    {
+     "district": 29,
+     "population": 64717,
+     "share": 0.31276
+    }
+   ],
+   "state-house": [
+    {
+     "district": 137,
+     "population": 30443,
+     "share": 0.14712
+    },
+    {
+     "district": 138,
+     "population": 12190,
+     "share": 0.05891
+    },
+    {
+     "district": 139,
+     "population": 45976,
+     "share": 0.22219
+    },
+    {
+     "district": 140,
+     "population": 59294,
+     "share": 0.28655
+    },
+    {
+     "district": 141,
+     "population": 59019,
+     "share": 0.28522
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 175155,
+     "share": 0.84648
+    },
+    {
+     "district": 3,
+     "population": 31767,
+     "share": 0.15352
+    }
+   ]
+  },
+  "217": {
+   "name": "Newton",
+   "population": 112483,
+   "state-senate": [
+    {
+     "district": 42,
+     "population": 90612,
+     "share": 0.80556
+    },
+    {
+     "district": 43,
+     "population": 21871,
+     "share": 0.19444
+    }
+   ],
+   "state-house": [
+    {
+     "district": 113,
+     "population": 59413,
+     "share": 0.5282
+    },
+    {
+     "district": 114,
+     "population": 29565,
+     "share": 0.26284
+    },
+    {
+     "district": 118,
+     "population": 23505,
+     "share": 0.20896
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 42369,
+     "share": 0.37667
+    },
+    {
+     "district": 13,
+     "population": 70114,
+     "share": 0.62333
+    }
+   ]
+  },
+  "219": {
+   "name": "Oconee",
+   "population": 41799,
+   "state-senate": [
+    {
+     "district": 46,
+     "population": 41799,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 120,
+     "population": 9150,
+     "share": 0.2189
+    },
+    {
+     "district": 121,
+     "population": 32649,
+     "share": 0.7811
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 41799,
+     "share": 1.0
+    }
+   ]
+  },
+  "221": {
+   "name": "Oglethorpe",
+   "population": 14825,
+   "state-senate": [
+    {
+     "district": 24,
+     "population": 14825,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 124,
+     "population": 14825,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 14825,
+     "share": 1.0
+    }
+   ]
+  },
+  "223": {
+   "name": "Paulding",
+   "population": 168661,
+   "state-senate": [
+    {
+     "district": 30,
+     "population": 18954,
+     "share": 0.11238
+    },
+    {
+     "district": 31,
+     "population": 149707,
+     "share": 0.88762
+    }
+   ],
+   "state-house": [
+    {
+     "district": 16,
+     "population": 16549,
+     "share": 0.09812
+    },
+    {
+     "district": 17,
+     "population": 59120,
+     "share": 0.35053
+    },
+    {
+     "district": 18,
+     "population": 10627,
+     "share": 0.06301
+    },
+    {
+     "district": 19,
+     "population": 46504,
+     "share": 0.27572
+    },
+    {
+     "district": 40,
+     "population": 35861,
+     "share": 0.21262
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 168661,
+     "share": 1.0
+    }
+   ]
+  },
+  "225": {
+   "name": "Peach",
+   "population": 27981,
+   "state-senate": [
+    {
+     "district": 18,
+     "population": 27981,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 134,
+     "population": 10965,
+     "share": 0.39187
+    },
+    {
+     "district": 147,
+     "population": 3128,
+     "share": 0.11179
+    },
+    {
+     "district": 150,
+     "population": 13888,
+     "share": 0.49634
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 27981,
+     "share": 1.0
+    }
+   ]
+  },
+  "227": {
+   "name": "Pickens",
+   "population": 33216,
+   "state-senate": [
+    {
+     "district": 51,
+     "population": 33216,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 11,
+     "population": 33216,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 11,
+     "population": 33216,
+     "share": 1.0
+    }
+   ]
+  },
+  "229": {
+   "name": "Pierce",
+   "population": 19716,
+   "state-senate": [
+    {
+     "district": 8,
+     "population": 19716,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 178,
+     "population": 19716,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 19716,
+     "share": 1.0
+    }
+   ]
+  },
+  "231": {
+   "name": "Pike",
+   "population": 18889,
+   "state-senate": [
+    {
+     "district": 16,
+     "population": 18889,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 135,
+     "population": 18889,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 18889,
+     "share": 1.0
+    }
+   ]
+  },
+  "233": {
+   "name": "Polk",
+   "population": 42853,
+   "state-senate": [
+    {
+     "district": 31,
+     "population": 42853,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 16,
+     "population": 42853,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 42853,
+     "share": 1.0
+    }
+   ]
+  },
+  "235": {
+   "name": "Pulaski",
+   "population": 9855,
+   "state-senate": [
+    {
+     "district": 20,
+     "population": 9855,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 148,
+     "population": 9855,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 9855,
+     "share": 1.0
+    }
+   ]
+  },
+  "237": {
+   "name": "Putnam",
+   "population": 22047,
+   "state-senate": [
+    {
+     "district": 25,
+     "population": 22047,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 124,
+     "population": 11456,
+     "share": 0.51962
+    },
+    {
+     "district": 144,
+     "population": 10591,
+     "share": 0.48038
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 22047,
+     "share": 1.0
+    }
+   ]
+  },
+  "239": {
+   "name": "Quitman",
+   "population": 2235,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 2235,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 2235,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 2235,
+     "share": 1.0
+    }
+   ]
+  },
+  "241": {
+   "name": "Rabun",
+   "population": 16883,
+   "state-senate": [
+    {
+     "district": 50,
+     "population": 16883,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 10,
+     "population": 16883,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 16883,
+     "share": 1.0
+    }
+   ]
+  },
+  "243": {
+   "name": "Randolph",
+   "population": 6425,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 6425,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 6425,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 6425,
+     "share": 1.0
+    }
+   ]
+  },
+  "245": {
+   "name": "Richmond",
+   "population": 206607,
+   "state-senate": [
+    {
+     "district": 22,
+     "population": 193163,
+     "share": 0.93493
+    },
+    {
+     "district": 23,
+     "population": 13444,
+     "share": 0.06507
+    }
+   ],
+   "state-house": [
+    {
+     "district": 126,
+     "population": 25990,
+     "share": 0.12579
+    },
+    {
+     "district": 127,
+     "population": 19152,
+     "share": 0.0927
+    },
+    {
+     "district": 129,
+     "population": 58829,
+     "share": 0.28474
+    },
+    {
+     "district": 130,
+     "population": 59203,
+     "share": 0.28655
+    },
+    {
+     "district": 132,
+     "population": 43433,
+     "share": 0.21022
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 206607,
+     "share": 1.0
+    }
+   ]
+  },
+  "247": {
+   "name": "Rockdale",
+   "population": 93570,
+   "state-senate": [
+    {
+     "district": 43,
+     "population": 93570,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 91,
+     "population": 24364,
+     "share": 0.26038
+    },
+    {
+     "district": 92,
+     "population": 60150,
+     "share": 0.64283
+    },
+    {
+     "district": 93,
+     "population": 9056,
+     "share": 0.09678
+    }
+   ],
+   "us-house": [
+    {
+     "district": 13,
+     "population": 93570,
+     "share": 1.0
+    }
+   ]
+  },
+  "249": {
+   "name": "Schley",
+   "population": 4547,
+   "state-senate": [
+    {
+     "district": 15,
+     "population": 4547,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 151,
+     "population": 4547,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 4547,
+     "share": 1.0
+    }
+   ]
+  },
+  "251": {
+   "name": "Screven",
+   "population": 14067,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 14067,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 159,
+     "population": 14067,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 14067,
+     "share": 1.0
+    }
+   ]
+  },
+  "253": {
+   "name": "Seminole",
+   "population": 9147,
+   "state-senate": [
+    {
+     "district": 11,
+     "population": 9147,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 154,
+     "population": 9147,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 9147,
+     "share": 1.0
+    }
+   ]
+  },
+  "255": {
+   "name": "Spalding",
+   "population": 67306,
+   "state-senate": [
+    {
+     "district": 16,
+     "population": 67306,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 82,
+     "population": 36045,
+     "share": 0.53554
+    },
+    {
+     "district": 135,
+     "population": 31261,
+     "share": 0.46446
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 67306,
+     "share": 1.0
+    }
+   ]
+  },
+  "257": {
+   "name": "Stephens",
+   "population": 26784,
+   "state-senate": [
+    {
+     "district": 50,
+     "population": 26784,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 32,
+     "population": 26784,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 26784,
+     "share": 1.0
+    }
+   ]
+  },
+  "259": {
+   "name": "Stewart",
+   "population": 5314,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 5314,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 151,
+     "population": 5314,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 5314,
+     "share": 1.0
+    }
+   ]
+  },
+  "261": {
+   "name": "Sumter",
+   "population": 29616,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 29616,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 150,
+     "population": 14282,
+     "share": 0.48224
+    },
+    {
+     "district": 151,
+     "population": 15334,
+     "share": 0.51776
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 29616,
+     "share": 1.0
+    }
+   ]
+  },
+  "263": {
+   "name": "Talbot",
+   "population": 5733,
+   "state-senate": [
+    {
+     "district": 15,
+     "population": 5733,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 137,
+     "population": 5733,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 5733,
+     "share": 1.0
+    }
+   ]
+  },
+  "265": {
+   "name": "Taliaferro",
+   "population": 1559,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 1559,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 124,
+     "population": 1559,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 1559,
+     "share": 1.0
+    }
+   ]
+  },
+  "267": {
+   "name": "Tattnall",
+   "population": 22842,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 22842,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 156,
+     "population": 1263,
+     "share": 0.05529
+    },
+    {
+     "district": 157,
+     "population": 21579,
+     "share": 0.94471
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 22842,
+     "share": 1.0
+    }
+   ]
+  },
+  "269": {
+   "name": "Taylor",
+   "population": 7816,
+   "state-senate": [
+    {
+     "district": 15,
+     "population": 7816,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 150,
+     "population": 7816,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 7816,
+     "share": 1.0
+    }
+   ]
+  },
+  "271": {
+   "name": "Telfair",
+   "population": 12477,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 12477,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 133,
+     "population": 9486,
+     "share": 0.76028
+    },
+    {
+     "district": 156,
+     "population": 2991,
+     "share": 0.23972
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 12477,
+     "share": 1.0
+    }
+   ]
+  },
+  "273": {
+   "name": "Terrell",
+   "population": 9185,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 9185,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 151,
+     "population": 9185,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 9185,
+     "share": 1.0
+    }
+   ]
+  },
+  "275": {
+   "name": "Thomas",
+   "population": 45798,
+   "state-senate": [
+    {
+     "district": 11,
+     "population": 45798,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 172,
+     "population": 4176,
+     "share": 0.09118
+    },
+    {
+     "district": 173,
+     "population": 41622,
+     "share": 0.90882
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 45798,
+     "share": 1.0
+    }
+   ]
+  },
+  "277": {
+   "name": "Tift",
+   "population": 41344,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 41344,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 169,
+     "population": 6730,
+     "share": 0.16278
+    },
+    {
+     "district": 170,
+     "population": 34614,
+     "share": 0.83722
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 41344,
+     "share": 1.0
+    }
+   ]
+  },
+  "279": {
+   "name": "Toombs",
+   "population": 27030,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 27030,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 156,
+     "population": 27030,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 27030,
+     "share": 1.0
+    }
+   ]
+  },
+  "281": {
+   "name": "Towns",
+   "population": 12493,
+   "state-senate": [
+    {
+     "district": 50,
+     "population": 12493,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 8,
+     "population": 12493,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 12493,
+     "share": 1.0
+    }
+   ]
+  },
+  "283": {
+   "name": "Treutlen",
+   "population": 6406,
+   "state-senate": [
+    {
+     "district": 20,
+     "population": 6406,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 158,
+     "population": 6406,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 6406,
+     "share": 1.0
+    }
+   ]
+  },
+  "285": {
+   "name": "Troup",
+   "population": 69426,
+   "state-senate": [
+    {
+     "district": 29,
+     "population": 69426,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 72,
+     "population": 10281,
+     "share": 0.14809
+    },
+    {
+     "district": 136,
+     "population": 17913,
+     "share": 0.25802
+    },
+    {
+     "district": 137,
+     "population": 16144,
+     "share": 0.23254
+    },
+    {
+     "district": 138,
+     "population": 25088,
+     "share": 0.36136
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 69426,
+     "share": 1.0
+    }
+   ]
+  },
+  "287": {
+   "name": "Turner",
+   "population": 9006,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 9006,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 169,
+     "population": 9006,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 9006,
+     "share": 1.0
+    }
+   ]
+  },
+  "289": {
+   "name": "Twiggs",
+   "population": 8022,
+   "state-senate": [
+    {
+     "district": 26,
+     "population": 8022,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 133,
+     "population": 8022,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 8022,
+     "share": 1.0
+    }
+   ]
+  },
+  "291": {
+   "name": "Union",
+   "population": 24632,
+   "state-senate": [
+    {
+     "district": 51,
+     "population": 24632,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 8,
+     "population": 24632,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 24632,
+     "share": 1.0
+    }
+   ]
+  },
+  "293": {
+   "name": "Upson",
+   "population": 27700,
+   "state-senate": [
+    {
+     "district": 18,
+     "population": 27700,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 134,
+     "population": 27700,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 3,
+     "population": 27700,
+     "share": 1.0
+    }
+   ]
+  },
+  "295": {
+   "name": "Walker",
+   "population": 67654,
+   "state-senate": [
+    {
+     "district": 53,
+     "population": 67654,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 1,
+     "population": 43415,
+     "share": 0.64172
+    },
+    {
+     "district": 2,
+     "population": 24239,
+     "share": 0.35828
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 67654,
+     "share": 1.0
+    }
+   ]
+  },
+  "297": {
+   "name": "Walton",
+   "population": 96673,
+   "state-senate": [
+    {
+     "district": 42,
+     "population": 44590,
+     "share": 0.46125
+    },
+    {
+     "district": 46,
+     "population": 52083,
+     "share": 0.53875
+    }
+   ],
+   "state-house": [
+    {
+     "district": 111,
+     "population": 35214,
+     "share": 0.36426
+    },
+    {
+     "district": 112,
+     "population": 51720,
+     "share": 0.535
+    },
+    {
+     "district": 114,
+     "population": 9739,
+     "share": 0.10074
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 96673,
+     "share": 1.0
+    }
+   ]
+  },
+  "299": {
+   "name": "Ware",
+   "population": 36251,
+   "state-senate": [
+    {
+     "district": 3,
+     "population": 10431,
+     "share": 0.28774
+    },
+    {
+     "district": 8,
+     "population": 25820,
+     "share": 0.71226
+    }
+   ],
+   "state-house": [
+    {
+     "district": 174,
+     "population": 9097,
+     "share": 0.25094
+    },
+    {
+     "district": 176,
+     "population": 27154,
+     "share": 0.74906
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 36251,
+     "share": 1.0
+    }
+   ]
+  },
+  "301": {
+   "name": "Warren",
+   "population": 5215,
+   "state-senate": [
+    {
+     "district": 23,
+     "population": 5215,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 128,
+     "population": 5215,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 5215,
+     "share": 1.0
+    }
+   ]
+  },
+  "303": {
+   "name": "Washington",
+   "population": 19988,
+   "state-senate": [
+    {
+     "district": 26,
+     "population": 19988,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 128,
+     "population": 19988,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 19988,
+     "share": 1.0
+    }
+   ]
+  },
+  "305": {
+   "name": "Wayne",
+   "population": 30144,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 30144,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 167,
+     "population": 6742,
+     "share": 0.22366
+    },
+    {
+     "district": 178,
+     "population": 23402,
+     "share": 0.77634
+    }
+   ],
+   "us-house": [
+    {
+     "district": 1,
+     "population": 30144,
+     "share": 1.0
+    }
+   ]
+  },
+  "307": {
+   "name": "Webster",
+   "population": 2348,
+   "state-senate": [
+    {
+     "district": 12,
+     "population": 2348,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 151,
+     "population": 2348,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 2,
+     "population": 2348,
+     "share": 1.0
+    }
+   ]
+  },
+  "309": {
+   "name": "Wheeler",
+   "population": 7471,
+   "state-senate": [
+    {
+     "district": 19,
+     "population": 7471,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 156,
+     "population": 7471,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 12,
+     "population": 7471,
+     "share": 1.0
+    }
+   ]
+  },
+  "311": {
+   "name": "White",
+   "population": 28003,
+   "state-senate": [
+    {
+     "district": 50,
+     "population": 12642,
+     "share": 0.45145
+    },
+    {
+     "district": 51,
+     "population": 15361,
+     "share": 0.54855
+    }
+   ],
+   "state-house": [
+    {
+     "district": 8,
+     "population": 22119,
+     "share": 0.78988
+    },
+    {
+     "district": 9,
+     "population": 5884,
+     "share": 0.21012
+    }
+   ],
+   "us-house": [
+    {
+     "district": 9,
+     "population": 28003,
+     "share": 1.0
+    }
+   ]
+  },
+  "313": {
+   "name": "Whitfield",
+   "population": 102864,
+   "state-senate": [
+    {
+     "district": 54,
+     "population": 102864,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 2,
+     "population": 27861,
+     "share": 0.27085
+    },
+    {
+     "district": 4,
+     "population": 59070,
+     "share": 0.57425
+    },
+    {
+     "district": 6,
+     "population": 15933,
+     "share": 0.15489
+    }
+   ],
+   "us-house": [
+    {
+     "district": 14,
+     "population": 102864,
+     "share": 1.0
+    }
+   ]
+  },
+  "315": {
+   "name": "Wilcox",
+   "population": 8766,
+   "state-senate": [
+    {
+     "district": 20,
+     "population": 8766,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 148,
+     "population": 8766,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 8766,
+     "share": 1.0
+    }
+   ]
+  },
+  "317": {
+   "name": "Wilkes",
+   "population": 9565,
+   "state-senate": [
+    {
+     "district": 24,
+     "population": 9565,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 123,
+     "population": 9565,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 10,
+     "population": 1802,
+     "share": 0.1884
+    },
+    {
+     "district": 12,
+     "population": 7763,
+     "share": 0.8116
+    }
+   ]
+  },
+  "319": {
+   "name": "Wilkinson",
+   "population": 8877,
+   "state-senate": [
+    {
+     "district": 26,
+     "population": 8877,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 133,
+     "population": 8877,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 8877,
+     "share": 1.0
+    }
+   ]
+  },
+  "321": {
+   "name": "Worth",
+   "population": 20784,
+   "state-senate": [
+    {
+     "district": 13,
+     "population": 20784,
+     "share": 1.0
+    }
+   ],
+   "state-house": [
+    {
+     "district": 152,
+     "population": 20784,
+     "share": 1.0
+    }
+   ],
+   "us-house": [
+    {
+     "district": 8,
+     "population": 20784,
+     "share": 1.0
+    }
+   ]
+  }
+ }
+}
