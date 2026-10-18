@@ -1,1 +1,42 @@
 # ga-district-information
+
+Crosswalks from Georgia ZIP codes, counties and census tracts to the state Senate, state House and U.S. House districts they fall in, maintained by [VoteGA.org](https://votega.org). They exist so that the next person who needs "which districts touch this place?" doesn't have to rebuild the join.
+
+Files are generated and published automatically from the [votega.org](https://github.com/Votega/votega.org) repository. Please don't edit them by hand.
+
+## Read this before you use it
+
+- **A ZIP code is not a district.** The ZIP table lists every district that *touches* a ZIP, because a ZIP can span several. Only a street address identifies the districts a voter lives in. Please keep that distinction in anything you build on it.
+- **Nothing is cut off.** Every district with residents in a ZIP is listed, ranked by estimated share of the ZIP's residents, largest first. A small share is information, not a reason to drop the row: someone living in a ZIP's smallest sliver still votes in that district.
+- **ZIP shares are estimates.** They combine HUD's residential-address counts with 2020 Census population by district, so treat them as an indication of which district is likelier, never as a certainty about a person.
+- **PO-box ZIPs carry no districts.** A PO-box-only ZIP says nothing about where someone lives, so it is listed with `kind: "po-box"` and no districts.
+
+## Files
+
+Each dataset comes as JSON, CSV and a JSON Schema. The CSVs are flattened views of the JSON, one row per place and district.
+
+| Dataset | Files | What it is |
+|---|---|---|
+| ZIP codes | `data/zips.json` · `data/zip-districts.csv` · `data/zip-counties.csv` · `data/zips.schema.json` | For each Georgia ZIP: the counties and the state Senate, state House and U.S. House districts it touches, each ranked by estimated share of the ZIP's residents. |
+| Counties | `data/counties.json` · `data/county-districts.csv` · `data/counties.schema.json` | For each county: its 2020 population in each district, and the share of the county that is. |
+| Census tracts | `data/tracts.json` · `data/tract-districts.csv` · `data/tracts.schema.json` | For each tract: its 2020 population in each district. This is what the other two are built from; use it to build crosswalks for your own geography. |
+
+Field definitions are in the schema files. `metadata` in each JSON file records the sources, the district plans, the Census vintage and, for ZIPs, the HUD release it was built from.
+
+## How it is made
+
+- **Counties and tracts** come from the Georgia General Assembly's Office of Legislative and Congressional Reapportionment block-equivalency files for the current state Senate, state House and congressional plans, joined to the Census Bureau's 2020 block populations. They are built only when the result matches the Office's own published county reports and district totals exactly.
+- **ZIP codes** combine HUD's ZIP-to-tract residential-address ratios (from the HUD-USPS ZIP Code Crosswalk) with the tract table above. USPS data identifies which ZIPs are real Georgia delivery ZIPs and which are PO-box only. County shares come from HUD directly.
+- Districts are those of the plans named in `metadata`. If Georgia redraws its maps, the county and tract tables are rebuilt and the ZIP table follows.
+
+## Updates
+
+The ZIP table is checked monthly and changes when HUD publishes a new release. The county and tract tables change only when the district plans or the Census vintage change. If a refresh fails, the files are left as they were.
+
+## Reporting corrections
+
+Please open an issue here with the ZIP, county or tract and what looks wrong. Corrections are made in the generating code at VoteGA.org, not in these files.
+
+## License
+
+[CC-BY-SA 4.0](https://github.com/Votega/ga-district-information?tab=CC-BY-SA-4.0-1-ov-file). See `NOTICE.md` for the attribution to use and for the upstream sources.
