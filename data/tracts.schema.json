@@ -1,0 +1,60 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-district-information/main/data/tracts.schema.json",
+ "title": "Georgia census tracts and the districts they are split across",
+ "type": "object",
+ "required": [
+  "metadata",
+  "counties",
+  "tracts"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object"
+  },
+  "counties": {
+   "type": "object",
+   "description": "3-digit county FIPS -> name"
+  },
+  "tracts": {
+   "type": "object",
+   "description": "Keyed by 11-digit tract GEOID.",
+   "additionalProperties": {
+    "type": "object",
+    "properties": {
+     "p": {
+      "type": "integer",
+      "description": "2020 tract population"
+     },
+     "s": {
+      "type": "object",
+      "additionalProperties": {
+       "type": "integer"
+      },
+      "description": "district number (zero-padded string) -> tract population in that district"
+     },
+     "h": {
+      "type": "object",
+      "additionalProperties": {
+       "type": "integer"
+      },
+      "description": "district number (zero-padded string) -> tract population in that district"
+     },
+     "c": {
+      "type": "object",
+      "additionalProperties": {
+       "type": "integer"
+      },
+      "description": "district number (zero-padded string) -> tract population in that district"
+     }
+    },
+    "required": [
+     "p",
+     "s",
+     "h",
+     "c"
+    ]
+   }
+  }
+ }
+}
