@@ -1,0 +1,114 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-district-information/main/data/counties.schema.json",
+ "title": "Georgia counties and the districts they contain",
+ "type": "object",
+ "required": [
+  "metadata",
+  "counties"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object"
+  },
+  "counties": {
+   "type": "object",
+   "description": "Keyed by 3-digit county FIPS.",
+   "additionalProperties": {
+    "type": "object",
+    "properties": {
+     "name": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "population": {
+      "type": "integer"
+     },
+     "state-senate": {
+      "type": "array",
+      "description": "2020 population of the county in each state-senate district.",
+      "items": {
+       "type": "object",
+       "properties": {
+        "district": {
+         "type": "integer"
+        },
+        "population": {
+         "type": "integer"
+        },
+        "share": {
+         "type": [
+          "number",
+          "null"
+         ]
+        }
+       },
+       "required": [
+        "district",
+        "population"
+       ]
+      }
+     },
+     "state-house": {
+      "type": "array",
+      "description": "2020 population of the county in each state-house district.",
+      "items": {
+       "type": "object",
+       "properties": {
+        "district": {
+         "type": "integer"
+        },
+        "population": {
+         "type": "integer"
+        },
+        "share": {
+         "type": [
+          "number",
+          "null"
+         ]
+        }
+       },
+       "required": [
+        "district",
+        "population"
+       ]
+      }
+     },
+     "us-house": {
+      "type": "array",
+      "description": "2020 population of the county in each us-house district.",
+      "items": {
+       "type": "object",
+       "properties": {
+        "district": {
+         "type": "integer"
+        },
+        "population": {
+         "type": "integer"
+        },
+        "share": {
+         "type": [
+          "number",
+          "null"
+         ]
+        }
+       },
+       "required": [
+        "district",
+        "population"
+       ]
+      }
+     }
+    },
+    "required": [
+     "population",
+     "state-senate",
+     "state-house",
+     "us-house"
+    ]
+   }
+  }
+ }
+}

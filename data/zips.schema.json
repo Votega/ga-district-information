@@ -1,0 +1,134 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-district-information/main/data/zips.schema.json",
+ "title": "Georgia ZIP codes and the districts they touch",
+ "description": "Per ZIP, the counties and districts that TOUCH it, never 'your district': a ZIP can span several, and only a street address identifies the districts a voter lives in. State Senate, state House and U.S. House shares are estimated from HUD residential-address ratios and 2020 Census population by 2023 district.",
+ "type": "object",
+ "required": [
+  "metadata",
+  "zips"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object"
+  },
+  "zips": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "object",
+    "required": [
+     "kind"
+    ],
+    "properties": {
+     "city": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "Display label from HUD."
+     },
+     "kind": {
+      "enum": [
+       "standard",
+       "po-box",
+       "other"
+      ],
+      "description": "standard = a USPS Georgia delivery ZIP; po-box = PO-box-only, carries no districts; other = HUD reports addresses but the ZIP is not in the USPS Georgia facility list (campus, government, military); treat like standard."
+     },
+     "counties": {
+      "type": [
+       "array",
+       "null"
+      ],
+      "items": {
+       "type": "object",
+       "properties": {
+        "fips": {
+         "type": "string"
+        },
+        "name": {
+         "type": [
+          "string",
+          "null"
+         ]
+        },
+        "share": {
+         "type": "number"
+        }
+       }
+      }
+     },
+     "stateSenate": {
+      "type": [
+       "array",
+       "null"
+      ],
+      "items": {
+       "type": "object",
+       "properties": {
+        "district": {
+         "type": "integer"
+        },
+        "share": {
+         "type": "number",
+         "description": "Estimated share of the ZIP's residents, 0-1."
+        }
+       },
+       "required": [
+        "district",
+        "share"
+       ]
+      },
+      "description": "Ranked largest share first. EVERY district with residents is listed."
+     },
+     "stateHouse": {
+      "type": [
+       "array",
+       "null"
+      ],
+      "items": {
+       "type": "object",
+       "properties": {
+        "district": {
+         "type": "integer"
+        },
+        "share": {
+         "type": "number",
+         "description": "Estimated share of the ZIP's residents, 0-1."
+        }
+       },
+       "required": [
+        "district",
+        "share"
+       ]
+      },
+      "description": "Ranked largest share first. EVERY district with residents is listed."
+     },
+     "usHouse": {
+      "type": [
+       "array",
+       "null"
+      ],
+      "items": {
+       "type": "object",
+       "properties": {
+        "district": {
+         "type": "integer"
+        },
+        "share": {
+         "type": "number",
+         "description": "Estimated share of the ZIP's residents, 0-1."
+        }
+       },
+       "required": [
+        "district",
+        "share"
+       ]
+      },
+      "description": "Ranked largest share first. EVERY district with residents is listed."
+     }
+    }
+   }
+  }
+ }
+}
