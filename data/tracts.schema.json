@@ -14,7 +14,7 @@
   },
   "counties": {
    "type": "object",
-   "description": "3-digit county FIPS -> name"
+   "description": "5-digit county FIPS (state 13 + county) -> name"
   },
   "tracts": {
    "type": "object",
