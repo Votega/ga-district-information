@@ -13,7 +13,7 @@
   },
   "counties": {
    "type": "object",
-   "description": "Keyed by 3-digit county FIPS.",
+   "description": "Keyed by 5-digit county FIPS (state 13 + county), e.g. 13013.",
    "additionalProperties": {
     "type": "object",
     "properties": {
