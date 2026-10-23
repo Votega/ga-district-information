@@ -44,7 +44,8 @@
        "type": "object",
        "properties": {
         "fips": {
-         "type": "string"
+         "type": "string",
+         "description": "5-digit county FIPS (state 13 + county), e.g. 13089."
         },
         "name": {
          "type": [
