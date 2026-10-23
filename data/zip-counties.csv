@@ -1,1379 +1,1379 @@
 zip,city,kind,county_fips,county,share,rank
-30002,Avondale Estates,standard,089,DeKalb,1.0,1
-30004,Alpharetta,standard,121,Fulton,0.71377,1
-30004,Alpharetta,standard,117,Forsyth,0.23061,2
-30004,Alpharetta,standard,057,Cherokee,0.05562,3
-30005,Alpharetta,standard,121,Fulton,0.74467,1
-30005,Alpharetta,standard,117,Forsyth,0.25533,2
-30008,Marietta,standard,067,Cobb,1.0,1
-30009,Alpharetta,standard,121,Fulton,1.0,1
-30011,Auburn,standard,013,Barrow,0.70278,1
-30011,Auburn,standard,135,Gwinnett,0.29722,2
-30012,Conyers,standard,247,Rockdale,0.96967,1
-30012,Conyers,standard,089,DeKalb,0.01781,2
-30012,Conyers,standard,297,Walton,0.01093,3
-30012,Conyers,standard,135,Gwinnett,0.00159,4
-30013,Conyers,standard,247,Rockdale,0.92501,1
-30013,Conyers,standard,217,Newton,0.07499,2
-30014,Covington,standard,217,Newton,0.91653,1
-30014,Covington,standard,297,Walton,0.07621,2
-30014,Covington,standard,159,Jasper,0.00726,3
-30016,Covington,standard,217,Newton,0.99207,1
-30016,Covington,standard,247,Rockdale,0.00793,2
-30017,Grayson,standard,135,Gwinnett,1.0,1
-30019,Dacula,standard,135,Gwinnett,0.99404,1
-30019,Dacula,standard,297,Walton,0.00596,2
-30021,Clarkston,standard,089,DeKalb,1.0,1
-30022,Alpharetta,standard,121,Fulton,1.0,1
-30024,Suwanee,standard,135,Gwinnett,0.71711,1
-30024,Suwanee,standard,117,Forsyth,0.25624,2
-30024,Suwanee,standard,121,Fulton,0.02665,3
-30025,Social Circle,standard,297,Walton,0.76088,1
-30025,Social Circle,standard,217,Newton,0.23829,2
-30025,Social Circle,standard,211,Morgan,0.00083,3
-30028,Cumming,standard,117,Forsyth,0.97929,1
-30028,Cumming,standard,057,Cherokee,0.02036,2
-30028,Cumming,standard,085,Dawson,0.00034,3
-30030,Decatur,standard,089,DeKalb,1.0,1
-30032,Decatur,standard,089,DeKalb,1.0,1
-30033,Decatur,standard,089,DeKalb,1.0,1
-30034,Decatur,standard,089,DeKalb,1.0,1
-30035,Decatur,standard,089,DeKalb,1.0,1
-30038,Lithonia,standard,089,DeKalb,1.0,1
-30039,Snellville,standard,135,Gwinnett,0.97093,1
-30039,Snellville,standard,089,DeKalb,0.02827,2
-30039,Snellville,standard,247,Rockdale,0.0008,3
-30040,Cumming,standard,117,Forsyth,0.99566,1
-30040,Cumming,standard,057,Cherokee,0.00434,2
-30041,Cumming,standard,117,Forsyth,1.0,1
-30043,Lawrenceville,standard,135,Gwinnett,1.0,1
-30044,Lawrenceville,standard,135,Gwinnett,1.0,1
-30045,Lawrenceville,standard,135,Gwinnett,1.0,1
-30046,Lawrenceville,standard,135,Gwinnett,1.0,1
-30047,Lilburn,standard,135,Gwinnett,1.0,1
-30052,Loganville,standard,135,Gwinnett,0.54049,1
-30052,Loganville,standard,297,Walton,0.45262,2
-30052,Loganville,standard,247,Rockdale,0.00547,3
-30052,Loganville,standard,217,Newton,0.00142,4
-30054,Oxford,standard,217,Newton,0.85492,1
-30054,Oxford,standard,297,Walton,0.14508,2
-30055,Mansfield,standard,159,Jasper,0.54209,1
-30055,Mansfield,standard,217,Newton,0.38177,2
-30055,Mansfield,standard,211,Morgan,0.07614,3
-30056,Newborn,standard,159,Jasper,0.49064,1
-30056,Newborn,standard,217,Newton,0.39382,2
-30056,Newborn,standard,211,Morgan,0.11554,3
-30058,Lithonia,standard,089,DeKalb,0.99902,1
-30058,Lithonia,standard,247,Rockdale,0.00076,2
-30058,Lithonia,standard,135,Gwinnett,0.00023,3
-30060,Marietta,standard,067,Cobb,1.0,1
-30062,Marietta,standard,067,Cobb,1.0,1
-30063,Marietta,other,067,Cobb,1.0,1
-30064,Marietta,standard,067,Cobb,1.0,1
-30066,Marietta,standard,067,Cobb,0.9991,1
-30066,Marietta,standard,057,Cherokee,0.0009,2
-30067,Marietta,standard,067,Cobb,1.0,1
-30068,Marietta,standard,067,Cobb,1.0,1
-30069,Marietta,other,067,Cobb,1.0,1
-30071,Norcross,standard,135,Gwinnett,1.0,1
-30075,Roswell,standard,121,Fulton,0.81381,1
-30075,Roswell,standard,067,Cobb,0.17895,2
-30075,Roswell,standard,057,Cherokee,0.00724,3
-30076,Roswell,standard,121,Fulton,1.0,1
-30078,Snellville,standard,135,Gwinnett,1.0,1
-30079,Scottdale,standard,089,DeKalb,1.0,1
-30080,Smyrna,standard,067,Cobb,1.0,1
-30082,Smyrna,standard,067,Cobb,1.0,1
-30083,Stone Mountain,standard,089,DeKalb,1.0,1
-30084,Tucker,standard,089,DeKalb,0.70548,1
-30084,Tucker,standard,135,Gwinnett,0.29452,2
-30087,Stone Mountain,standard,089,DeKalb,0.63339,1
-30087,Stone Mountain,standard,135,Gwinnett,0.36661,2
-30088,Stone Mountain,standard,089,DeKalb,1.0,1
-30090,Marietta,other,067,Cobb,1.0,1
-30092,Peachtree Corners,standard,135,Gwinnett,0.97926,1
-30092,Peachtree Corners,standard,121,Fulton,0.02074,2
-30093,Norcross,standard,135,Gwinnett,0.99671,1
-30093,Norcross,standard,089,DeKalb,0.00329,2
-30094,Conyers,standard,247,Rockdale,0.97998,1
-30094,Conyers,standard,089,DeKalb,0.01938,2
-30094,Conyers,standard,217,Newton,0.00064,3
-30096,Duluth,standard,135,Gwinnett,1.0,1
-30097,Duluth,standard,135,Gwinnett,0.51563,1
-30097,Duluth,standard,121,Fulton,0.44039,2
-30097,Duluth,standard,117,Forsyth,0.04399,3
-30099,Duluth,other,135,Gwinnett,1.0,1
-30101,Acworth,standard,067,Cobb,0.75452,1
-30101,Acworth,standard,223,Paulding,0.20703,2
-30101,Acworth,standard,015,Bartow,0.0347,3
-30101,Acworth,standard,057,Cherokee,0.00375,4
-30102,Acworth,standard,057,Cherokee,0.65257,1
-30102,Acworth,standard,067,Cobb,0.19478,2
-30102,Acworth,standard,015,Bartow,0.15265,3
-30103,Adairsville,standard,015,Bartow,0.77367,1
-30103,Adairsville,standard,129,Gordon,0.17916,2
-30103,Adairsville,standard,115,Floyd,0.04717,3
-30104,Aragon,standard,233,Polk,0.73275,1
-30104,Aragon,standard,115,Floyd,0.22841,2
-30104,Aragon,standard,015,Bartow,0.03883,3
-30105,Armuchee,standard,115,Floyd,0.92022,1
-30105,Armuchee,standard,055,Chattooga,0.07978,2
-30106,Austell,standard,067,Cobb,0.99078,1
-30106,Austell,standard,097,Douglas,0.00922,2
-30107,Ball Ground,standard,057,Cherokee,0.78587,1
-30107,Ball Ground,standard,227,Pickens,0.11233,2
-30107,Ball Ground,standard,117,Forsyth,0.1018,3
-30108,Bowdon,standard,045,Carroll,0.98387,1
-30108,Bowdon,standard,149,Heard,0.01613,2
-30110,Bremen,standard,143,Haralson,0.95847,1
-30110,Bremen,standard,045,Carroll,0.04153,2
-30113,Buchanan,standard,143,Haralson,0.89971,1
-30113,Buchanan,standard,233,Polk,0.10029,2
-30114,Canton,standard,057,Cherokee,1.0,1
-30115,Canton,standard,057,Cherokee,1.0,1
-30116,Carrollton,standard,045,Carroll,1.0,1
-30117,Carrollton,standard,045,Carroll,1.0,1
-30118,Carrollton,other,045,Carroll,1.0,1
-30119,Carrollton,other,045,Carroll,1.0,1
-30120,Cartersville,standard,015,Bartow,0.99743,1
-30120,Cartersville,standard,223,Paulding,0.00257,2
-30121,Cartersville,standard,015,Bartow,1.0,1
-30122,Lithia Springs,standard,097,Douglas,0.99778,1
-30122,Lithia Springs,standard,067,Cobb,0.00222,2
-30124,Cave Spring,standard,115,Floyd,0.99188,1
-30124,Cave Spring,standard,233,Polk,0.00812,2
-30125,Cedartown,standard,233,Polk,0.98253,1
-30125,Cedartown,standard,115,Floyd,0.01747,2
-30126,Mableton,standard,067,Cobb,1.0,1
-30127,Powder Springs,standard,067,Cobb,0.89627,1
-30127,Powder Springs,standard,223,Paulding,0.10339,2
-30127,Powder Springs,standard,097,Douglas,0.00034,3
-30132,Dallas,standard,223,Paulding,1.0,1
-30134,Douglasville,standard,097,Douglas,0.71022,1
-30134,Douglasville,standard,223,Paulding,0.28978,2
-30135,Douglasville,standard,097,Douglas,1.0,1
-30137,Emerson,standard,015,Bartow,1.0,1
-30138,Esom Hill,other,233,Polk,1.0,1
-30139,Fairmount,standard,129,Gordon,0.66028,1
-30139,Fairmount,standard,227,Pickens,0.23135,2
-30139,Fairmount,standard,015,Bartow,0.10838,3
-30141,Hiram,standard,223,Paulding,0.997,1
-30141,Hiram,standard,067,Cobb,0.003,2
-30143,Jasper,standard,227,Pickens,0.88796,1
-30143,Jasper,standard,085,Dawson,0.10132,2
-30143,Jasper,standard,057,Cherokee,0.00951,3
-30143,Jasper,standard,123,Gilmer,0.0012,4
-30144,Kennesaw,standard,067,Cobb,1.0,1
-30145,Kingston,standard,015,Bartow,0.77623,1
-30145,Kingston,standard,115,Floyd,0.22377,2
-30147,Lindale,standard,115,Floyd,0.96562,1
-30147,Lindale,standard,233,Polk,0.03438,2
-30148,Marble Hill,standard,227,Pickens,0.76528,1
-30148,Marble Hill,standard,085,Dawson,0.23472,2
-30149,Mount Berry,other,115,Floyd,1.0,1
-30152,Kennesaw,standard,067,Cobb,1.0,1
-30153,Rockmart,standard,233,Polk,0.69444,1
-30153,Rockmart,standard,223,Paulding,0.28319,2
-30153,Rockmart,standard,143,Haralson,0.02237,3
-30157,Dallas,standard,223,Paulding,0.9847,1
-30157,Dallas,standard,067,Cobb,0.0153,2
-30161,Rome,standard,115,Floyd,0.99411,1
-30161,Rome,standard,015,Bartow,0.00589,2
-30165,Rome,standard,115,Floyd,0.99866,1
-30165,Rome,standard,055,Chattooga,0.00134,2
-30168,Austell,standard,067,Cobb,0.90821,1
-30168,Austell,standard,097,Douglas,0.09179,2
-30170,Roopville,standard,045,Carroll,0.62142,1
-30170,Roopville,standard,149,Heard,0.37858,2
-30171,Rydal,standard,015,Bartow,0.88068,1
-30171,Rydal,standard,129,Gordon,0.11932,2
-30173,Silver Creek,standard,115,Floyd,0.95101,1
-30173,Silver Creek,standard,233,Polk,0.04899,2
-30175,Talking Rock,standard,227,Pickens,0.73671,1
-30175,Talking Rock,standard,123,Gilmer,0.26118,2
-30175,Talking Rock,standard,129,Gordon,0.00212,3
-30176,Tallapoosa,standard,143,Haralson,1.0,1
-30177,Tate,standard,227,Pickens,1.0,1
-30178,Taylorsville,standard,015,Bartow,0.90756,1
-30178,Taylorsville,standard,233,Polk,0.08755,2
-30178,Taylorsville,standard,223,Paulding,0.00489,3
-30179,Temple,standard,045,Carroll,0.73003,1
-30179,Temple,standard,223,Paulding,0.17257,2
-30179,Temple,standard,143,Haralson,0.0974,3
-30180,Villa Rica,standard,045,Carroll,0.71514,1
-30180,Villa Rica,standard,097,Douglas,0.21759,2
-30180,Villa Rica,standard,223,Paulding,0.06727,3
-30182,Waco,standard,045,Carroll,0.50282,1
-30182,Waco,standard,143,Haralson,0.49718,2
-30183,Waleska,standard,057,Cherokee,0.99056,1
-30183,Waleska,standard,227,Pickens,0.00668,2
-30183,Waleska,standard,015,Bartow,0.00275,3
-30184,White,standard,015,Bartow,0.83973,1
-30184,White,standard,057,Cherokee,0.16027,2
-30185,Whitesburg,standard,045,Carroll,0.91892,1
-30185,Whitesburg,standard,097,Douglas,0.08108,2
-30187,Winston,standard,097,Douglas,0.99713,1
-30187,Winston,standard,045,Carroll,0.00287,2
-30188,Woodstock,standard,057,Cherokee,0.98259,1
-30188,Woodstock,standard,067,Cobb,0.01741,2
-30189,Woodstock,standard,057,Cherokee,1.0,1
-30204,Barnesville,standard,171,Lamar,0.9556,1
-30204,Barnesville,standard,293,Upson,0.02362,2
-30204,Barnesville,standard,207,Monroe,0.02077,3
-30205,Brooks,standard,113,Fayette,0.71008,1
-30205,Brooks,standard,255,Spalding,0.28992,2
-30206,Concord,standard,231,Pike,1.0,1
-30213,Fairburn,standard,121,Fulton,0.99979,1
-30213,Fairburn,standard,113,Fayette,0.00021,2
-30214,Fayetteville,standard,113,Fayette,0.99892,1
-30214,Fayetteville,standard,121,Fulton,0.00108,2
-30215,Fayetteville,standard,113,Fayette,0.90495,1
-30215,Fayetteville,standard,063,Clayton,0.09505,2
-30216,Flovilla,standard,035,Butts,1.0,1
-30217,Franklin,standard,149,Heard,0.98875,1
-30217,Franklin,standard,285,Troup,0.00961,2
-30217,Franklin,standard,077,Coweta,0.00164,3
-30218,Gay,standard,199,Meriwether,1.0,1
-30220,Grantville,standard,077,Coweta,0.75097,1
-30220,Grantville,standard,199,Meriwether,0.24865,2
-30220,Grantville,standard,285,Troup,0.00039,3
-30222,Greenville,standard,199,Meriwether,1.0,1
-30223,Griffin,standard,255,Spalding,0.99974,1
-30223,Griffin,standard,035,Butts,0.00021,2
-30223,Griffin,standard,151,Henry,5e-05,3
-30224,Griffin,standard,255,Spalding,0.89393,1
-30224,Griffin,standard,231,Pike,0.07688,2
-30224,Griffin,standard,171,Lamar,0.02868,3
-30224,Griffin,standard,035,Butts,0.00051,4
-30228,Hampton,standard,151,Henry,0.52465,1
-30228,Hampton,standard,063,Clayton,0.44472,2
-30228,Hampton,standard,255,Spalding,0.03063,3
-30230,Hogansville,standard,285,Troup,0.78925,1
-30230,Hogansville,standard,149,Heard,0.09962,2
-30230,Hogansville,standard,199,Meriwether,0.0934,3
-30230,Hogansville,standard,077,Coweta,0.01774,4
-30233,Jackson,standard,035,Butts,0.80497,1
-30233,Jackson,standard,207,Monroe,0.09207,2
-30233,Jackson,standard,151,Henry,0.07342,3
-30233,Jackson,standard,171,Lamar,0.02608,4
-30233,Jackson,standard,217,Newton,0.00302,5
-30233,Jackson,standard,255,Spalding,0.00043,6
-30234,Jenkinsburg,standard,035,Butts,0.87331,1
-30234,Jenkinsburg,standard,151,Henry,0.12669,2
-30236,Jonesboro,standard,063,Clayton,0.94695,1
-30236,Jonesboro,standard,151,Henry,0.05305,2
-30238,Jonesboro,standard,063,Clayton,0.98038,1
-30238,Jonesboro,standard,113,Fayette,0.01962,2
-30240,Lagrange,standard,285,Troup,0.99958,1
-30240,Lagrange,standard,149,Heard,0.00042,2
-30241,Lagrange,standard,285,Troup,0.99983,1
-30241,Lagrange,standard,199,Meriwether,0.00017,2
-30248,Locust Grove,standard,151,Henry,0.94064,1
-30248,Locust Grove,standard,255,Spalding,0.05098,2
-30248,Locust Grove,standard,035,Butts,0.00837,3
-30251,Luthersville,standard,199,Meriwether,1.0,1
-30252,Mcdonough,standard,151,Henry,0.98928,1
-30252,Mcdonough,standard,247,Rockdale,0.01072,2
-30253,Mcdonough,standard,151,Henry,1.0,1
-30256,Meansville,standard,231,Pike,0.70928,1
-30256,Meansville,standard,293,Upson,0.24942,2
-30256,Meansville,standard,171,Lamar,0.04131,3
-30257,Milner,standard,171,Lamar,0.93996,1
-30257,Milner,standard,231,Pike,0.06004,2
-30258,Molena,standard,231,Pike,0.71538,1
-30258,Molena,standard,293,Upson,0.28462,2
-30259,Moreland,standard,077,Coweta,1.0,1
-30260,Morrow,standard,063,Clayton,1.0,1
-30263,Newnan,standard,077,Coweta,0.9988,1
-30263,Newnan,standard,149,Heard,0.0012,2
-30265,Newnan,standard,077,Coweta,1.0,1
-30268,Palmetto,standard,121,Fulton,0.77308,1
-30268,Palmetto,standard,077,Coweta,0.22692,2
-30269,Peachtree City,standard,113,Fayette,1.0,1
-30273,Rex,standard,063,Clayton,0.95517,1
-30273,Rex,standard,151,Henry,0.04483,2
-30274,Riverdale,standard,063,Clayton,1.0,1
-30276,Senoia,standard,077,Coweta,0.92957,1
-30276,Senoia,standard,113,Fayette,0.03673,2
-30276,Senoia,standard,199,Meriwether,0.0337,3
-30277,Sharpsburg,standard,077,Coweta,1.0,1
-30281,Stockbridge,standard,151,Henry,0.86284,1
-30281,Stockbridge,standard,063,Clayton,0.10086,2
-30281,Stockbridge,standard,247,Rockdale,0.03629,3
-30285,The Rock,standard,293,Upson,0.64134,1
-30285,The Rock,standard,231,Pike,0.28571,2
-30285,The Rock,standard,171,Lamar,0.07295,3
-30286,Thomaston,standard,293,Upson,1.0,1
-30288,Conley,standard,089,DeKalb,0.56756,1
-30288,Conley,standard,063,Clayton,0.43244,2
-30290,Tyrone,standard,113,Fayette,1.0,1
-30291,Union City,standard,121,Fulton,1.0,1
-30292,Williamson,standard,231,Pike,0.77462,1
-30292,Williamson,standard,255,Spalding,0.22538,2
-30293,Woodbury,standard,199,Meriwether,1.0,1
-30294,Ellenwood,standard,089,DeKalb,0.40531,1
-30294,Ellenwood,standard,063,Clayton,0.37265,2
-30294,Ellenwood,standard,151,Henry,0.2191,3
-30294,Ellenwood,standard,247,Rockdale,0.00294,4
-30295,Zebulon,standard,231,Pike,0.97758,1
-30295,Zebulon,standard,171,Lamar,0.02242,2
-30296,Riverdale,standard,063,Clayton,0.84747,1
-30296,Riverdale,standard,121,Fulton,0.15253,2
-30297,Forest Park,standard,063,Clayton,1.0,1
-30303,Atlanta,standard,121,Fulton,1.0,1
-30304,Atlanta,other,121,Fulton,1.0,1
-30305,Atlanta,standard,121,Fulton,1.0,1
-30306,Atlanta,standard,121,Fulton,0.66667,1
-30306,Atlanta,standard,089,DeKalb,0.33333,2
-30307,Atlanta,standard,089,DeKalb,0.65497,1
-30307,Atlanta,standard,121,Fulton,0.34503,2
-30308,Atlanta,standard,121,Fulton,1.0,1
-30309,Atlanta,standard,121,Fulton,1.0,1
-30310,Atlanta,standard,121,Fulton,1.0,1
-30311,Atlanta,standard,121,Fulton,1.0,1
-30312,Atlanta,standard,121,Fulton,1.0,1
-30313,Atlanta,standard,121,Fulton,1.0,1
-30314,Atlanta,standard,121,Fulton,1.0,1
-30315,Atlanta,standard,121,Fulton,1.0,1
-30316,Atlanta,standard,089,DeKalb,0.64283,1
-30316,Atlanta,standard,121,Fulton,0.35717,2
-30317,Atlanta,standard,089,DeKalb,0.99408,1
-30317,Atlanta,standard,121,Fulton,0.00592,2
-30318,Atlanta,standard,121,Fulton,1.0,1
-30319,Atlanta,standard,089,DeKalb,0.85773,1
-30319,Atlanta,standard,121,Fulton,0.14227,2
-30322,Atlanta,other,089,DeKalb,1.0,1
-30324,Atlanta,standard,121,Fulton,0.86662,1
-30324,Atlanta,standard,089,DeKalb,0.13338,2
-30326,Atlanta,standard,121,Fulton,1.0,1
-30327,Atlanta,standard,121,Fulton,1.0,1
-30328,Atlanta,standard,121,Fulton,0.99968,1
-30328,Atlanta,standard,089,DeKalb,0.00032,2
-30329,Atlanta,standard,089,DeKalb,1.0,1
-30331,Atlanta,standard,121,Fulton,1.0,1
-30332,Atlanta,other,121,Fulton,1.0,1
-30334,Atlanta,other,121,Fulton,1.0,1
-30336,Atlanta,standard,121,Fulton,1.0,1
-30337,Atlanta,standard,121,Fulton,1.0,1
-30338,Atlanta,standard,089,DeKalb,0.96669,1
-30338,Atlanta,standard,121,Fulton,0.03331,2
-30339,Atlanta,standard,067,Cobb,0.97836,1
-30339,Atlanta,standard,121,Fulton,0.02164,2
-30340,Atlanta,standard,089,DeKalb,0.86652,1
-30340,Atlanta,standard,135,Gwinnett,0.13348,2
-30341,Atlanta,standard,089,DeKalb,1.0,1
-30342,Atlanta,standard,121,Fulton,1.0,1
-30344,Atlanta,standard,121,Fulton,1.0,1
-30345,Atlanta,standard,089,DeKalb,1.0,1
-30346,Atlanta,standard,089,DeKalb,1.0,1
-30349,Atlanta,standard,121,Fulton,0.7187,1
-30349,Atlanta,standard,063,Clayton,0.2813,2
-30350,Atlanta,standard,121,Fulton,0.99331,1
-30350,Atlanta,standard,089,DeKalb,0.00659,2
-30350,Atlanta,standard,135,Gwinnett,0.0001,3
-30354,Atlanta,standard,121,Fulton,0.99811,1
-30354,Atlanta,standard,063,Clayton,0.00189,2
-30360,Atlanta,standard,089,DeKalb,0.8611,1
-30360,Atlanta,standard,135,Gwinnett,0.1389,2
-30361,Atlanta,standard,121,Fulton,1.0,1
-30363,Atlanta,standard,121,Fulton,1.0,1
-30368,Atlanta,other,121,Fulton,1.0,1
-30369,Atlanta,other,121,Fulton,1.0,1
-30378,Atlanta,other,121,Fulton,1.0,1
-30380,Atlanta,other,121,Fulton,1.0,1
-30385,Atlanta,other,121,Fulton,1.0,1
-30388,Atlanta,other,121,Fulton,1.0,1
-30396,Atlanta,other,121,Fulton,1.0,1
-30398,Atlanta,other,121,Fulton,1.0,1
-30401,Swainsboro,standard,107,Emanuel,1.0,1
-30410,Ailey,standard,209,Montgomery,1.0,1
-30411,Alamo,standard,309,Wheeler,0.87487,1
-30411,Alamo,standard,175,Laurens,0.12513,2
-30413,Bartow,standard,163,Jefferson,0.63297,1
-30413,Bartow,standard,303,Washington,0.2967,2
-30413,Bartow,standard,167,Johnson,0.07033,3
-30415,Brooklet,standard,031,Bulloch,1.0,1
-30417,Claxton,standard,109,Evans,0.94311,1
-30417,Claxton,standard,267,Tattnall,0.05671,2
-30417,Claxton,standard,031,Bulloch,0.00018,3
-30420,Cobbtown,standard,267,Tattnall,0.60351,1
-30420,Cobbtown,standard,043,Candler,0.39279,2
-30420,Cobbtown,standard,109,Evans,0.0037,3
-30421,Collins,standard,267,Tattnall,0.99895,1
-30421,Collins,standard,109,Evans,0.00105,2
-30425,Garfield,standard,107,Emanuel,0.49803,1
-30425,Garfield,standard,165,Jenkins,0.35348,2
-30425,Garfield,standard,031,Bulloch,0.14849,3
-30426,Girard,standard,033,Burke,0.92668,1
-30426,Girard,standard,251,Screven,0.07332,2
-30427,Glennville,standard,267,Tattnall,0.82806,1
-30427,Glennville,standard,183,Long,0.17122,2
-30427,Glennville,standard,109,Evans,0.00073,3
-30428,Glenwood,standard,309,Wheeler,0.85265,1
-30428,Glenwood,standard,175,Laurens,0.14735,2
-30434,Louisville,standard,163,Jefferson,0.93767,1
-30434,Louisville,standard,033,Burke,0.06233,2
-30436,Lyons,standard,279,Toombs,0.92543,1
-30436,Lyons,standard,107,Emanuel,0.06935,2
-30436,Lyons,standard,267,Tattnall,0.0044,3
-30436,Lyons,standard,283,Treutlen,0.00083,4
-30439,Metter,standard,043,Candler,0.9922,1
-30439,Metter,standard,107,Emanuel,0.00452,2
-30439,Metter,standard,031,Bulloch,0.00329,3
-30441,Midville,standard,107,Emanuel,0.55771,1
-30441,Midville,standard,033,Burke,0.42881,2
-30441,Midville,standard,165,Jenkins,0.01348,3
-30442,Millen,standard,165,Jenkins,0.96895,1
-30442,Millen,standard,033,Burke,0.02595,2
-30442,Millen,standard,251,Screven,0.00488,3
-30442,Millen,standard,107,Emanuel,0.00022,4
-30445,Mount Vernon,standard,209,Montgomery,1.0,1
-30446,Newington,standard,251,Screven,0.81423,1
-30446,Newington,standard,103,Effingham,0.18577,2
-30450,Portal,standard,031,Bulloch,0.99353,1
-30450,Portal,standard,107,Emanuel,0.00647,2
-30452,Register,standard,031,Bulloch,0.93417,1
-30452,Register,standard,043,Candler,0.04075,2
-30452,Register,standard,109,Evans,0.02508,3
-30453,Reidsville,standard,267,Tattnall,0.99112,1
-30453,Reidsville,standard,279,Toombs,0.00814,2
-30453,Reidsville,standard,109,Evans,0.00074,3
-30454,Rockledge,standard,175,Laurens,1.0,1
-30455,Rocky Ford,standard,251,Screven,0.96517,1
-30455,Rocky Ford,standard,165,Jenkins,0.03483,2
-30456,Sardis,standard,033,Burke,0.99903,1
-30456,Sardis,standard,165,Jenkins,0.00097,2
-30457,Soperton,standard,283,Treutlen,0.98161,1
-30457,Soperton,standard,209,Montgomery,0.01332,2
-30457,Soperton,standard,107,Emanuel,0.00507,3
-30458,Statesboro,standard,031,Bulloch,1.0,1
-30460,Statesboro,other,031,Bulloch,1.0,1
-30461,Statesboro,standard,031,Bulloch,1.0,1
-30467,Sylvania,standard,251,Screven,1.0,1
-30470,Tarrytown,standard,209,Montgomery,0.67416,1
-30470,Tarrytown,standard,283,Treutlen,0.32584,2
-30471,Twin City,standard,107,Emanuel,0.91559,1
-30471,Twin City,standard,031,Bulloch,0.06979,2
-30471,Twin City,standard,043,Candler,0.01463,3
-30473,Uvalda,standard,279,Toombs,0.53984,1
-30473,Uvalda,standard,209,Montgomery,0.46016,2
-30474,Vidalia,standard,279,Toombs,0.88619,1
-30474,Vidalia,standard,209,Montgomery,0.10081,2
-30474,Vidalia,standard,107,Emanuel,0.01017,3
-30474,Vidalia,standard,283,Treutlen,0.00283,4
-30477,Wadley,standard,163,Jefferson,0.99835,1
-30477,Wadley,standard,107,Emanuel,0.00083,2
-30477,Wadley,standard,167,Johnson,0.00083,3
-30499,Reidsville,other,267,Tattnall,1.0,1
-30501,Gainesville,standard,139,Hall,1.0,1
-30504,Gainesville,standard,139,Hall,1.0,1
-30506,Gainesville,standard,139,Hall,0.73379,1
-30506,Gainesville,standard,117,Forsyth,0.26621,2
-30507,Gainesville,standard,139,Hall,1.0,1
-30510,Alto,standard,137,Habersham,0.66355,1
-30510,Alto,standard,011,Banks,0.27332,2
-30510,Alto,standard,139,Hall,0.06313,3
-30511,Baldwin,standard,011,Banks,0.72374,1
-30511,Baldwin,standard,137,Habersham,0.27237,2
-30511,Baldwin,standard,257,Stephens,0.00389,3
-30512,Blairsville,standard,291,Union,0.99092,1
-30512,Blairsville,standard,111,Fannin,0.00876,2
-30512,Blairsville,standard,187,Lumpkin,0.00032,3
-30513,Blue Ridge,standard,111,Fannin,0.94599,1
-30513,Blue Ridge,standard,123,Gilmer,0.05401,2
-30516,Bowersville,standard,147,Hart,0.99716,1
-30516,Bowersville,standard,119,Franklin,0.00284,2
-30517,Braselton,standard,157,Jackson,0.51778,1
-30517,Braselton,standard,139,Hall,0.20667,2
-30517,Braselton,standard,135,Gwinnett,0.18441,3
-30517,Braselton,standard,013,Barrow,0.09114,4
-30518,Buford,standard,135,Gwinnett,0.9074,1
-30518,Buford,standard,139,Hall,0.0926,2
-30519,Buford,standard,135,Gwinnett,0.93982,1
-30519,Buford,standard,139,Hall,0.06018,2
-30520,Canon,standard,119,Franklin,0.52106,1
-30520,Canon,standard,147,Hart,0.47894,2
-30521,Carnesville,standard,119,Franklin,0.96104,1
-30521,Carnesville,standard,011,Banks,0.03896,2
-30522,Cherry Log,standard,123,Gilmer,0.51553,1
-30522,Cherry Log,standard,111,Fannin,0.48447,2
-30523,Clarkesville,standard,137,Habersham,0.92268,1
-30523,Clarkesville,standard,241,Rabun,0.0752,2
-30523,Clarkesville,standard,311,White,0.00212,3
-30525,Clayton,standard,241,Rabun,0.99179,1
-30525,Clayton,standard,281,Towns,0.00821,2
-30527,Clermont,standard,139,Hall,0.99105,1
-30527,Clermont,standard,311,White,0.00895,2
-30528,Cleveland,standard,311,White,0.98185,1
-30528,Cleveland,standard,187,Lumpkin,0.01795,2
-30528,Cleveland,standard,139,Hall,0.0002,3
-30529,Commerce,standard,157,Jackson,0.87876,1
-30529,Commerce,standard,011,Banks,0.12124,2
-30530,Commerce,standard,011,Banks,0.36697,1
-30530,Commerce,standard,157,Jackson,0.30275,2
-30530,Commerce,standard,195,Madison,0.19409,3
-30530,Commerce,standard,119,Franklin,0.13618,4
-30531,Cornelia,standard,137,Habersham,0.99408,1
-30531,Cornelia,standard,139,Hall,0.00592,2
-30533,Dahlonega,standard,187,Lumpkin,0.97926,1
-30533,Dahlonega,standard,139,Hall,0.01339,2
-30533,Dahlonega,standard,311,White,0.00583,3
-30533,Dahlonega,standard,085,Dawson,0.00152,4
-30534,Dawsonville,standard,085,Dawson,0.84601,1
-30534,Dawsonville,standard,187,Lumpkin,0.09322,2
-30534,Dawsonville,standard,117,Forsyth,0.05612,3
-30534,Dawsonville,standard,227,Pickens,0.00299,4
-30534,Dawsonville,standard,057,Cherokee,0.00147,5
-30534,Dawsonville,standard,123,Gilmer,0.00019,6
-30535,Demorest,standard,137,Habersham,1.0,1
-30536,Ellijay,standard,123,Gilmer,0.98935,1
-30536,Ellijay,standard,085,Dawson,0.01011,2
-30536,Ellijay,standard,227,Pickens,0.00053,3
-30537,Dillard,standard,241,Rabun,1.0,1
-30538,Eastanollee,standard,257,Stephens,0.9411,1
-30538,Eastanollee,standard,119,Franklin,0.0589,2
-30540,Ellijay,standard,123,Gilmer,0.998,1
-30540,Ellijay,standard,213,Murray,0.00186,2
-30540,Ellijay,standard,227,Pickens,0.00014,3
-30541,Epworth,standard,111,Fannin,1.0,1
-30542,Flowery Branch,standard,139,Hall,1.0,1
-30543,Gillsville,standard,139,Hall,0.71165,1
-30543,Gillsville,standard,011,Banks,0.20583,2
-30543,Gillsville,standard,157,Jackson,0.08252,3
-30545,Helen,standard,311,White,1.0,1
-30546,Hiawassee,standard,281,Towns,1.0,1
-30547,Homer,standard,011,Banks,1.0,1
-30548,Hoschton,standard,157,Jackson,0.54859,1
-30548,Hoschton,standard,139,Hall,0.20254,2
-30548,Hoschton,standard,135,Gwinnett,0.14655,3
-30548,Hoschton,standard,013,Barrow,0.10232,4
-30549,Jefferson,standard,157,Jackson,1.0,1
-30552,Lakemont,standard,241,Rabun,1.0,1
-30553,Lavonia,standard,119,Franklin,0.75766,1
-30553,Lavonia,standard,147,Hart,0.24234,2
-30554,Lula,standard,139,Hall,0.7045,1
-30554,Lula,standard,011,Banks,0.29502,2
-30554,Lula,standard,311,White,0.00047,3
-30555,Mc Caysville,standard,111,Fannin,1.0,1
-30557,Martin,standard,257,Stephens,0.63534,1
-30557,Martin,standard,119,Franklin,0.36466,2
-30558,Maysville,standard,157,Jackson,0.54524,1
-30558,Maysville,standard,011,Banks,0.45476,2
-30559,Mineral Bluff,standard,111,Fannin,1.0,1
-30560,Morganton,standard,111,Fannin,0.83255,1
-30560,Morganton,standard,291,Union,0.16745,2
-30563,Mount Airy,standard,137,Habersham,0.99849,1
-30563,Mount Airy,standard,257,Stephens,0.00151,2
-30564,Murrayville,standard,139,Hall,0.70839,1
-30564,Murrayville,standard,187,Lumpkin,0.27378,2
-30564,Murrayville,standard,311,White,0.01783,3
-30565,Nicholson,standard,157,Jackson,0.90263,1
-30565,Nicholson,standard,195,Madison,0.09737,2
-30566,Oakwood,standard,139,Hall,1.0,1
-30567,Pendergrass,standard,157,Jackson,0.9912,1
-30567,Pendergrass,standard,139,Hall,0.0088,2
-30568,Rabun Gap,standard,241,Rabun,1.0,1
-30571,Sautee Nacoochee,standard,311,White,0.99046,1
-30571,Sautee Nacoochee,standard,137,Habersham,0.00954,2
-30572,Suches,standard,291,Union,0.71779,1
-30572,Suches,standard,111,Fannin,0.28221,2
-30575,Talmo,standard,157,Jackson,0.70464,1
-30575,Talmo,standard,139,Hall,0.29536,2
-30576,Tiger,standard,241,Rabun,1.0,1
-30577,Toccoa,standard,257,Stephens,0.92667,1
-30577,Toccoa,standard,119,Franklin,0.04569,2
-30577,Toccoa,standard,137,Habersham,0.01971,3
-30577,Toccoa,standard,011,Banks,0.00792,4
-30582,Young Harris,standard,281,Towns,0.83108,1
-30582,Young Harris,standard,291,Union,0.16892,2
-30597,Dahlonega,other,187,Lumpkin,1.0,1
-30598,Toccoa Falls,other,257,Stephens,1.0,1
-30599,Commerce,other,157,Jackson,1.0,1
-30601,Athens,standard,059,Clarke,0.97863,1
-30601,Athens,standard,195,Madison,0.01927,2
-30601,Athens,standard,157,Jackson,0.00211,3
-30602,Athens,other,059,Clarke,1.0,1
-30605,Athens,standard,059,Clarke,0.99535,1
-30605,Athens,standard,219,Oconee,0.00465,2
-30606,Athens,standard,059,Clarke,0.91995,1
-30606,Athens,standard,219,Oconee,0.08005,2
-30607,Athens,standard,059,Clarke,0.7157,1
-30607,Athens,standard,157,Jackson,0.2843,2
-30609,Athens,other,059,Clarke,1.0,1
-30619,Arnoldsville,standard,221,Oglethorpe,0.9522,1
-30619,Arnoldsville,standard,219,Oconee,0.0478,2
-30620,Bethlehem,standard,013,Barrow,0.81376,1
-30620,Bethlehem,standard,135,Gwinnett,0.13305,2
-30620,Bethlehem,standard,297,Walton,0.0532,3
-30621,Bishop,standard,219,Oconee,0.86937,1
-30621,Bishop,standard,211,Morgan,0.13063,2
-30622,Bogart,standard,219,Oconee,0.71155,1
-30622,Bogart,standard,059,Clarke,0.20106,2
-30622,Bogart,standard,157,Jackson,0.08393,3
-30622,Bogart,standard,013,Barrow,0.00346,4
-30624,Bowman,standard,105,Elbert,0.88075,1
-30624,Bowman,standard,195,Madison,0.06027,2
-30624,Bowman,standard,147,Hart,0.05898,3
-30625,Buckhead,standard,211,Morgan,0.82383,1
-30625,Buckhead,standard,237,Putnam,0.17617,2
-30627,Carlton,standard,221,Oglethorpe,0.6065,1
-30627,Carlton,standard,195,Madison,0.3935,2
-30628,Colbert,standard,195,Madison,0.79591,1
-30628,Colbert,standard,221,Oglethorpe,0.20409,2
-30629,Comer,standard,195,Madison,0.78215,1
-30629,Comer,standard,221,Oglethorpe,0.21785,2
-30630,Crawford,standard,221,Oglethorpe,1.0,1
-30631,Crawfordville,standard,265,Taliaferro,0.89617,1
-30631,Crawfordville,standard,317,Wilkes,0.08431,2
-30631,Crawfordville,standard,133,Greene,0.01952,3
-30633,Danielsville,standard,195,Madison,0.97833,1
-30633,Danielsville,standard,119,Franklin,0.01574,2
-30633,Danielsville,standard,011,Banks,0.00593,3
-30634,Dewy Rose,standard,105,Elbert,0.75187,1
-30634,Dewy Rose,standard,147,Hart,0.24813,2
-30635,Elberton,standard,105,Elbert,0.99628,1
-30635,Elberton,standard,147,Hart,0.00372,2
-30641,Good Hope,standard,297,Walton,0.86726,1
-30641,Good Hope,standard,211,Morgan,0.13274,2
-30642,Greensboro,standard,133,Greene,0.99991,1
-30642,Greensboro,standard,211,Morgan,9e-05,2
-30643,Hartwell,standard,147,Hart,1.0,1
-30646,Hull,standard,195,Madison,0.992,1
-30646,Hull,standard,059,Clarke,0.00552,2
-30646,Hull,standard,157,Jackson,0.00248,3
-30648,Lexington,standard,221,Oglethorpe,1.0,1
-30650,Madison,standard,211,Morgan,0.94102,1
-30650,Madison,standard,133,Greene,0.0477,2
-30650,Madison,standard,297,Walton,0.00911,3
-30650,Madison,standard,237,Putnam,0.00217,4
-30655,Monroe,standard,297,Walton,1.0,1
-30656,Monroe,standard,297,Walton,0.96598,1
-30656,Monroe,standard,013,Barrow,0.03402,2
-30660,Rayle,standard,317,Wilkes,0.79552,1
-30660,Rayle,standard,221,Oglethorpe,0.19048,2
-30660,Rayle,standard,265,Taliaferro,0.01401,3
-30662,Royston,standard,119,Franklin,0.64193,1
-30662,Royston,standard,147,Hart,0.26122,2
-30662,Royston,standard,195,Madison,0.08412,3
-30662,Royston,standard,105,Elbert,0.01273,4
-30663,Rutledge,standard,211,Morgan,0.99582,1
-30663,Rutledge,standard,297,Walton,0.00418,2
-30666,Statham,standard,013,Barrow,0.77567,1
-30666,Statham,standard,219,Oconee,0.20867,2
-30666,Statham,standard,157,Jackson,0.01567,3
-30667,Stephens,standard,221,Oglethorpe,1.0,1
-30668,Tignall,standard,317,Wilkes,0.57568,1
-30668,Tignall,standard,181,Lincoln,0.42432,2
-30669,Union Point,standard,133,Greene,0.88913,1
-30669,Union Point,standard,221,Oglethorpe,0.06335,2
-30669,Union Point,standard,265,Taliaferro,0.04752,3
-30673,Washington,standard,317,Wilkes,0.99888,1
-30673,Washington,standard,265,Taliaferro,0.00112,2
-30677,Watkinsville,standard,219,Oconee,0.99011,1
-30677,Watkinsville,standard,133,Greene,0.00989,2
-30678,White Plains,standard,133,Greene,0.92723,1
-30678,White Plains,standard,141,Hancock,0.06221,2
-30678,White Plains,standard,265,Taliaferro,0.01056,3
-30680,Winder,standard,013,Barrow,0.99066,1
-30680,Winder,standard,157,Jackson,0.00523,2
-30680,Winder,standard,219,Oconee,0.00394,3
-30680,Winder,standard,135,Gwinnett,0.00017,4
-30683,Winterville,standard,059,Clarke,0.60307,1
-30683,Winterville,standard,221,Oglethorpe,0.39285,2
-30683,Winterville,standard,195,Madison,0.00408,3
-30701,Calhoun,standard,129,Gordon,0.99119,1
-30701,Calhoun,standard,115,Floyd,0.00881,2
-30705,Chatsworth,standard,213,Murray,0.99904,1
-30705,Chatsworth,standard,123,Gilmer,0.00077,2
-30705,Chatsworth,standard,129,Gordon,0.00019,3
-30707,Chickamauga,standard,295,Walker,0.95181,1
-30707,Chickamauga,standard,047,Catoosa,0.04819,2
-30708,Cisco,standard,213,Murray,1.0,1
-30710,Cohutta,standard,313,Whitfield,0.99569,1
-30710,Cohutta,standard,047,Catoosa,0.00431,2
-30711,Crandall,standard,213,Murray,1.0,1
-30720,Dalton,standard,313,Whitfield,1.0,1
-30721,Dalton,standard,313,Whitfield,0.96475,1
-30721,Dalton,standard,213,Murray,0.03517,2
-30721,Dalton,standard,129,Gordon,9e-05,3
-30725,Flintstone,standard,295,Walker,1.0,1
-30728,La Fayette,standard,295,Walker,1.0,1
-30730,Lyerly,standard,055,Chattooga,1.0,1
-30731,Menlo,standard,055,Chattooga,0.68988,1
-30731,Menlo,standard,083,Dade,0.17379,2
-30731,Menlo,standard,295,Walker,0.13634,3
-30733,Plainville,standard,129,Gordon,0.95652,1
-30733,Plainville,standard,115,Floyd,0.04348,2
-30734,Ranger,standard,129,Gordon,0.8174,1
-30734,Ranger,standard,227,Pickens,0.18153,2
-30734,Ranger,standard,123,Gilmer,0.00107,3
-30735,Resaca,standard,129,Gordon,0.55014,1
-30735,Resaca,standard,313,Whitfield,0.25982,2
-30735,Resaca,standard,213,Murray,0.19004,3
-30736,Ringgold,standard,047,Catoosa,0.98483,1
-30736,Ringgold,standard,313,Whitfield,0.01074,2
-30736,Ringgold,standard,295,Walker,0.00443,3
-30738,Rising Fawn,standard,083,Dade,0.70221,1
-30738,Rising Fawn,standard,295,Walker,0.29779,2
-30739,Rock Spring,standard,295,Walker,0.82563,1
-30739,Rock Spring,standard,047,Catoosa,0.17437,2
-30740,Rocky Face,standard,313,Whitfield,0.97254,1
-30740,Rocky Face,standard,295,Walker,0.02746,2
-30741,Rossville,standard,295,Walker,0.62089,1
-30741,Rossville,standard,047,Catoosa,0.37911,2
-30742,Fort Oglethorpe,standard,047,Catoosa,0.99637,1
-30742,Fort Oglethorpe,standard,295,Walker,0.00363,2
-30746,Sugar Valley,standard,129,Gordon,0.99037,1
-30746,Sugar Valley,standard,295,Walker,0.00963,2
-30747,Summerville,standard,055,Chattooga,0.97966,1
-30747,Summerville,standard,295,Walker,0.02021,2
-30747,Summerville,standard,115,Floyd,0.00013,3
-30750,Lookout Mountain,other,295,Walker,0.55907,1
-30750,Lookout Mountain,other,083,Dade,0.44093,2
-30752,Trenton,standard,083,Dade,1.0,1
-30753,Trion,standard,055,Chattooga,0.81,1
-30753,Trion,standard,295,Walker,0.19,2
-30755,Tunnel Hill,standard,313,Whitfield,0.70885,1
-30755,Tunnel Hill,standard,047,Catoosa,0.29115,2
-30757,Wildwood,standard,083,Dade,1.0,1
-30802,Appling,standard,073,Columbia,0.99266,1
-30802,Appling,standard,189,McDuffie,0.00734,2
-30803,Avera,standard,163,Jefferson,0.97252,1
-30803,Avera,standard,125,Glascock,0.02748,2
-30805,Blythe,standard,245,Richmond,0.67718,1
-30805,Blythe,standard,033,Burke,0.32282,2
-30808,Dearing,standard,189,McDuffie,1.0,1
-30809,Evans,standard,073,Columbia,1.0,1
-30810,Gibson,standard,125,Glascock,0.96181,1
-30810,Gibson,standard,301,Warren,0.02778,2
-30810,Gibson,standard,163,Jefferson,0.01042,3
-30813,Grovetown,standard,073,Columbia,0.98097,1
-30813,Grovetown,standard,245,Richmond,0.01903,2
-30814,Harlem,standard,073,Columbia,0.94767,1
-30814,Harlem,standard,189,McDuffie,0.05233,2
-30815,Hephzibah,standard,245,Richmond,0.92838,1
-30815,Hephzibah,standard,033,Burke,0.07162,2
-30816,Keysville,standard,033,Burke,0.86477,1
-30816,Keysville,standard,163,Jefferson,0.13523,2
-30817,Lincolnton,standard,181,Lincoln,0.99024,1
-30817,Lincolnton,standard,317,Wilkes,0.00976,2
-30818,Matthews,standard,163,Jefferson,1.0,1
-30820,Mitchell,standard,125,Glascock,0.67568,1
-30820,Mitchell,standard,301,Warren,0.20335,2
-30820,Mitchell,standard,303,Washington,0.07465,3
-30820,Mitchell,standard,141,Hancock,0.04633,4
-30821,Norwood,standard,301,Warren,0.98776,1
-30821,Norwood,standard,189,McDuffie,0.01224,2
-30823,Stapleton,standard,163,Jefferson,0.81164,1
-30823,Stapleton,standard,301,Warren,0.14384,2
-30823,Stapleton,standard,125,Glascock,0.04452,3
-30824,Thomson,standard,189,McDuffie,0.99284,1
-30824,Thomson,standard,073,Columbia,0.00504,2
-30824,Thomson,standard,301,Warren,0.00213,3
-30828,Warrenton,standard,301,Warren,0.98179,1
-30828,Warrenton,standard,125,Glascock,0.01283,2
-30828,Warrenton,standard,189,McDuffie,0.00538,3
-30830,Waynesboro,standard,033,Burke,1.0,1
-30833,Wrens,standard,163,Jefferson,1.0,1
-30901,Augusta,standard,245,Richmond,1.0,1
-30904,Augusta,standard,245,Richmond,1.0,1
-30905,Augusta,standard,245,Richmond,1.0,1
-30906,Augusta,standard,245,Richmond,1.0,1
-30907,Augusta,standard,073,Columbia,0.76029,1
-30907,Augusta,standard,245,Richmond,0.23971,2
-30909,Augusta,standard,245,Richmond,0.99437,1
-30909,Augusta,standard,073,Columbia,0.00563,2
-30912,Augusta,other,245,Richmond,1.0,1
-31001,Abbeville,standard,315,Wilcox,1.0,1
-31002,Adrian,standard,107,Emanuel,0.43547,1
-31002,Adrian,standard,167,Johnson,0.3578,2
-31002,Adrian,standard,175,Laurens,0.11131,3
-31002,Adrian,standard,283,Treutlen,0.09541,4
-31005,Bonaire,standard,153,Houston,1.0,1
-31006,Butler,standard,269,Taylor,0.99952,1
-31006,Butler,standard,263,Talbot,0.00048,2
-31007,Byromville,standard,093,Dooly,1.0,1
-31008,Byron,standard,225,Peach,0.69783,1
-31008,Byron,standard,153,Houston,0.21675,2
-31008,Byron,standard,079,Crawford,0.08542,3
-31009,Cadwell,standard,175,Laurens,1.0,1
-31011,Chauncey,standard,091,Dodge,0.9898,1
-31011,Chauncey,standard,175,Laurens,0.00816,2
-31011,Chauncey,standard,271,Telfair,0.00204,3
-31012,Chester,standard,091,Dodge,0.77273,1
-31012,Chester,standard,023,Bleckley,0.21165,2
-31012,Chester,standard,175,Laurens,0.01562,3
-31014,Cochran,standard,023,Bleckley,0.88134,1
-31014,Cochran,standard,091,Dodge,0.09168,2
-31014,Cochran,standard,289,Twiggs,0.02591,3
-31014,Cochran,standard,235,Pulaski,0.00107,4
-31015,Cordele,standard,081,Crisp,0.99402,1
-31015,Cordele,standard,093,Dooly,0.00439,2
-31015,Cordele,standard,315,Wilcox,0.00159,3
-31016,Culloden,standard,207,Monroe,0.49451,1
-31016,Culloden,standard,293,Upson,0.3044,2
-31016,Culloden,standard,079,Crawford,0.1033,3
-31016,Culloden,standard,171,Lamar,0.0978,4
-31017,Danville,standard,289,Twiggs,0.50866,1
-31017,Danville,standard,319,Wilkinson,0.34331,2
-31017,Danville,standard,023,Bleckley,0.14724,3
-31017,Danville,standard,175,Laurens,0.00079,4
-31018,Davisboro,standard,303,Washington,1.0,1
-31019,Dexter,standard,175,Laurens,1.0,1
-31020,Dry Branch,standard,289,Twiggs,0.82641,1
-31020,Dry Branch,standard,021,Bibb,0.17359,2
-31021,Dublin,standard,175,Laurens,0.99994,1
-31021,Dublin,standard,319,Wilkinson,6e-05,2
-31022,Dudley,standard,175,Laurens,0.97085,1
-31022,Dudley,standard,023,Bleckley,0.02028,2
-31022,Dudley,standard,091,Dodge,0.00887,3
-31023,Eastman,standard,091,Dodge,0.9879,1
-31023,Eastman,standard,235,Pulaski,0.0121,2
-31024,Eatonton,standard,237,Putnam,0.99986,1
-31024,Eatonton,standard,159,Jasper,0.00014,2
-31025,Elko,standard,153,Houston,1.0,1
-31026,Eatonton,other,237,Putnam,1.0,1
-31027,East Dublin,standard,175,Laurens,1.0,1
-31028,Centerville,standard,153,Houston,1.0,1
-31029,Forsyth,standard,207,Monroe,0.99906,1
-31029,Forsyth,standard,035,Butts,0.00047,2
-31029,Forsyth,standard,171,Lamar,0.00047,3
-31030,Fort Valley,standard,225,Peach,0.81221,1
-31030,Fort Valley,standard,079,Crawford,0.15396,2
-31030,Fort Valley,standard,153,Houston,0.02384,3
-31030,Fort Valley,standard,193,Macon,0.00998,4
-31031,Gordon,standard,319,Wilkinson,0.68861,1
-31031,Gordon,standard,009,Baldwin,0.22702,2
-31031,Gordon,standard,289,Twiggs,0.04465,3
-31031,Gordon,standard,169,Jones,0.03972,4
-31032,Gray,standard,169,Jones,1.0,1
-31033,Haddock,standard,169,Jones,0.82143,1
-31033,Haddock,standard,009,Baldwin,0.17857,2
-31035,Harrison,standard,303,Washington,0.99068,1
-31035,Harrison,standard,167,Johnson,0.00932,2
-31036,Hawkinsville,standard,235,Pulaski,0.83108,1
-31036,Hawkinsville,standard,153,Houston,0.16009,2
-31036,Hawkinsville,standard,023,Bleckley,0.00733,3
-31036,Hawkinsville,standard,091,Dodge,0.00132,4
-31036,Hawkinsville,standard,093,Dooly,0.00019,5
-31037,Mc Rae Helena,standard,271,Telfair,0.63943,1
-31037,Mc Rae Helena,standard,309,Wheeler,0.19639,2
-31037,Mc Rae Helena,standard,091,Dodge,0.15161,3
-31037,Mc Rae Helena,standard,175,Laurens,0.01257,4
-31038,Hillsboro,standard,159,Jasper,0.537,1
-31038,Hillsboro,standard,169,Jones,0.43552,2
-31038,Hillsboro,standard,237,Putnam,0.02748,3
-31041,Ideal,standard,193,Macon,0.99054,1
-31041,Ideal,standard,269,Taylor,0.00946,2
-31042,Irwinton,standard,319,Wilkinson,0.99154,1
-31042,Irwinton,standard,175,Laurens,0.00846,2
-31044,Jeffersonville,standard,289,Twiggs,0.95933,1
-31044,Jeffersonville,standard,319,Wilkinson,0.04067,2
-31045,Jewell,standard,301,Warren,0.72727,1
-31045,Jewell,standard,141,Hancock,0.27273,2
-31046,Juliette,standard,207,Monroe,0.89269,1
-31046,Juliette,standard,169,Jones,0.10731,2
-31047,Kathleen,standard,153,Houston,1.0,1
-31049,Kite,standard,167,Johnson,0.69456,1
-31049,Kite,standard,107,Emanuel,0.30544,2
-31050,Knoxville,other,079,Crawford,1.0,1
-31052,Lizella,standard,021,Bibb,0.81116,1
-31052,Lizella,standard,079,Crawford,0.18884,2
-31054,Mc Intyre,standard,319,Wilkinson,1.0,1
-31055,Mc Rae Helena,standard,271,Telfair,1.0,1
-31057,Marshallville,standard,193,Macon,1.0,1
-31058,Mauk,standard,197,Marion,0.66205,1
-31058,Mauk,standard,269,Taylor,0.33149,2
-31058,Mauk,standard,249,Schley,0.00646,3
-31060,Milan,standard,271,Telfair,0.57512,1
-31060,Milan,standard,091,Dodge,0.42488,2
-31061,Milledgeville,standard,009,Baldwin,0.96508,1
-31061,Milledgeville,standard,237,Putnam,0.02819,2
-31061,Milledgeville,standard,141,Hancock,0.00374,3
-31061,Milledgeville,standard,319,Wilkinson,0.00249,4
-31061,Milledgeville,standard,169,Jones,0.0005,5
-31062,Milledgeville,other,009,Baldwin,1.0,1
-31063,Montezuma,standard,193,Macon,0.96556,1
-31063,Montezuma,standard,093,Dooly,0.03444,2
-31064,Monticello,standard,159,Jasper,0.99791,1
-31064,Monticello,standard,217,Newton,0.00209,2
-31065,Montrose,standard,175,Laurens,0.78837,1
-31065,Montrose,standard,023,Bleckley,0.17447,2
-31065,Montrose,standard,319,Wilkinson,0.03716,3
-31066,Musella,standard,079,Crawford,0.88968,1
-31066,Musella,standard,207,Monroe,0.07473,2
-31066,Musella,standard,021,Bibb,0.03559,3
-31068,Oglethorpe,standard,193,Macon,0.99508,1
-31068,Oglethorpe,standard,249,Schley,0.0041,2
-31068,Oglethorpe,standard,269,Taylor,0.00082,3
-31069,Perry,standard,153,Houston,0.99001,1
-31069,Perry,standard,225,Peach,0.00925,2
-31069,Perry,standard,193,Macon,0.00074,3
-31070,Pinehurst,standard,093,Dooly,1.0,1
-31071,Pineview,standard,315,Wilcox,0.49281,1
-31071,Pineview,standard,235,Pulaski,0.48741,2
-31071,Pineview,standard,093,Dooly,0.01978,3
-31072,Pitts,standard,315,Wilcox,0.92771,1
-31072,Pitts,standard,081,Crisp,0.06158,2
-31072,Pitts,standard,093,Dooly,0.01071,3
-31075,Rentz,standard,175,Laurens,1.0,1
-31076,Reynolds,standard,269,Taylor,0.89643,1
-31076,Reynolds,standard,193,Macon,0.10298,2
-31076,Reynolds,standard,225,Peach,0.0006,3
-31077,Rhine,standard,091,Dodge,0.69397,1
-31077,Rhine,standard,271,Telfair,0.30603,2
-31078,Roberta,standard,079,Crawford,1.0,1
-31079,Rochelle,standard,315,Wilcox,0.93244,1
-31079,Rochelle,standard,017,Ben Hill,0.06756,2
-31081,Rupert,standard,269,Taylor,0.90066,1
-31081,Rupert,standard,193,Macon,0.09272,2
-31081,Rupert,standard,249,Schley,0.00662,3
-31082,Sandersville,standard,303,Washington,0.98825,1
-31082,Sandersville,standard,009,Baldwin,0.01103,2
-31082,Sandersville,standard,141,Hancock,0.00072,3
-31085,Shady Dale,standard,159,Jasper,0.99779,1
-31085,Shady Dale,standard,217,Newton,0.00221,2
-31087,Sparta,standard,141,Hancock,0.9522,1
-31087,Sparta,standard,009,Baldwin,0.04516,2
-31087,Sparta,standard,303,Washington,0.00265,3
-31088,Warner Robins,standard,153,Houston,1.0,1
-31089,Tennille,standard,303,Washington,0.9767,1
-31089,Tennille,standard,167,Johnson,0.0233,2
-31090,Toomsboro,standard,319,Wilkinson,1.0,1
-31091,Unadilla,standard,093,Dooly,0.95041,1
-31091,Unadilla,standard,153,Houston,0.02583,2
-31091,Unadilla,standard,235,Pulaski,0.02169,3
-31091,Unadilla,standard,193,Macon,0.00207,4
-31092,Vienna,standard,093,Dooly,0.9657,1
-31092,Vienna,standard,081,Crisp,0.03268,2
-31092,Vienna,standard,315,Wilcox,0.00162,3
-31093,Warner Robins,standard,153,Houston,1.0,1
-31094,Warthen,standard,303,Washington,1.0,1
-31096,Wrightsville,standard,167,Johnson,0.94635,1
-31096,Wrightsville,standard,303,Washington,0.03437,2
-31096,Wrightsville,standard,175,Laurens,0.01927,3
-31097,Yatesville,standard,293,Upson,0.91272,1
-31097,Yatesville,standard,171,Lamar,0.07396,2
-31097,Yatesville,standard,207,Monroe,0.01331,3
-31098,Warner Robins,standard,153,Houston,1.0,1
-31136,Atlanta,other,121,Fulton,1.0,1
-31201,Macon,standard,021,Bibb,1.0,1
-31204,Macon,standard,021,Bibb,1.0,1
-31206,Macon,standard,021,Bibb,1.0,1
-31207,Macon,other,021,Bibb,1.0,1
-31209,Macon,other,021,Bibb,1.0,1
-31210,Macon,standard,021,Bibb,0.93634,1
-31210,Macon,standard,207,Monroe,0.06366,2
-31211,Macon,standard,021,Bibb,0.5542,1
-31211,Macon,standard,169,Jones,0.4458,2
-31213,Macon,other,021,Bibb,1.0,1
-31216,Macon,standard,021,Bibb,1.0,1
-31217,Macon,standard,021,Bibb,0.65072,1
-31217,Macon,standard,169,Jones,0.19886,2
-31217,Macon,standard,289,Twiggs,0.15041,3
-31220,Macon,standard,021,Bibb,0.9086,1
-31220,Macon,standard,207,Monroe,0.0914,2
-31295,Macon,other,021,Bibb,1.0,1
-31301,Allenhurst,standard,179,Liberty,0.68012,1
-31301,Allenhurst,standard,183,Long,0.31988,2
-31302,Bloomingdale,standard,051,Chatham,0.77089,1
-31302,Bloomingdale,standard,103,Effingham,0.22818,2
-31302,Bloomingdale,standard,029,Bryan,0.00094,3
-31303,Clyo,standard,103,Effingham,1.0,1
-31305,Darien,standard,191,McIntosh,1.0,1
-31308,Ellabell,standard,029,Bryan,0.74356,1
-31308,Ellabell,standard,031,Bulloch,0.25644,2
-31309,Fleming,standard,179,Liberty,1.0,1
-31312,Guyton,standard,103,Effingham,0.99958,1
-31312,Guyton,standard,051,Chatham,0.00042,2
-31313,Hinesville,standard,179,Liberty,0.98629,1
-31313,Hinesville,standard,183,Long,0.01371,2
-31314,Fort Stewart,other,179,Liberty,1.0,1
-31315,Fort Stewart,standard,179,Liberty,1.0,1
-31316,Ludowici,standard,183,Long,0.99791,1
-31316,Ludowici,standard,179,Liberty,0.00209,2
-31320,Midway,standard,179,Liberty,1.0,1
-31321,Pembroke,standard,029,Bryan,0.61779,1
-31321,Pembroke,standard,031,Bulloch,0.38221,2
-31322,Pooler,standard,051,Chatham,1.0,1
-31323,Riceboro,standard,179,Liberty,0.83784,1
-31323,Riceboro,standard,191,McIntosh,0.16216,2
-31324,Richmond Hill,standard,029,Bryan,1.0,1
-31326,Rincon,standard,103,Effingham,1.0,1
-31328,Tybee Island,standard,051,Chatham,1.0,1
-31329,Springfield,standard,103,Effingham,1.0,1
-31331,Townsend,standard,191,McIntosh,1.0,1
-31401,Savannah,standard,051,Chatham,1.0,1
-31404,Savannah,standard,051,Chatham,1.0,1
-31405,Savannah,standard,051,Chatham,1.0,1
-31406,Savannah,standard,051,Chatham,1.0,1
-31407,Port Wentworth,standard,051,Chatham,0.99962,1
-31407,Port Wentworth,standard,103,Effingham,0.00038,2
-31408,Savannah,standard,051,Chatham,1.0,1
-31410,Savannah,standard,051,Chatham,1.0,1
-31411,Savannah,standard,051,Chatham,1.0,1
-31415,Savannah,standard,051,Chatham,1.0,1
-31419,Savannah,standard,051,Chatham,1.0,1
-31501,Waycross,standard,299,Ware,1.0,1
-31503,Waycross,standard,299,Ware,0.88416,1
-31503,Waycross,standard,025,Brantley,0.11165,2
-31503,Waycross,standard,229,Pierce,0.00419,3
-31510,Alma,standard,005,Bacon,0.96628,1
-31510,Alma,standard,229,Pierce,0.03223,2
-31510,Alma,standard,161,Jeff Davis,0.00149,3
-31512,Ambrose,standard,069,Coffee,0.99913,1
-31512,Ambrose,standard,155,Irwin,0.00087,2
-31513,Baxley,standard,001,Appling,0.99947,1
-31513,Baxley,standard,161,Jeff Davis,0.00053,2
-31516,Blackshear,standard,229,Pierce,1.0,1
-31518,Bristol,standard,001,Appling,0.46154,1
-31518,Bristol,standard,229,Pierce,0.38462,2
-31518,Bristol,standard,305,Wayne,0.13609,3
-31518,Bristol,standard,005,Bacon,0.01775,4
-31519,Broxton,standard,069,Coffee,0.97305,1
-31519,Broxton,standard,161,Jeff Davis,0.02648,2
-31519,Broxton,standard,017,Ben Hill,0.00047,3
-31520,Brunswick,standard,127,Glynn,1.0,1
-31522,Saint Simons Island,standard,127,Glynn,1.0,1
-31523,Brunswick,standard,127,Glynn,1.0,1
-31524,Brunswick,other,127,Glynn,1.0,1
-31525,Brunswick,standard,127,Glynn,1.0,1
-31527,Jekyll Island,standard,127,Glynn,1.0,1
-31532,Denton,standard,161,Jeff Davis,0.99364,1
-31532,Denton,standard,069,Coffee,0.00636,2
-31533,Douglas,standard,069,Coffee,1.0,1
-31535,Douglas,standard,069,Coffee,1.0,1
-31537,Folkston,standard,049,Charlton,0.94531,1
-31537,Folkston,standard,039,Camden,0.05008,2
-31537,Folkston,standard,025,Brantley,0.00461,3
-31539,Hazlehurst,standard,161,Jeff Davis,0.96965,1
-31539,Hazlehurst,standard,001,Appling,0.03022,2
-31539,Hazlehurst,standard,005,Bacon,0.00014,3
-31542,Hoboken,standard,025,Brantley,1.0,1
-31543,Hortense,standard,025,Brantley,0.82191,1
-31543,Hortense,standard,305,Wayne,0.16095,2
-31543,Hortense,standard,127,Glynn,0.01714,3
-31544,Jacksonville,standard,271,Telfair,1.0,1
-31545,Jesup,standard,305,Wayne,1.0,1
-31546,Jesup,standard,305,Wayne,1.0,1
-31547,Kings Bay,standard,039,Camden,1.0,1
-31548,Kingsland,standard,039,Camden,1.0,1
-31549,Lumber City,standard,271,Telfair,0.8631,1
-31549,Lumber City,standard,309,Wheeler,0.1369,2
-31550,Manor,standard,299,Ware,1.0,1
-31551,Mershon,standard,229,Pierce,0.54237,1
-31551,Mershon,standard,005,Bacon,0.45763,2
-31552,Millwood,standard,299,Ware,0.89871,1
-31552,Millwood,standard,003,Atkinson,0.0627,2
-31552,Millwood,standard,069,Coffee,0.03859,3
-31553,Nahunta,standard,025,Brantley,0.9946,1
-31553,Nahunta,standard,049,Charlton,0.0054,2
-31554,Nicholls,standard,069,Coffee,0.70367,1
-31554,Nicholls,standard,005,Bacon,0.2279,2
-31554,Nicholls,standard,299,Ware,0.06843,3
-31555,Odum,standard,305,Wayne,0.90963,1
-31555,Odum,standard,001,Appling,0.09037,2
-31557,Patterson,standard,229,Pierce,0.93141,1
-31557,Patterson,standard,025,Brantley,0.05072,2
-31557,Patterson,standard,001,Appling,0.01729,3
-31557,Patterson,standard,305,Wayne,0.00058,4
-31558,Saint Marys,standard,039,Camden,1.0,1
-31560,Screven,standard,305,Wayne,0.99818,1
-31560,Screven,standard,001,Appling,0.00182,2
-31562,Saint George,standard,049,Charlton,1.0,1
-31563,Surrency,standard,001,Appling,1.0,1
-31565,Waverly,standard,039,Camden,0.99668,1
-31565,Waverly,standard,025,Brantley,0.00332,2
-31566,Waynesville,standard,025,Brantley,0.97544,1
-31566,Waynesville,standard,127,Glynn,0.01805,2
-31566,Waynesville,standard,039,Camden,0.00652,3
-31567,West Green,standard,069,Coffee,1.0,1
-31568,White Oak,standard,039,Camden,1.0,1
-31569,Woodbine,standard,039,Camden,1.0,1
-31599,Jesup,other,305,Wayne,1.0,1
-31601,Valdosta,standard,185,Lowndes,1.0,1
-31602,Valdosta,standard,185,Lowndes,0.92745,1
-31602,Valdosta,standard,027,Brooks,0.07255,2
-31605,Valdosta,standard,185,Lowndes,0.99927,1
-31605,Valdosta,standard,173,Lanier,0.00073,2
-31606,Valdosta,standard,185,Lowndes,1.0,1
-31620,Adel,standard,075,Cook,1.0,1
-31622,Alapaha,standard,019,Berrien,1.0,1
-31624,Axson,standard,003,Atkinson,0.9034,1
-31624,Axson,standard,069,Coffee,0.06395,2
-31624,Axson,standard,299,Ware,0.03265,3
-31625,Barney,standard,027,Brooks,1.0,1
-31626,Boston,standard,275,Thomas,0.93811,1
-31626,Boston,standard,027,Brooks,0.06189,2
-31629,Dixie,standard,027,Brooks,1.0,1
-31630,Du Pont,standard,065,Clinch,0.8,1
-31630,Du Pont,standard,101,Echols,0.2,2
-31631,Fargo,standard,065,Clinch,0.70629,1
-31631,Fargo,standard,101,Echols,0.25874,2
-31631,Fargo,standard,049,Charlton,0.02797,3
-31631,Fargo,standard,299,Ware,0.00699,4
-31632,Hahira,standard,185,Lowndes,0.92689,1
-31632,Hahira,standard,075,Cook,0.07311,2
-31634,Homerville,standard,065,Clinch,1.0,1
-31635,Lakeland,standard,173,Lanier,0.98365,1
-31635,Lakeland,standard,065,Clinch,0.00787,2
-31635,Lakeland,standard,019,Berrien,0.00363,3
-31635,Lakeland,standard,003,Atkinson,0.00303,4
-31635,Lakeland,standard,185,Lowndes,0.00182,5
-31636,Lake Park,standard,185,Lowndes,0.76058,1
-31636,Lake Park,standard,101,Echols,0.23942,2
-31637,Lenox,standard,075,Cook,0.55595,1
-31637,Lenox,standard,019,Berrien,0.27727,2
-31637,Lenox,standard,071,Colquitt,0.08445,3
-31637,Lenox,standard,277,Tift,0.08234,4
-31638,Morven,standard,027,Brooks,1.0,1
-31639,Nashville,standard,019,Berrien,0.99425,1
-31639,Nashville,standard,173,Lanier,0.00575,2
-31641,Naylor,standard,185,Lowndes,0.54272,1
-31641,Naylor,standard,173,Lanier,0.45728,2
-31642,Pearson,standard,003,Atkinson,0.98567,1
-31642,Pearson,standard,065,Clinch,0.0084,2
-31642,Pearson,standard,069,Coffee,0.00593,3
-31643,Quitman,standard,027,Brooks,1.0,1
-31645,Ray City,standard,019,Berrien,0.53886,1
-31645,Ray City,standard,173,Lanier,0.28963,2
-31645,Ray City,standard,185,Lowndes,0.17152,3
-31647,Sparks,standard,075,Cook,1.0,1
-31648,Statenville,standard,101,Echols,1.0,1
-31649,Stockton,standard,173,Lanier,0.97669,1
-31649,Stockton,standard,101,Echols,0.01632,2
-31649,Stockton,standard,065,Clinch,0.00699,3
-31650,Willacoochee,standard,003,Atkinson,0.68894,1
-31650,Willacoochee,standard,069,Coffee,0.31106,2
-31698,Valdosta,other,185,Lowndes,1.0,1
-31699,Moody Afb,other,185,Lowndes,1.0,1
-31701,Albany,standard,095,Dougherty,0.9564,1
-31701,Albany,standard,177,Lee,0.0436,2
-31704,Albany,other,095,Dougherty,1.0,1
-31705,Albany,standard,095,Dougherty,0.90557,1
-31705,Albany,standard,321,Worth,0.06481,2
-31705,Albany,standard,205,Mitchell,0.02961,3
-31707,Albany,standard,095,Dougherty,0.95837,1
-31707,Albany,standard,177,Lee,0.04163,2
-31709,Americus,standard,261,Sumter,1.0,1
-31711,Andersonville,standard,261,Sumter,0.65363,1
-31711,Andersonville,standard,193,Macon,0.3352,2
-31711,Andersonville,standard,249,Schley,0.01117,3
-31712,Arabi,standard,081,Crisp,0.88372,1
-31712,Arabi,standard,287,Turner,0.09012,2
-31712,Arabi,standard,321,Worth,0.02616,3
-31714,Ashburn,standard,287,Turner,0.97008,1
-31714,Ashburn,standard,321,Worth,0.0277,2
-31714,Ashburn,standard,277,Tift,0.00194,3
-31714,Ashburn,standard,315,Wilcox,0.00028,4
-31716,Baconton,standard,205,Mitchell,1.0,1
-31719,Americus,standard,261,Sumter,0.99246,1
-31719,Americus,standard,249,Schley,0.00754,2
-31721,Albany,standard,095,Dougherty,0.9067,1
-31721,Albany,standard,177,Lee,0.08118,2
-31721,Albany,standard,273,Terrell,0.00642,3
-31721,Albany,standard,007,Baker,0.0057,4
-31730,Camilla,standard,205,Mitchell,0.98129,1
-31730,Camilla,standard,087,Decatur,0.01828,2
-31730,Camilla,standard,071,Colquitt,0.00022,3
-31730,Camilla,standard,131,Grady,0.00022,4
-31733,Chula,standard,277,Tift,0.62469,1
-31733,Chula,standard,155,Irwin,0.37406,2
-31733,Chula,standard,287,Turner,0.00125,3
-31735,Cobb,standard,261,Sumter,1.0,1
-31738,Coolidge,standard,275,Thomas,0.88417,1
-31738,Coolidge,standard,071,Colquitt,0.11583,2
-31743,De Soto,standard,261,Sumter,0.74315,1
-31743,De Soto,standard,177,Lee,0.25685,2
-31744,Doerun,standard,071,Colquitt,0.59491,1
-31744,Doerun,standard,321,Worth,0.3653,2
-31744,Doerun,standard,205,Mitchell,0.03979,3
-31749,Enigma,standard,019,Berrien,0.87525,1
-31749,Enigma,standard,277,Tift,0.118,2
-31749,Enigma,standard,155,Irwin,0.00674,3
-31750,Fitzgerald,standard,017,Ben Hill,0.93001,1
-31750,Fitzgerald,standard,155,Irwin,0.06927,2
-31750,Fitzgerald,standard,315,Wilcox,0.00072,3
-31756,Hartsfield,standard,071,Colquitt,1.0,1
-31757,Thomasville,standard,275,Thomas,1.0,1
-31763,Leesburg,standard,177,Lee,0.99733,1
-31763,Leesburg,standard,095,Dougherty,0.00267,2
-31764,Leslie,standard,261,Sumter,0.94837,1
-31764,Leslie,standard,177,Lee,0.05163,2
-31765,Meigs,standard,275,Thomas,0.44199,1
-31765,Meigs,standard,205,Mitchell,0.33149,2
-31765,Meigs,standard,071,Colquitt,0.22652,3
-31768,Moultrie,standard,071,Colquitt,0.99806,1
-31768,Moultrie,standard,321,Worth,0.00194,2
-31771,Norman Park,standard,071,Colquitt,0.97101,1
-31771,Norman Park,standard,321,Worth,0.02899,2
-31772,Oakfield,standard,321,Worth,1.0,1
-31773,Ochlocknee,standard,275,Thomas,0.73104,1
-31773,Ochlocknee,standard,131,Grady,0.25718,2
-31773,Ochlocknee,standard,071,Colquitt,0.01178,3
-31774,Ocilla,standard,155,Irwin,0.99908,1
-31774,Ocilla,standard,019,Berrien,0.00061,2
-31774,Ocilla,standard,069,Coffee,0.00031,3
-31775,Omega,standard,277,Tift,0.57132,1
-31775,Omega,standard,071,Colquitt,0.32981,2
-31775,Omega,standard,321,Worth,0.09887,3
-31778,Pavo,standard,275,Thomas,0.48276,1
-31778,Pavo,standard,027,Brooks,0.47175,2
-31778,Pavo,standard,071,Colquitt,0.04549,3
-31779,Pelham,standard,205,Mitchell,0.82867,1
-31779,Pelham,standard,131,Grady,0.16706,2
-31779,Pelham,standard,275,Thomas,0.00427,3
-31780,Plains,standard,261,Sumter,0.99674,1
-31780,Plains,standard,307,Webster,0.00326,2
-31781,Poulan,standard,321,Worth,1.0,1
-31783,Rebecca,standard,287,Turner,0.49196,1
-31783,Rebecca,standard,155,Irwin,0.38585,2
-31783,Rebecca,standard,017,Ben Hill,0.12219,3
-31784,Sale City,standard,205,Mitchell,0.97073,1
-31784,Sale City,standard,071,Colquitt,0.02927,2
-31787,Smithville,standard,177,Lee,0.79199,1
-31787,Smithville,standard,261,Sumter,0.20801,2
-31788,Moultrie,standard,071,Colquitt,0.99579,1
-31788,Moultrie,standard,027,Brooks,0.00421,2
-31789,Sumner,standard,321,Worth,0.99193,1
-31789,Sumner,standard,287,Turner,0.00807,2
-31790,Sycamore,standard,287,Turner,0.95273,1
-31790,Sycamore,standard,277,Tift,0.03046,2
-31790,Sycamore,standard,155,Irwin,0.01681,3
-31791,Sylvester,standard,321,Worth,0.99169,1
-31791,Sylvester,standard,095,Dougherty,0.00831,2
-31792,Thomasville,standard,275,Thomas,0.97099,1
-31792,Thomasville,standard,131,Grady,0.02901,2
-31793,Tifton,standard,277,Tift,1.0,1
-31794,Tifton,standard,277,Tift,0.98164,1
-31794,Tifton,standard,019,Berrien,0.01836,2
-31795,Ty Ty,standard,277,Tift,0.65907,1
-31795,Ty Ty,standard,321,Worth,0.34093,2
-31796,Warwick,standard,321,Worth,0.98939,1
-31796,Warwick,standard,081,Crisp,0.01061,2
-31798,Wray,standard,155,Irwin,0.47613,1
-31798,Wray,standard,069,Coffee,0.36698,2
-31798,Wray,standard,017,Ben Hill,0.15689,3
-31801,Box Springs,standard,197,Marion,0.55632,1
-31801,Box Springs,standard,263,Talbot,0.40843,2
-31801,Box Springs,standard,215,Muscogee,0.03525,3
-31803,Buena Vista,standard,197,Marion,0.95142,1
-31803,Buena Vista,standard,249,Schley,0.04579,2
-31803,Buena Vista,standard,307,Webster,0.0028,3
-31804,Cataula,standard,145,Harris,0.99872,1
-31804,Cataula,standard,215,Muscogee,0.00128,2
-31805,Cusseta,standard,053,Chattahoochee,0.95341,1
-31805,Cusseta,standard,259,Stewart,0.04659,2
-31806,Ellaville,standard,249,Schley,0.96269,1
-31806,Ellaville,standard,193,Macon,0.03731,2
-31807,Ellerslie,standard,145,Harris,1.0,1
-31808,Fortson,standard,145,Harris,0.62411,1
-31808,Fortson,standard,215,Muscogee,0.37589,2
-31811,Hamilton,standard,145,Harris,1.0,1
-31812,Junction City,standard,263,Talbot,0.75522,1
-31812,Junction City,standard,269,Taylor,0.24478,2
-31815,Lumpkin,standard,259,Stewart,0.99866,1
-31815,Lumpkin,standard,239,Quitman,0.00134,2
-31816,Manchester,standard,199,Meriwether,0.95695,1
-31816,Manchester,standard,263,Talbot,0.04305,2
-31820,Midland,standard,215,Muscogee,0.8236,1
-31820,Midland,standard,145,Harris,0.1764,2
-31821,Omaha,standard,259,Stewart,1.0,1
-31822,Pine Mountain,standard,145,Harris,0.60302,1
-31822,Pine Mountain,standard,285,Troup,0.28557,2
-31822,Pine Mountain,standard,199,Meriwether,0.11142,3
-31823,Pine Mountain Valley,standard,145,Harris,1.0,1
-31824,Preston,standard,307,Webster,0.99073,1
-31824,Preston,standard,197,Marion,0.00463,2
-31824,Preston,standard,273,Terrell,0.00463,3
-31825,Richland,standard,259,Stewart,0.78858,1
-31825,Richland,standard,307,Webster,0.21142,2
-31826,Shiloh,standard,145,Harris,0.57064,1
-31826,Shiloh,standard,263,Talbot,0.42936,2
-31827,Talbotton,standard,263,Talbot,1.0,1
-31829,Upatoi,standard,215,Muscogee,0.79191,1
-31829,Upatoi,standard,145,Harris,0.20809,2
-31830,Warm Springs,standard,199,Meriwether,0.92195,1
-31830,Warm Springs,standard,145,Harris,0.07805,2
-31831,Waverly Hall,standard,145,Harris,0.86135,1
-31831,Waverly Hall,standard,263,Talbot,0.13865,2
-31832,Weston,standard,307,Webster,1.0,1
-31833,West Point,standard,285,Troup,0.70157,1
-31833,West Point,standard,145,Harris,0.29843,2
-31836,Woodland,standard,263,Talbot,1.0,1
-31901,Columbus,standard,215,Muscogee,1.0,1
-31903,Columbus,standard,215,Muscogee,1.0,1
-31904,Columbus,standard,215,Muscogee,1.0,1
-31905,Fort Benning,standard,053,Chattahoochee,0.5388,1
-31905,Fort Benning,standard,215,Muscogee,0.4612,2
-31906,Columbus,standard,215,Muscogee,1.0,1
-31907,Columbus,standard,215,Muscogee,1.0,1
-31909,Columbus,standard,215,Muscogee,1.0,1
-31999,Columbus,other,215,Muscogee,1.0,1
-39813,Arlington,standard,037,Calhoun,0.66186,1
-39813,Arlington,standard,099,Early,0.27423,2
-39813,Arlington,standard,007,Baker,0.06392,3
-39815,Attapulgus,standard,087,Decatur,1.0,1
-39817,Bainbridge,standard,087,Decatur,1.0,1
-39819,Bainbridge,standard,087,Decatur,1.0,1
-39823,Blakely,standard,099,Early,0.97836,1
-39823,Blakely,standard,201,Miller,0.0199,2
-39823,Blakely,standard,061,Clay,0.00173,3
-39824,Bluffton,standard,061,Clay,0.77941,1
-39824,Bluffton,standard,099,Early,0.22059,2
-39825,Brinson,standard,087,Decatur,0.95066,1
-39825,Brinson,standard,253,Seminole,0.04934,2
-39826,Bronwood,standard,273,Terrell,1.0,1
-39827,Cairo,standard,131,Grady,1.0,1
-39828,Cairo,standard,131,Grady,0.99988,1
-39828,Cairo,standard,275,Thomas,0.00012,2
-39834,Climax,standard,087,Decatur,0.99616,1
-39834,Climax,standard,131,Grady,0.00384,2
-39836,Coleman,standard,243,Randolph,0.83761,1
-39836,Coleman,standard,061,Clay,0.16239,2
-39837,Colquitt,standard,201,Miller,0.88239,1
-39837,Colquitt,standard,087,Decatur,0.05485,2
-39837,Colquitt,standard,007,Baker,0.05457,3
-39837,Colquitt,standard,099,Early,0.00763,4
-39837,Colquitt,standard,253,Seminole,0.00057,5
-39840,Cuthbert,standard,243,Randolph,0.99851,1
-39840,Cuthbert,standard,037,Calhoun,0.00149,2
-39841,Damascus,standard,099,Early,0.76923,1
-39841,Damascus,standard,007,Baker,0.15789,2
-39841,Damascus,standard,201,Miller,0.07287,3
-39842,Dawson,standard,273,Terrell,0.99367,1
-39842,Dawson,standard,177,Lee,0.00375,2
-39842,Dawson,standard,037,Calhoun,0.00211,3
-39842,Dawson,standard,095,Dougherty,0.00047,4
-39845,Donalsonville,standard,253,Seminole,0.93586,1
-39845,Donalsonville,standard,201,Miller,0.05689,2
-39845,Donalsonville,standard,099,Early,0.00726,3
-39846,Edison,standard,037,Calhoun,0.93911,1
-39846,Edison,standard,061,Clay,0.06089,2
-39851,Fort Gaines,standard,061,Clay,0.99281,1
-39851,Fort Gaines,standard,243,Randolph,0.00719,2
-39854,Georgetown,standard,239,Quitman,0.93212,1
-39854,Georgetown,standard,061,Clay,0.0674,2
-39854,Georgetown,standard,259,Stewart,0.00048,3
-39859,Iron City,standard,253,Seminole,0.94918,1
-39859,Iron City,standard,201,Miller,0.05082,2
-39861,Jakin,standard,099,Early,0.95958,1
-39861,Jakin,standard,253,Seminole,0.04042,2
-39862,Leary,standard,037,Calhoun,0.57595,1
-39862,Leary,standard,007,Baker,0.41614,2
-39862,Leary,standard,273,Terrell,0.00791,3
-39866,Morgan,standard,037,Calhoun,0.96691,1
-39866,Morgan,standard,243,Randolph,0.03309,2
-39867,Morris,other,239,Quitman,0.38782,1
-39867,Morris,other,061,Clay,0.35256,2
-39867,Morris,other,243,Randolph,0.23077,3
-39867,Morris,other,259,Stewart,0.02885,4
-39870,Newton,standard,007,Baker,1.0,1
-39877,Parrott,standard,273,Terrell,0.54452,1
-39877,Parrott,standard,307,Webster,0.45548,2
-39886,Shellman,standard,243,Randolph,0.92888,1
-39886,Shellman,standard,273,Terrell,0.05263,2
-39886,Shellman,standard,037,Calhoun,0.01849,3
-39897,Whigham,standard,131,Grady,0.97317,1
-39897,Whigham,standard,087,Decatur,0.02683,2
-39901,Atlanta,other,089,DeKalb,1.0,1
+30002,Avondale Estates,standard,13089,DeKalb,1.0,1
+30004,Alpharetta,standard,13121,Fulton,0.71377,1
+30004,Alpharetta,standard,13117,Forsyth,0.23061,2
+30004,Alpharetta,standard,13057,Cherokee,0.05562,3
+30005,Alpharetta,standard,13121,Fulton,0.74467,1
+30005,Alpharetta,standard,13117,Forsyth,0.25533,2
+30008,Marietta,standard,13067,Cobb,1.0,1
+30009,Alpharetta,standard,13121,Fulton,1.0,1
+30011,Auburn,standard,13013,Barrow,0.70278,1
+30011,Auburn,standard,13135,Gwinnett,0.29722,2
+30012,Conyers,standard,13247,Rockdale,0.96967,1
+30012,Conyers,standard,13089,DeKalb,0.01781,2
+30012,Conyers,standard,13297,Walton,0.01093,3
+30012,Conyers,standard,13135,Gwinnett,0.00159,4
+30013,Conyers,standard,13247,Rockdale,0.92501,1
+30013,Conyers,standard,13217,Newton,0.07499,2
+30014,Covington,standard,13217,Newton,0.91653,1
+30014,Covington,standard,13297,Walton,0.07621,2
+30014,Covington,standard,13159,Jasper,0.00726,3
+30016,Covington,standard,13217,Newton,0.99207,1
+30016,Covington,standard,13247,Rockdale,0.00793,2
+30017,Grayson,standard,13135,Gwinnett,1.0,1
+30019,Dacula,standard,13135,Gwinnett,0.99404,1
+30019,Dacula,standard,13297,Walton,0.00596,2
+30021,Clarkston,standard,13089,DeKalb,1.0,1
+30022,Alpharetta,standard,13121,Fulton,1.0,1
+30024,Suwanee,standard,13135,Gwinnett,0.71711,1
+30024,Suwanee,standard,13117,Forsyth,0.25624,2
+30024,Suwanee,standard,13121,Fulton,0.02665,3
+30025,Social Circle,standard,13297,Walton,0.76088,1
+30025,Social Circle,standard,13217,Newton,0.23829,2
+30025,Social Circle,standard,13211,Morgan,0.00083,3
+30028,Cumming,standard,13117,Forsyth,0.97929,1
+30028,Cumming,standard,13057,Cherokee,0.02036,2
+30028,Cumming,standard,13085,Dawson,0.00034,3
+30030,Decatur,standard,13089,DeKalb,1.0,1
+30032,Decatur,standard,13089,DeKalb,1.0,1
+30033,Decatur,standard,13089,DeKalb,1.0,1
+30034,Decatur,standard,13089,DeKalb,1.0,1
+30035,Decatur,standard,13089,DeKalb,1.0,1
+30038,Lithonia,standard,13089,DeKalb,1.0,1
+30039,Snellville,standard,13135,Gwinnett,0.97093,1
+30039,Snellville,standard,13089,DeKalb,0.02827,2
+30039,Snellville,standard,13247,Rockdale,0.0008,3
+30040,Cumming,standard,13117,Forsyth,0.99566,1
+30040,Cumming,standard,13057,Cherokee,0.00434,2
+30041,Cumming,standard,13117,Forsyth,1.0,1
+30043,Lawrenceville,standard,13135,Gwinnett,1.0,1
+30044,Lawrenceville,standard,13135,Gwinnett,1.0,1
+30045,Lawrenceville,standard,13135,Gwinnett,1.0,1
+30046,Lawrenceville,standard,13135,Gwinnett,1.0,1
+30047,Lilburn,standard,13135,Gwinnett,1.0,1
+30052,Loganville,standard,13135,Gwinnett,0.54049,1
+30052,Loganville,standard,13297,Walton,0.45262,2
+30052,Loganville,standard,13247,Rockdale,0.00547,3
+30052,Loganville,standard,13217,Newton,0.00142,4
+30054,Oxford,standard,13217,Newton,0.85492,1
+30054,Oxford,standard,13297,Walton,0.14508,2
+30055,Mansfield,standard,13159,Jasper,0.54209,1
+30055,Mansfield,standard,13217,Newton,0.38177,2
+30055,Mansfield,standard,13211,Morgan,0.07614,3
+30056,Newborn,standard,13159,Jasper,0.49064,1
+30056,Newborn,standard,13217,Newton,0.39382,2
+30056,Newborn,standard,13211,Morgan,0.11554,3
+30058,Lithonia,standard,13089,DeKalb,0.99902,1
+30058,Lithonia,standard,13247,Rockdale,0.00076,2
+30058,Lithonia,standard,13135,Gwinnett,0.00023,3
+30060,Marietta,standard,13067,Cobb,1.0,1
+30062,Marietta,standard,13067,Cobb,1.0,1
+30063,Marietta,other,13067,Cobb,1.0,1
+30064,Marietta,standard,13067,Cobb,1.0,1
+30066,Marietta,standard,13067,Cobb,0.9991,1
+30066,Marietta,standard,13057,Cherokee,0.0009,2
+30067,Marietta,standard,13067,Cobb,1.0,1
+30068,Marietta,standard,13067,Cobb,1.0,1
+30069,Marietta,other,13067,Cobb,1.0,1
+30071,Norcross,standard,13135,Gwinnett,1.0,1
+30075,Roswell,standard,13121,Fulton,0.81381,1
+30075,Roswell,standard,13067,Cobb,0.17895,2
+30075,Roswell,standard,13057,Cherokee,0.00724,3
+30076,Roswell,standard,13121,Fulton,1.0,1
+30078,Snellville,standard,13135,Gwinnett,1.0,1
+30079,Scottdale,standard,13089,DeKalb,1.0,1
+30080,Smyrna,standard,13067,Cobb,1.0,1
+30082,Smyrna,standard,13067,Cobb,1.0,1
+30083,Stone Mountain,standard,13089,DeKalb,1.0,1
+30084,Tucker,standard,13089,DeKalb,0.70548,1
+30084,Tucker,standard,13135,Gwinnett,0.29452,2
+30087,Stone Mountain,standard,13089,DeKalb,0.63339,1
+30087,Stone Mountain,standard,13135,Gwinnett,0.36661,2
+30088,Stone Mountain,standard,13089,DeKalb,1.0,1
+30090,Marietta,other,13067,Cobb,1.0,1
+30092,Peachtree Corners,standard,13135,Gwinnett,0.97926,1
+30092,Peachtree Corners,standard,13121,Fulton,0.02074,2
+30093,Norcross,standard,13135,Gwinnett,0.99671,1
+30093,Norcross,standard,13089,DeKalb,0.00329,2
+30094,Conyers,standard,13247,Rockdale,0.97998,1
+30094,Conyers,standard,13089,DeKalb,0.01938,2
+30094,Conyers,standard,13217,Newton,0.00064,3
+30096,Duluth,standard,13135,Gwinnett,1.0,1
+30097,Duluth,standard,13135,Gwinnett,0.51563,1
+30097,Duluth,standard,13121,Fulton,0.44039,2
+30097,Duluth,standard,13117,Forsyth,0.04399,3
+30099,Duluth,other,13135,Gwinnett,1.0,1
+30101,Acworth,standard,13067,Cobb,0.75452,1
+30101,Acworth,standard,13223,Paulding,0.20703,2
+30101,Acworth,standard,13015,Bartow,0.0347,3
+30101,Acworth,standard,13057,Cherokee,0.00375,4
+30102,Acworth,standard,13057,Cherokee,0.65257,1
+30102,Acworth,standard,13067,Cobb,0.19478,2
+30102,Acworth,standard,13015,Bartow,0.15265,3
+30103,Adairsville,standard,13015,Bartow,0.77367,1
+30103,Adairsville,standard,13129,Gordon,0.17916,2
+30103,Adairsville,standard,13115,Floyd,0.04717,3
+30104,Aragon,standard,13233,Polk,0.73275,1
+30104,Aragon,standard,13115,Floyd,0.22841,2
+30104,Aragon,standard,13015,Bartow,0.03883,3
+30105,Armuchee,standard,13115,Floyd,0.92022,1
+30105,Armuchee,standard,13055,Chattooga,0.07978,2
+30106,Austell,standard,13067,Cobb,0.99078,1
+30106,Austell,standard,13097,Douglas,0.00922,2
+30107,Ball Ground,standard,13057,Cherokee,0.78587,1
+30107,Ball Ground,standard,13227,Pickens,0.11233,2
+30107,Ball Ground,standard,13117,Forsyth,0.1018,3
+30108,Bowdon,standard,13045,Carroll,0.98387,1
+30108,Bowdon,standard,13149,Heard,0.01613,2
+30110,Bremen,standard,13143,Haralson,0.95847,1
+30110,Bremen,standard,13045,Carroll,0.04153,2
+30113,Buchanan,standard,13143,Haralson,0.89971,1
+30113,Buchanan,standard,13233,Polk,0.10029,2
+30114,Canton,standard,13057,Cherokee,1.0,1
+30115,Canton,standard,13057,Cherokee,1.0,1
+30116,Carrollton,standard,13045,Carroll,1.0,1
+30117,Carrollton,standard,13045,Carroll,1.0,1
+30118,Carrollton,other,13045,Carroll,1.0,1
+30119,Carrollton,other,13045,Carroll,1.0,1
+30120,Cartersville,standard,13015,Bartow,0.99743,1
+30120,Cartersville,standard,13223,Paulding,0.00257,2
+30121,Cartersville,standard,13015,Bartow,1.0,1
+30122,Lithia Springs,standard,13097,Douglas,0.99778,1
+30122,Lithia Springs,standard,13067,Cobb,0.00222,2
+30124,Cave Spring,standard,13115,Floyd,0.99188,1
+30124,Cave Spring,standard,13233,Polk,0.00812,2
+30125,Cedartown,standard,13233,Polk,0.98253,1
+30125,Cedartown,standard,13115,Floyd,0.01747,2
+30126,Mableton,standard,13067,Cobb,1.0,1
+30127,Powder Springs,standard,13067,Cobb,0.89627,1
+30127,Powder Springs,standard,13223,Paulding,0.10339,2
+30127,Powder Springs,standard,13097,Douglas,0.00034,3
+30132,Dallas,standard,13223,Paulding,1.0,1
+30134,Douglasville,standard,13097,Douglas,0.71022,1
+30134,Douglasville,standard,13223,Paulding,0.28978,2
+30135,Douglasville,standard,13097,Douglas,1.0,1
+30137,Emerson,standard,13015,Bartow,1.0,1
+30138,Esom Hill,other,13233,Polk,1.0,1
+30139,Fairmount,standard,13129,Gordon,0.66028,1
+30139,Fairmount,standard,13227,Pickens,0.23135,2
+30139,Fairmount,standard,13015,Bartow,0.10838,3
+30141,Hiram,standard,13223,Paulding,0.997,1
+30141,Hiram,standard,13067,Cobb,0.003,2
+30143,Jasper,standard,13227,Pickens,0.88796,1
+30143,Jasper,standard,13085,Dawson,0.10132,2
+30143,Jasper,standard,13057,Cherokee,0.00951,3
+30143,Jasper,standard,13123,Gilmer,0.0012,4
+30144,Kennesaw,standard,13067,Cobb,1.0,1
+30145,Kingston,standard,13015,Bartow,0.77623,1
+30145,Kingston,standard,13115,Floyd,0.22377,2
+30147,Lindale,standard,13115,Floyd,0.96562,1
+30147,Lindale,standard,13233,Polk,0.03438,2
+30148,Marble Hill,standard,13227,Pickens,0.76528,1
+30148,Marble Hill,standard,13085,Dawson,0.23472,2
+30149,Mount Berry,other,13115,Floyd,1.0,1
+30152,Kennesaw,standard,13067,Cobb,1.0,1
+30153,Rockmart,standard,13233,Polk,0.69444,1
+30153,Rockmart,standard,13223,Paulding,0.28319,2
+30153,Rockmart,standard,13143,Haralson,0.02237,3
+30157,Dallas,standard,13223,Paulding,0.9847,1
+30157,Dallas,standard,13067,Cobb,0.0153,2
+30161,Rome,standard,13115,Floyd,0.99411,1
+30161,Rome,standard,13015,Bartow,0.00589,2
+30165,Rome,standard,13115,Floyd,0.99866,1
+30165,Rome,standard,13055,Chattooga,0.00134,2
+30168,Austell,standard,13067,Cobb,0.90821,1
+30168,Austell,standard,13097,Douglas,0.09179,2
+30170,Roopville,standard,13045,Carroll,0.62142,1
+30170,Roopville,standard,13149,Heard,0.37858,2
+30171,Rydal,standard,13015,Bartow,0.88068,1
+30171,Rydal,standard,13129,Gordon,0.11932,2
+30173,Silver Creek,standard,13115,Floyd,0.95101,1
+30173,Silver Creek,standard,13233,Polk,0.04899,2
+30175,Talking Rock,standard,13227,Pickens,0.73671,1
+30175,Talking Rock,standard,13123,Gilmer,0.26118,2
+30175,Talking Rock,standard,13129,Gordon,0.00212,3
+30176,Tallapoosa,standard,13143,Haralson,1.0,1
+30177,Tate,standard,13227,Pickens,1.0,1
+30178,Taylorsville,standard,13015,Bartow,0.90756,1
+30178,Taylorsville,standard,13233,Polk,0.08755,2
+30178,Taylorsville,standard,13223,Paulding,0.00489,3
+30179,Temple,standard,13045,Carroll,0.73003,1
+30179,Temple,standard,13223,Paulding,0.17257,2
+30179,Temple,standard,13143,Haralson,0.0974,3
+30180,Villa Rica,standard,13045,Carroll,0.71514,1
+30180,Villa Rica,standard,13097,Douglas,0.21759,2
+30180,Villa Rica,standard,13223,Paulding,0.06727,3
+30182,Waco,standard,13045,Carroll,0.50282,1
+30182,Waco,standard,13143,Haralson,0.49718,2
+30183,Waleska,standard,13057,Cherokee,0.99056,1
+30183,Waleska,standard,13227,Pickens,0.00668,2
+30183,Waleska,standard,13015,Bartow,0.00275,3
+30184,White,standard,13015,Bartow,0.83973,1
+30184,White,standard,13057,Cherokee,0.16027,2
+30185,Whitesburg,standard,13045,Carroll,0.91892,1
+30185,Whitesburg,standard,13097,Douglas,0.08108,2
+30187,Winston,standard,13097,Douglas,0.99713,1
+30187,Winston,standard,13045,Carroll,0.00287,2
+30188,Woodstock,standard,13057,Cherokee,0.98259,1
+30188,Woodstock,standard,13067,Cobb,0.01741,2
+30189,Woodstock,standard,13057,Cherokee,1.0,1
+30204,Barnesville,standard,13171,Lamar,0.9556,1
+30204,Barnesville,standard,13293,Upson,0.02362,2
+30204,Barnesville,standard,13207,Monroe,0.02077,3
+30205,Brooks,standard,13113,Fayette,0.71008,1
+30205,Brooks,standard,13255,Spalding,0.28992,2
+30206,Concord,standard,13231,Pike,1.0,1
+30213,Fairburn,standard,13121,Fulton,0.99979,1
+30213,Fairburn,standard,13113,Fayette,0.00021,2
+30214,Fayetteville,standard,13113,Fayette,0.99892,1
+30214,Fayetteville,standard,13121,Fulton,0.00108,2
+30215,Fayetteville,standard,13113,Fayette,0.90495,1
+30215,Fayetteville,standard,13063,Clayton,0.09505,2
+30216,Flovilla,standard,13035,Butts,1.0,1
+30217,Franklin,standard,13149,Heard,0.98875,1
+30217,Franklin,standard,13285,Troup,0.00961,2
+30217,Franklin,standard,13077,Coweta,0.00164,3
+30218,Gay,standard,13199,Meriwether,1.0,1
+30220,Grantville,standard,13077,Coweta,0.75097,1
+30220,Grantville,standard,13199,Meriwether,0.24865,2
+30220,Grantville,standard,13285,Troup,0.00039,3
+30222,Greenville,standard,13199,Meriwether,1.0,1
+30223,Griffin,standard,13255,Spalding,0.99974,1
+30223,Griffin,standard,13035,Butts,0.00021,2
+30223,Griffin,standard,13151,Henry,5e-05,3
+30224,Griffin,standard,13255,Spalding,0.89393,1
+30224,Griffin,standard,13231,Pike,0.07688,2
+30224,Griffin,standard,13171,Lamar,0.02868,3
+30224,Griffin,standard,13035,Butts,0.00051,4
+30228,Hampton,standard,13151,Henry,0.52465,1
+30228,Hampton,standard,13063,Clayton,0.44472,2
+30228,Hampton,standard,13255,Spalding,0.03063,3
+30230,Hogansville,standard,13285,Troup,0.78925,1
+30230,Hogansville,standard,13149,Heard,0.09962,2
+30230,Hogansville,standard,13199,Meriwether,0.0934,3
+30230,Hogansville,standard,13077,Coweta,0.01774,4
+30233,Jackson,standard,13035,Butts,0.80497,1
+30233,Jackson,standard,13207,Monroe,0.09207,2
+30233,Jackson,standard,13151,Henry,0.07342,3
+30233,Jackson,standard,13171,Lamar,0.02608,4
+30233,Jackson,standard,13217,Newton,0.00302,5
+30233,Jackson,standard,13255,Spalding,0.00043,6
+30234,Jenkinsburg,standard,13035,Butts,0.87331,1
+30234,Jenkinsburg,standard,13151,Henry,0.12669,2
+30236,Jonesboro,standard,13063,Clayton,0.94695,1
+30236,Jonesboro,standard,13151,Henry,0.05305,2
+30238,Jonesboro,standard,13063,Clayton,0.98038,1
+30238,Jonesboro,standard,13113,Fayette,0.01962,2
+30240,Lagrange,standard,13285,Troup,0.99958,1
+30240,Lagrange,standard,13149,Heard,0.00042,2
+30241,Lagrange,standard,13285,Troup,0.99983,1
+30241,Lagrange,standard,13199,Meriwether,0.00017,2
+30248,Locust Grove,standard,13151,Henry,0.94064,1
+30248,Locust Grove,standard,13255,Spalding,0.05098,2
+30248,Locust Grove,standard,13035,Butts,0.00837,3
+30251,Luthersville,standard,13199,Meriwether,1.0,1
+30252,Mcdonough,standard,13151,Henry,0.98928,1
+30252,Mcdonough,standard,13247,Rockdale,0.01072,2
+30253,Mcdonough,standard,13151,Henry,1.0,1
+30256,Meansville,standard,13231,Pike,0.70928,1
+30256,Meansville,standard,13293,Upson,0.24942,2
+30256,Meansville,standard,13171,Lamar,0.04131,3
+30257,Milner,standard,13171,Lamar,0.93996,1
+30257,Milner,standard,13231,Pike,0.06004,2
+30258,Molena,standard,13231,Pike,0.71538,1
+30258,Molena,standard,13293,Upson,0.28462,2
+30259,Moreland,standard,13077,Coweta,1.0,1
+30260,Morrow,standard,13063,Clayton,1.0,1
+30263,Newnan,standard,13077,Coweta,0.9988,1
+30263,Newnan,standard,13149,Heard,0.0012,2
+30265,Newnan,standard,13077,Coweta,1.0,1
+30268,Palmetto,standard,13121,Fulton,0.77308,1
+30268,Palmetto,standard,13077,Coweta,0.22692,2
+30269,Peachtree City,standard,13113,Fayette,1.0,1
+30273,Rex,standard,13063,Clayton,0.95517,1
+30273,Rex,standard,13151,Henry,0.04483,2
+30274,Riverdale,standard,13063,Clayton,1.0,1
+30276,Senoia,standard,13077,Coweta,0.92957,1
+30276,Senoia,standard,13113,Fayette,0.03673,2
+30276,Senoia,standard,13199,Meriwether,0.0337,3
+30277,Sharpsburg,standard,13077,Coweta,1.0,1
+30281,Stockbridge,standard,13151,Henry,0.86284,1
+30281,Stockbridge,standard,13063,Clayton,0.10086,2
+30281,Stockbridge,standard,13247,Rockdale,0.03629,3
+30285,The Rock,standard,13293,Upson,0.64134,1
+30285,The Rock,standard,13231,Pike,0.28571,2
+30285,The Rock,standard,13171,Lamar,0.07295,3
+30286,Thomaston,standard,13293,Upson,1.0,1
+30288,Conley,standard,13089,DeKalb,0.56756,1
+30288,Conley,standard,13063,Clayton,0.43244,2
+30290,Tyrone,standard,13113,Fayette,1.0,1
+30291,Union City,standard,13121,Fulton,1.0,1
+30292,Williamson,standard,13231,Pike,0.77462,1
+30292,Williamson,standard,13255,Spalding,0.22538,2
+30293,Woodbury,standard,13199,Meriwether,1.0,1
+30294,Ellenwood,standard,13089,DeKalb,0.40531,1
+30294,Ellenwood,standard,13063,Clayton,0.37265,2
+30294,Ellenwood,standard,13151,Henry,0.2191,3
+30294,Ellenwood,standard,13247,Rockdale,0.00294,4
+30295,Zebulon,standard,13231,Pike,0.97758,1
+30295,Zebulon,standard,13171,Lamar,0.02242,2
+30296,Riverdale,standard,13063,Clayton,0.84747,1
+30296,Riverdale,standard,13121,Fulton,0.15253,2
+30297,Forest Park,standard,13063,Clayton,1.0,1
+30303,Atlanta,standard,13121,Fulton,1.0,1
+30304,Atlanta,other,13121,Fulton,1.0,1
+30305,Atlanta,standard,13121,Fulton,1.0,1
+30306,Atlanta,standard,13121,Fulton,0.66667,1
+30306,Atlanta,standard,13089,DeKalb,0.33333,2
+30307,Atlanta,standard,13089,DeKalb,0.65497,1
+30307,Atlanta,standard,13121,Fulton,0.34503,2
+30308,Atlanta,standard,13121,Fulton,1.0,1
+30309,Atlanta,standard,13121,Fulton,1.0,1
+30310,Atlanta,standard,13121,Fulton,1.0,1
+30311,Atlanta,standard,13121,Fulton,1.0,1
+30312,Atlanta,standard,13121,Fulton,1.0,1
+30313,Atlanta,standard,13121,Fulton,1.0,1
+30314,Atlanta,standard,13121,Fulton,1.0,1
+30315,Atlanta,standard,13121,Fulton,1.0,1
+30316,Atlanta,standard,13089,DeKalb,0.64283,1
+30316,Atlanta,standard,13121,Fulton,0.35717,2
+30317,Atlanta,standard,13089,DeKalb,0.99408,1
+30317,Atlanta,standard,13121,Fulton,0.00592,2
+30318,Atlanta,standard,13121,Fulton,1.0,1
+30319,Atlanta,standard,13089,DeKalb,0.85773,1
+30319,Atlanta,standard,13121,Fulton,0.14227,2
+30322,Atlanta,other,13089,DeKalb,1.0,1
+30324,Atlanta,standard,13121,Fulton,0.86662,1
+30324,Atlanta,standard,13089,DeKalb,0.13338,2
+30326,Atlanta,standard,13121,Fulton,1.0,1
+30327,Atlanta,standard,13121,Fulton,1.0,1
+30328,Atlanta,standard,13121,Fulton,0.99968,1
+30328,Atlanta,standard,13089,DeKalb,0.00032,2
+30329,Atlanta,standard,13089,DeKalb,1.0,1
+30331,Atlanta,standard,13121,Fulton,1.0,1
+30332,Atlanta,other,13121,Fulton,1.0,1
+30334,Atlanta,other,13121,Fulton,1.0,1
+30336,Atlanta,standard,13121,Fulton,1.0,1
+30337,Atlanta,standard,13121,Fulton,1.0,1
+30338,Atlanta,standard,13089,DeKalb,0.96669,1
+30338,Atlanta,standard,13121,Fulton,0.03331,2
+30339,Atlanta,standard,13067,Cobb,0.97836,1
+30339,Atlanta,standard,13121,Fulton,0.02164,2
+30340,Atlanta,standard,13089,DeKalb,0.86652,1
+30340,Atlanta,standard,13135,Gwinnett,0.13348,2
+30341,Atlanta,standard,13089,DeKalb,1.0,1
+30342,Atlanta,standard,13121,Fulton,1.0,1
+30344,Atlanta,standard,13121,Fulton,1.0,1
+30345,Atlanta,standard,13089,DeKalb,1.0,1
+30346,Atlanta,standard,13089,DeKalb,1.0,1
+30349,Atlanta,standard,13121,Fulton,0.7187,1
+30349,Atlanta,standard,13063,Clayton,0.2813,2
+30350,Atlanta,standard,13121,Fulton,0.99331,1
+30350,Atlanta,standard,13089,DeKalb,0.00659,2
+30350,Atlanta,standard,13135,Gwinnett,0.0001,3
+30354,Atlanta,standard,13121,Fulton,0.99811,1
+30354,Atlanta,standard,13063,Clayton,0.00189,2
+30360,Atlanta,standard,13089,DeKalb,0.8611,1
+30360,Atlanta,standard,13135,Gwinnett,0.1389,2
+30361,Atlanta,standard,13121,Fulton,1.0,1
+30363,Atlanta,standard,13121,Fulton,1.0,1
+30368,Atlanta,other,13121,Fulton,1.0,1
+30369,Atlanta,other,13121,Fulton,1.0,1
+30378,Atlanta,other,13121,Fulton,1.0,1
+30380,Atlanta,other,13121,Fulton,1.0,1
+30385,Atlanta,other,13121,Fulton,1.0,1
+30388,Atlanta,other,13121,Fulton,1.0,1
+30396,Atlanta,other,13121,Fulton,1.0,1
+30398,Atlanta,other,13121,Fulton,1.0,1
+30401,Swainsboro,standard,13107,Emanuel,1.0,1
+30410,Ailey,standard,13209,Montgomery,1.0,1
+30411,Alamo,standard,13309,Wheeler,0.87487,1
+30411,Alamo,standard,13175,Laurens,0.12513,2
+30413,Bartow,standard,13163,Jefferson,0.63297,1
+30413,Bartow,standard,13303,Washington,0.2967,2
+30413,Bartow,standard,13167,Johnson,0.07033,3
+30415,Brooklet,standard,13031,Bulloch,1.0,1
+30417,Claxton,standard,13109,Evans,0.94311,1
+30417,Claxton,standard,13267,Tattnall,0.05671,2
+30417,Claxton,standard,13031,Bulloch,0.00018,3
+30420,Cobbtown,standard,13267,Tattnall,0.60351,1
+30420,Cobbtown,standard,13043,Candler,0.39279,2
+30420,Cobbtown,standard,13109,Evans,0.0037,3
+30421,Collins,standard,13267,Tattnall,0.99895,1
+30421,Collins,standard,13109,Evans,0.00105,2
+30425,Garfield,standard,13107,Emanuel,0.49803,1
+30425,Garfield,standard,13165,Jenkins,0.35348,2
+30425,Garfield,standard,13031,Bulloch,0.14849,3
+30426,Girard,standard,13033,Burke,0.92668,1
+30426,Girard,standard,13251,Screven,0.07332,2
+30427,Glennville,standard,13267,Tattnall,0.82806,1
+30427,Glennville,standard,13183,Long,0.17122,2
+30427,Glennville,standard,13109,Evans,0.00073,3
+30428,Glenwood,standard,13309,Wheeler,0.85265,1
+30428,Glenwood,standard,13175,Laurens,0.14735,2
+30434,Louisville,standard,13163,Jefferson,0.93767,1
+30434,Louisville,standard,13033,Burke,0.06233,2
+30436,Lyons,standard,13279,Toombs,0.92543,1
+30436,Lyons,standard,13107,Emanuel,0.06935,2
+30436,Lyons,standard,13267,Tattnall,0.0044,3
+30436,Lyons,standard,13283,Treutlen,0.00083,4
+30439,Metter,standard,13043,Candler,0.9922,1
+30439,Metter,standard,13107,Emanuel,0.00452,2
+30439,Metter,standard,13031,Bulloch,0.00329,3
+30441,Midville,standard,13107,Emanuel,0.55771,1
+30441,Midville,standard,13033,Burke,0.42881,2
+30441,Midville,standard,13165,Jenkins,0.01348,3
+30442,Millen,standard,13165,Jenkins,0.96895,1
+30442,Millen,standard,13033,Burke,0.02595,2
+30442,Millen,standard,13251,Screven,0.00488,3
+30442,Millen,standard,13107,Emanuel,0.00022,4
+30445,Mount Vernon,standard,13209,Montgomery,1.0,1
+30446,Newington,standard,13251,Screven,0.81423,1
+30446,Newington,standard,13103,Effingham,0.18577,2
+30450,Portal,standard,13031,Bulloch,0.99353,1
+30450,Portal,standard,13107,Emanuel,0.00647,2
+30452,Register,standard,13031,Bulloch,0.93417,1
+30452,Register,standard,13043,Candler,0.04075,2
+30452,Register,standard,13109,Evans,0.02508,3
+30453,Reidsville,standard,13267,Tattnall,0.99112,1
+30453,Reidsville,standard,13279,Toombs,0.00814,2
+30453,Reidsville,standard,13109,Evans,0.00074,3
+30454,Rockledge,standard,13175,Laurens,1.0,1
+30455,Rocky Ford,standard,13251,Screven,0.96517,1
+30455,Rocky Ford,standard,13165,Jenkins,0.03483,2
+30456,Sardis,standard,13033,Burke,0.99903,1
+30456,Sardis,standard,13165,Jenkins,0.00097,2
+30457,Soperton,standard,13283,Treutlen,0.98161,1
+30457,Soperton,standard,13209,Montgomery,0.01332,2
+30457,Soperton,standard,13107,Emanuel,0.00507,3
+30458,Statesboro,standard,13031,Bulloch,1.0,1
+30460,Statesboro,other,13031,Bulloch,1.0,1
+30461,Statesboro,standard,13031,Bulloch,1.0,1
+30467,Sylvania,standard,13251,Screven,1.0,1
+30470,Tarrytown,standard,13209,Montgomery,0.67416,1
+30470,Tarrytown,standard,13283,Treutlen,0.32584,2
+30471,Twin City,standard,13107,Emanuel,0.91559,1
+30471,Twin City,standard,13031,Bulloch,0.06979,2
+30471,Twin City,standard,13043,Candler,0.01463,3
+30473,Uvalda,standard,13279,Toombs,0.53984,1
+30473,Uvalda,standard,13209,Montgomery,0.46016,2
+30474,Vidalia,standard,13279,Toombs,0.88619,1
+30474,Vidalia,standard,13209,Montgomery,0.10081,2
+30474,Vidalia,standard,13107,Emanuel,0.01017,3
+30474,Vidalia,standard,13283,Treutlen,0.00283,4
+30477,Wadley,standard,13163,Jefferson,0.99835,1
+30477,Wadley,standard,13107,Emanuel,0.00083,2
+30477,Wadley,standard,13167,Johnson,0.00083,3
+30499,Reidsville,other,13267,Tattnall,1.0,1
+30501,Gainesville,standard,13139,Hall,1.0,1
+30504,Gainesville,standard,13139,Hall,1.0,1
+30506,Gainesville,standard,13139,Hall,0.73379,1
+30506,Gainesville,standard,13117,Forsyth,0.26621,2
+30507,Gainesville,standard,13139,Hall,1.0,1
+30510,Alto,standard,13137,Habersham,0.66355,1
+30510,Alto,standard,13011,Banks,0.27332,2
+30510,Alto,standard,13139,Hall,0.06313,3
+30511,Baldwin,standard,13011,Banks,0.72374,1
+30511,Baldwin,standard,13137,Habersham,0.27237,2
+30511,Baldwin,standard,13257,Stephens,0.00389,3
+30512,Blairsville,standard,13291,Union,0.99092,1
+30512,Blairsville,standard,13111,Fannin,0.00876,2
+30512,Blairsville,standard,13187,Lumpkin,0.00032,3
+30513,Blue Ridge,standard,13111,Fannin,0.94599,1
+30513,Blue Ridge,standard,13123,Gilmer,0.05401,2
+30516,Bowersville,standard,13147,Hart,0.99716,1
+30516,Bowersville,standard,13119,Franklin,0.00284,2
+30517,Braselton,standard,13157,Jackson,0.51778,1
+30517,Braselton,standard,13139,Hall,0.20667,2
+30517,Braselton,standard,13135,Gwinnett,0.18441,3
+30517,Braselton,standard,13013,Barrow,0.09114,4
+30518,Buford,standard,13135,Gwinnett,0.9074,1
+30518,Buford,standard,13139,Hall,0.0926,2
+30519,Buford,standard,13135,Gwinnett,0.93982,1
+30519,Buford,standard,13139,Hall,0.06018,2
+30520,Canon,standard,13119,Franklin,0.52106,1
+30520,Canon,standard,13147,Hart,0.47894,2
+30521,Carnesville,standard,13119,Franklin,0.96104,1
+30521,Carnesville,standard,13011,Banks,0.03896,2
+30522,Cherry Log,standard,13123,Gilmer,0.51553,1
+30522,Cherry Log,standard,13111,Fannin,0.48447,2
+30523,Clarkesville,standard,13137,Habersham,0.92268,1
+30523,Clarkesville,standard,13241,Rabun,0.0752,2
+30523,Clarkesville,standard,13311,White,0.00212,3
+30525,Clayton,standard,13241,Rabun,0.99179,1
+30525,Clayton,standard,13281,Towns,0.00821,2
+30527,Clermont,standard,13139,Hall,0.99105,1
+30527,Clermont,standard,13311,White,0.00895,2
+30528,Cleveland,standard,13311,White,0.98185,1
+30528,Cleveland,standard,13187,Lumpkin,0.01795,2
+30528,Cleveland,standard,13139,Hall,0.0002,3
+30529,Commerce,standard,13157,Jackson,0.87876,1
+30529,Commerce,standard,13011,Banks,0.12124,2
+30530,Commerce,standard,13011,Banks,0.36697,1
+30530,Commerce,standard,13157,Jackson,0.30275,2
+30530,Commerce,standard,13195,Madison,0.19409,3
+30530,Commerce,standard,13119,Franklin,0.13618,4
+30531,Cornelia,standard,13137,Habersham,0.99408,1
+30531,Cornelia,standard,13139,Hall,0.00592,2
+30533,Dahlonega,standard,13187,Lumpkin,0.97926,1
+30533,Dahlonega,standard,13139,Hall,0.01339,2
+30533,Dahlonega,standard,13311,White,0.00583,3
+30533,Dahlonega,standard,13085,Dawson,0.00152,4
+30534,Dawsonville,standard,13085,Dawson,0.84601,1
+30534,Dawsonville,standard,13187,Lumpkin,0.09322,2
+30534,Dawsonville,standard,13117,Forsyth,0.05612,3
+30534,Dawsonville,standard,13227,Pickens,0.00299,4
+30534,Dawsonville,standard,13057,Cherokee,0.00147,5
+30534,Dawsonville,standard,13123,Gilmer,0.00019,6
+30535,Demorest,standard,13137,Habersham,1.0,1
+30536,Ellijay,standard,13123,Gilmer,0.98935,1
+30536,Ellijay,standard,13085,Dawson,0.01011,2
+30536,Ellijay,standard,13227,Pickens,0.00053,3
+30537,Dillard,standard,13241,Rabun,1.0,1
+30538,Eastanollee,standard,13257,Stephens,0.9411,1
+30538,Eastanollee,standard,13119,Franklin,0.0589,2
+30540,Ellijay,standard,13123,Gilmer,0.998,1
+30540,Ellijay,standard,13213,Murray,0.00186,2
+30540,Ellijay,standard,13227,Pickens,0.00014,3
+30541,Epworth,standard,13111,Fannin,1.0,1
+30542,Flowery Branch,standard,13139,Hall,1.0,1
+30543,Gillsville,standard,13139,Hall,0.71165,1
+30543,Gillsville,standard,13011,Banks,0.20583,2
+30543,Gillsville,standard,13157,Jackson,0.08252,3
+30545,Helen,standard,13311,White,1.0,1
+30546,Hiawassee,standard,13281,Towns,1.0,1
+30547,Homer,standard,13011,Banks,1.0,1
+30548,Hoschton,standard,13157,Jackson,0.54859,1
+30548,Hoschton,standard,13139,Hall,0.20254,2
+30548,Hoschton,standard,13135,Gwinnett,0.14655,3
+30548,Hoschton,standard,13013,Barrow,0.10232,4
+30549,Jefferson,standard,13157,Jackson,1.0,1
+30552,Lakemont,standard,13241,Rabun,1.0,1
+30553,Lavonia,standard,13119,Franklin,0.75766,1
+30553,Lavonia,standard,13147,Hart,0.24234,2
+30554,Lula,standard,13139,Hall,0.7045,1
+30554,Lula,standard,13011,Banks,0.29502,2
+30554,Lula,standard,13311,White,0.00047,3
+30555,Mc Caysville,standard,13111,Fannin,1.0,1
+30557,Martin,standard,13257,Stephens,0.63534,1
+30557,Martin,standard,13119,Franklin,0.36466,2
+30558,Maysville,standard,13157,Jackson,0.54524,1
+30558,Maysville,standard,13011,Banks,0.45476,2
+30559,Mineral Bluff,standard,13111,Fannin,1.0,1
+30560,Morganton,standard,13111,Fannin,0.83255,1
+30560,Morganton,standard,13291,Union,0.16745,2
+30563,Mount Airy,standard,13137,Habersham,0.99849,1
+30563,Mount Airy,standard,13257,Stephens,0.00151,2
+30564,Murrayville,standard,13139,Hall,0.70839,1
+30564,Murrayville,standard,13187,Lumpkin,0.27378,2
+30564,Murrayville,standard,13311,White,0.01783,3
+30565,Nicholson,standard,13157,Jackson,0.90263,1
+30565,Nicholson,standard,13195,Madison,0.09737,2
+30566,Oakwood,standard,13139,Hall,1.0,1
+30567,Pendergrass,standard,13157,Jackson,0.9912,1
+30567,Pendergrass,standard,13139,Hall,0.0088,2
+30568,Rabun Gap,standard,13241,Rabun,1.0,1
+30571,Sautee Nacoochee,standard,13311,White,0.99046,1
+30571,Sautee Nacoochee,standard,13137,Habersham,0.00954,2
+30572,Suches,standard,13291,Union,0.71779,1
+30572,Suches,standard,13111,Fannin,0.28221,2
+30575,Talmo,standard,13157,Jackson,0.70464,1
+30575,Talmo,standard,13139,Hall,0.29536,2
+30576,Tiger,standard,13241,Rabun,1.0,1
+30577,Toccoa,standard,13257,Stephens,0.92667,1
+30577,Toccoa,standard,13119,Franklin,0.04569,2
+30577,Toccoa,standard,13137,Habersham,0.01971,3
+30577,Toccoa,standard,13011,Banks,0.00792,4
+30582,Young Harris,standard,13281,Towns,0.83108,1
+30582,Young Harris,standard,13291,Union,0.16892,2
+30597,Dahlonega,other,13187,Lumpkin,1.0,1
+30598,Toccoa Falls,other,13257,Stephens,1.0,1
+30599,Commerce,other,13157,Jackson,1.0,1
+30601,Athens,standard,13059,Clarke,0.97863,1
+30601,Athens,standard,13195,Madison,0.01927,2
+30601,Athens,standard,13157,Jackson,0.00211,3
+30602,Athens,other,13059,Clarke,1.0,1
+30605,Athens,standard,13059,Clarke,0.99535,1
+30605,Athens,standard,13219,Oconee,0.00465,2
+30606,Athens,standard,13059,Clarke,0.91995,1
+30606,Athens,standard,13219,Oconee,0.08005,2
+30607,Athens,standard,13059,Clarke,0.7157,1
+30607,Athens,standard,13157,Jackson,0.2843,2
+30609,Athens,other,13059,Clarke,1.0,1
+30619,Arnoldsville,standard,13221,Oglethorpe,0.9522,1
+30619,Arnoldsville,standard,13219,Oconee,0.0478,2
+30620,Bethlehem,standard,13013,Barrow,0.81376,1
+30620,Bethlehem,standard,13135,Gwinnett,0.13305,2
+30620,Bethlehem,standard,13297,Walton,0.0532,3
+30621,Bishop,standard,13219,Oconee,0.86937,1
+30621,Bishop,standard,13211,Morgan,0.13063,2
+30622,Bogart,standard,13219,Oconee,0.71155,1
+30622,Bogart,standard,13059,Clarke,0.20106,2
+30622,Bogart,standard,13157,Jackson,0.08393,3
+30622,Bogart,standard,13013,Barrow,0.00346,4
+30624,Bowman,standard,13105,Elbert,0.88075,1
+30624,Bowman,standard,13195,Madison,0.06027,2
+30624,Bowman,standard,13147,Hart,0.05898,3
+30625,Buckhead,standard,13211,Morgan,0.82383,1
+30625,Buckhead,standard,13237,Putnam,0.17617,2
+30627,Carlton,standard,13221,Oglethorpe,0.6065,1
+30627,Carlton,standard,13195,Madison,0.3935,2
+30628,Colbert,standard,13195,Madison,0.79591,1
+30628,Colbert,standard,13221,Oglethorpe,0.20409,2
+30629,Comer,standard,13195,Madison,0.78215,1
+30629,Comer,standard,13221,Oglethorpe,0.21785,2
+30630,Crawford,standard,13221,Oglethorpe,1.0,1
+30631,Crawfordville,standard,13265,Taliaferro,0.89617,1
+30631,Crawfordville,standard,13317,Wilkes,0.08431,2
+30631,Crawfordville,standard,13133,Greene,0.01952,3
+30633,Danielsville,standard,13195,Madison,0.97833,1
+30633,Danielsville,standard,13119,Franklin,0.01574,2
+30633,Danielsville,standard,13011,Banks,0.00593,3
+30634,Dewy Rose,standard,13105,Elbert,0.75187,1
+30634,Dewy Rose,standard,13147,Hart,0.24813,2
+30635,Elberton,standard,13105,Elbert,0.99628,1
+30635,Elberton,standard,13147,Hart,0.00372,2
+30641,Good Hope,standard,13297,Walton,0.86726,1
+30641,Good Hope,standard,13211,Morgan,0.13274,2
+30642,Greensboro,standard,13133,Greene,0.99991,1
+30642,Greensboro,standard,13211,Morgan,9e-05,2
+30643,Hartwell,standard,13147,Hart,1.0,1
+30646,Hull,standard,13195,Madison,0.992,1
+30646,Hull,standard,13059,Clarke,0.00552,2
+30646,Hull,standard,13157,Jackson,0.00248,3
+30648,Lexington,standard,13221,Oglethorpe,1.0,1
+30650,Madison,standard,13211,Morgan,0.94102,1
+30650,Madison,standard,13133,Greene,0.0477,2
+30650,Madison,standard,13297,Walton,0.00911,3
+30650,Madison,standard,13237,Putnam,0.00217,4
+30655,Monroe,standard,13297,Walton,1.0,1
+30656,Monroe,standard,13297,Walton,0.96598,1
+30656,Monroe,standard,13013,Barrow,0.03402,2
+30660,Rayle,standard,13317,Wilkes,0.79552,1
+30660,Rayle,standard,13221,Oglethorpe,0.19048,2
+30660,Rayle,standard,13265,Taliaferro,0.01401,3
+30662,Royston,standard,13119,Franklin,0.64193,1
+30662,Royston,standard,13147,Hart,0.26122,2
+30662,Royston,standard,13195,Madison,0.08412,3
+30662,Royston,standard,13105,Elbert,0.01273,4
+30663,Rutledge,standard,13211,Morgan,0.99582,1
+30663,Rutledge,standard,13297,Walton,0.00418,2
+30666,Statham,standard,13013,Barrow,0.77567,1
+30666,Statham,standard,13219,Oconee,0.20867,2
+30666,Statham,standard,13157,Jackson,0.01567,3
+30667,Stephens,standard,13221,Oglethorpe,1.0,1
+30668,Tignall,standard,13317,Wilkes,0.57568,1
+30668,Tignall,standard,13181,Lincoln,0.42432,2
+30669,Union Point,standard,13133,Greene,0.88913,1
+30669,Union Point,standard,13221,Oglethorpe,0.06335,2
+30669,Union Point,standard,13265,Taliaferro,0.04752,3
+30673,Washington,standard,13317,Wilkes,0.99888,1
+30673,Washington,standard,13265,Taliaferro,0.00112,2
+30677,Watkinsville,standard,13219,Oconee,0.99011,1
+30677,Watkinsville,standard,13133,Greene,0.00989,2
+30678,White Plains,standard,13133,Greene,0.92723,1
+30678,White Plains,standard,13141,Hancock,0.06221,2
+30678,White Plains,standard,13265,Taliaferro,0.01056,3
+30680,Winder,standard,13013,Barrow,0.99066,1
+30680,Winder,standard,13157,Jackson,0.00523,2
+30680,Winder,standard,13219,Oconee,0.00394,3
+30680,Winder,standard,13135,Gwinnett,0.00017,4
+30683,Winterville,standard,13059,Clarke,0.60307,1
+30683,Winterville,standard,13221,Oglethorpe,0.39285,2
+30683,Winterville,standard,13195,Madison,0.00408,3
+30701,Calhoun,standard,13129,Gordon,0.99119,1
+30701,Calhoun,standard,13115,Floyd,0.00881,2
+30705,Chatsworth,standard,13213,Murray,0.99904,1
+30705,Chatsworth,standard,13123,Gilmer,0.00077,2
+30705,Chatsworth,standard,13129,Gordon,0.00019,3
+30707,Chickamauga,standard,13295,Walker,0.95181,1
+30707,Chickamauga,standard,13047,Catoosa,0.04819,2
+30708,Cisco,standard,13213,Murray,1.0,1
+30710,Cohutta,standard,13313,Whitfield,0.99569,1
+30710,Cohutta,standard,13047,Catoosa,0.00431,2
+30711,Crandall,standard,13213,Murray,1.0,1
+30720,Dalton,standard,13313,Whitfield,1.0,1
+30721,Dalton,standard,13313,Whitfield,0.96475,1
+30721,Dalton,standard,13213,Murray,0.03517,2
+30721,Dalton,standard,13129,Gordon,9e-05,3
+30725,Flintstone,standard,13295,Walker,1.0,1
+30728,La Fayette,standard,13295,Walker,1.0,1
+30730,Lyerly,standard,13055,Chattooga,1.0,1
+30731,Menlo,standard,13055,Chattooga,0.68988,1
+30731,Menlo,standard,13083,Dade,0.17379,2
+30731,Menlo,standard,13295,Walker,0.13634,3
+30733,Plainville,standard,13129,Gordon,0.95652,1
+30733,Plainville,standard,13115,Floyd,0.04348,2
+30734,Ranger,standard,13129,Gordon,0.8174,1
+30734,Ranger,standard,13227,Pickens,0.18153,2
+30734,Ranger,standard,13123,Gilmer,0.00107,3
+30735,Resaca,standard,13129,Gordon,0.55014,1
+30735,Resaca,standard,13313,Whitfield,0.25982,2
+30735,Resaca,standard,13213,Murray,0.19004,3
+30736,Ringgold,standard,13047,Catoosa,0.98483,1
+30736,Ringgold,standard,13313,Whitfield,0.01074,2
+30736,Ringgold,standard,13295,Walker,0.00443,3
+30738,Rising Fawn,standard,13083,Dade,0.70221,1
+30738,Rising Fawn,standard,13295,Walker,0.29779,2
+30739,Rock Spring,standard,13295,Walker,0.82563,1
+30739,Rock Spring,standard,13047,Catoosa,0.17437,2
+30740,Rocky Face,standard,13313,Whitfield,0.97254,1
+30740,Rocky Face,standard,13295,Walker,0.02746,2
+30741,Rossville,standard,13295,Walker,0.62089,1
+30741,Rossville,standard,13047,Catoosa,0.37911,2
+30742,Fort Oglethorpe,standard,13047,Catoosa,0.99637,1
+30742,Fort Oglethorpe,standard,13295,Walker,0.00363,2
+30746,Sugar Valley,standard,13129,Gordon,0.99037,1
+30746,Sugar Valley,standard,13295,Walker,0.00963,2
+30747,Summerville,standard,13055,Chattooga,0.97966,1
+30747,Summerville,standard,13295,Walker,0.02021,2
+30747,Summerville,standard,13115,Floyd,0.00013,3
+30750,Lookout Mountain,other,13295,Walker,0.55907,1
+30750,Lookout Mountain,other,13083,Dade,0.44093,2
+30752,Trenton,standard,13083,Dade,1.0,1
+30753,Trion,standard,13055,Chattooga,0.81,1
+30753,Trion,standard,13295,Walker,0.19,2
+30755,Tunnel Hill,standard,13313,Whitfield,0.70885,1
+30755,Tunnel Hill,standard,13047,Catoosa,0.29115,2
+30757,Wildwood,standard,13083,Dade,1.0,1
+30802,Appling,standard,13073,Columbia,0.99266,1
+30802,Appling,standard,13189,McDuffie,0.00734,2
+30803,Avera,standard,13163,Jefferson,0.97252,1
+30803,Avera,standard,13125,Glascock,0.02748,2
+30805,Blythe,standard,13245,Richmond,0.67718,1
+30805,Blythe,standard,13033,Burke,0.32282,2
+30808,Dearing,standard,13189,McDuffie,1.0,1
+30809,Evans,standard,13073,Columbia,1.0,1
+30810,Gibson,standard,13125,Glascock,0.96181,1
+30810,Gibson,standard,13301,Warren,0.02778,2
+30810,Gibson,standard,13163,Jefferson,0.01042,3
+30813,Grovetown,standard,13073,Columbia,0.98097,1
+30813,Grovetown,standard,13245,Richmond,0.01903,2
+30814,Harlem,standard,13073,Columbia,0.94767,1
+30814,Harlem,standard,13189,McDuffie,0.05233,2
+30815,Hephzibah,standard,13245,Richmond,0.92838,1
+30815,Hephzibah,standard,13033,Burke,0.07162,2
+30816,Keysville,standard,13033,Burke,0.86477,1
+30816,Keysville,standard,13163,Jefferson,0.13523,2
+30817,Lincolnton,standard,13181,Lincoln,0.99024,1
+30817,Lincolnton,standard,13317,Wilkes,0.00976,2
+30818,Matthews,standard,13163,Jefferson,1.0,1
+30820,Mitchell,standard,13125,Glascock,0.67568,1
+30820,Mitchell,standard,13301,Warren,0.20335,2
+30820,Mitchell,standard,13303,Washington,0.07465,3
+30820,Mitchell,standard,13141,Hancock,0.04633,4
+30821,Norwood,standard,13301,Warren,0.98776,1
+30821,Norwood,standard,13189,McDuffie,0.01224,2
+30823,Stapleton,standard,13163,Jefferson,0.81164,1
+30823,Stapleton,standard,13301,Warren,0.14384,2
+30823,Stapleton,standard,13125,Glascock,0.04452,3
+30824,Thomson,standard,13189,McDuffie,0.99284,1
+30824,Thomson,standard,13073,Columbia,0.00504,2
+30824,Thomson,standard,13301,Warren,0.00213,3
+30828,Warrenton,standard,13301,Warren,0.98179,1
+30828,Warrenton,standard,13125,Glascock,0.01283,2
+30828,Warrenton,standard,13189,McDuffie,0.00538,3
+30830,Waynesboro,standard,13033,Burke,1.0,1
+30833,Wrens,standard,13163,Jefferson,1.0,1
+30901,Augusta,standard,13245,Richmond,1.0,1
+30904,Augusta,standard,13245,Richmond,1.0,1
+30905,Augusta,standard,13245,Richmond,1.0,1
+30906,Augusta,standard,13245,Richmond,1.0,1
+30907,Augusta,standard,13073,Columbia,0.76029,1
+30907,Augusta,standard,13245,Richmond,0.23971,2
+30909,Augusta,standard,13245,Richmond,0.99437,1
+30909,Augusta,standard,13073,Columbia,0.00563,2
+30912,Augusta,other,13245,Richmond,1.0,1
+31001,Abbeville,standard,13315,Wilcox,1.0,1
+31002,Adrian,standard,13107,Emanuel,0.43547,1
+31002,Adrian,standard,13167,Johnson,0.3578,2
+31002,Adrian,standard,13175,Laurens,0.11131,3
+31002,Adrian,standard,13283,Treutlen,0.09541,4
+31005,Bonaire,standard,13153,Houston,1.0,1
+31006,Butler,standard,13269,Taylor,0.99952,1
+31006,Butler,standard,13263,Talbot,0.00048,2
+31007,Byromville,standard,13093,Dooly,1.0,1
+31008,Byron,standard,13225,Peach,0.69783,1
+31008,Byron,standard,13153,Houston,0.21675,2
+31008,Byron,standard,13079,Crawford,0.08542,3
+31009,Cadwell,standard,13175,Laurens,1.0,1
+31011,Chauncey,standard,13091,Dodge,0.9898,1
+31011,Chauncey,standard,13175,Laurens,0.00816,2
+31011,Chauncey,standard,13271,Telfair,0.00204,3
+31012,Chester,standard,13091,Dodge,0.77273,1
+31012,Chester,standard,13023,Bleckley,0.21165,2
+31012,Chester,standard,13175,Laurens,0.01562,3
+31014,Cochran,standard,13023,Bleckley,0.88134,1
+31014,Cochran,standard,13091,Dodge,0.09168,2
+31014,Cochran,standard,13289,Twiggs,0.02591,3
+31014,Cochran,standard,13235,Pulaski,0.00107,4
+31015,Cordele,standard,13081,Crisp,0.99402,1
+31015,Cordele,standard,13093,Dooly,0.00439,2
+31015,Cordele,standard,13315,Wilcox,0.00159,3
+31016,Culloden,standard,13207,Monroe,0.49451,1
+31016,Culloden,standard,13293,Upson,0.3044,2
+31016,Culloden,standard,13079,Crawford,0.1033,3
+31016,Culloden,standard,13171,Lamar,0.0978,4
+31017,Danville,standard,13289,Twiggs,0.50866,1
+31017,Danville,standard,13319,Wilkinson,0.34331,2
+31017,Danville,standard,13023,Bleckley,0.14724,3
+31017,Danville,standard,13175,Laurens,0.00079,4
+31018,Davisboro,standard,13303,Washington,1.0,1
+31019,Dexter,standard,13175,Laurens,1.0,1
+31020,Dry Branch,standard,13289,Twiggs,0.82641,1
+31020,Dry Branch,standard,13021,Bibb,0.17359,2
+31021,Dublin,standard,13175,Laurens,0.99994,1
+31021,Dublin,standard,13319,Wilkinson,6e-05,2
+31022,Dudley,standard,13175,Laurens,0.97085,1
+31022,Dudley,standard,13023,Bleckley,0.02028,2
+31022,Dudley,standard,13091,Dodge,0.00887,3
+31023,Eastman,standard,13091,Dodge,0.9879,1
+31023,Eastman,standard,13235,Pulaski,0.0121,2
+31024,Eatonton,standard,13237,Putnam,0.99986,1
+31024,Eatonton,standard,13159,Jasper,0.00014,2
+31025,Elko,standard,13153,Houston,1.0,1
+31026,Eatonton,other,13237,Putnam,1.0,1
+31027,East Dublin,standard,13175,Laurens,1.0,1
+31028,Centerville,standard,13153,Houston,1.0,1
+31029,Forsyth,standard,13207,Monroe,0.99906,1
+31029,Forsyth,standard,13035,Butts,0.00047,2
+31029,Forsyth,standard,13171,Lamar,0.00047,3
+31030,Fort Valley,standard,13225,Peach,0.81221,1
+31030,Fort Valley,standard,13079,Crawford,0.15396,2
+31030,Fort Valley,standard,13153,Houston,0.02384,3
+31030,Fort Valley,standard,13193,Macon,0.00998,4
+31031,Gordon,standard,13319,Wilkinson,0.68861,1
+31031,Gordon,standard,13009,Baldwin,0.22702,2
+31031,Gordon,standard,13289,Twiggs,0.04465,3
+31031,Gordon,standard,13169,Jones,0.03972,4
+31032,Gray,standard,13169,Jones,1.0,1
+31033,Haddock,standard,13169,Jones,0.82143,1
+31033,Haddock,standard,13009,Baldwin,0.17857,2
+31035,Harrison,standard,13303,Washington,0.99068,1
+31035,Harrison,standard,13167,Johnson,0.00932,2
+31036,Hawkinsville,standard,13235,Pulaski,0.83108,1
+31036,Hawkinsville,standard,13153,Houston,0.16009,2
+31036,Hawkinsville,standard,13023,Bleckley,0.00733,3
+31036,Hawkinsville,standard,13091,Dodge,0.00132,4
+31036,Hawkinsville,standard,13093,Dooly,0.00019,5
+31037,Mc Rae Helena,standard,13271,Telfair,0.63943,1
+31037,Mc Rae Helena,standard,13309,Wheeler,0.19639,2
+31037,Mc Rae Helena,standard,13091,Dodge,0.15161,3
+31037,Mc Rae Helena,standard,13175,Laurens,0.01257,4
+31038,Hillsboro,standard,13159,Jasper,0.537,1
+31038,Hillsboro,standard,13169,Jones,0.43552,2
+31038,Hillsboro,standard,13237,Putnam,0.02748,3
+31041,Ideal,standard,13193,Macon,0.99054,1
+31041,Ideal,standard,13269,Taylor,0.00946,2
+31042,Irwinton,standard,13319,Wilkinson,0.99154,1
+31042,Irwinton,standard,13175,Laurens,0.00846,2
+31044,Jeffersonville,standard,13289,Twiggs,0.95933,1
+31044,Jeffersonville,standard,13319,Wilkinson,0.04067,2
+31045,Jewell,standard,13301,Warren,0.72727,1
+31045,Jewell,standard,13141,Hancock,0.27273,2
+31046,Juliette,standard,13207,Monroe,0.89269,1
+31046,Juliette,standard,13169,Jones,0.10731,2
+31047,Kathleen,standard,13153,Houston,1.0,1
+31049,Kite,standard,13167,Johnson,0.69456,1
+31049,Kite,standard,13107,Emanuel,0.30544,2
+31050,Knoxville,other,13079,Crawford,1.0,1
+31052,Lizella,standard,13021,Bibb,0.81116,1
+31052,Lizella,standard,13079,Crawford,0.18884,2
+31054,Mc Intyre,standard,13319,Wilkinson,1.0,1
+31055,Mc Rae Helena,standard,13271,Telfair,1.0,1
+31057,Marshallville,standard,13193,Macon,1.0,1
+31058,Mauk,standard,13197,Marion,0.66205,1
+31058,Mauk,standard,13269,Taylor,0.33149,2
+31058,Mauk,standard,13249,Schley,0.00646,3
+31060,Milan,standard,13271,Telfair,0.57512,1
+31060,Milan,standard,13091,Dodge,0.42488,2
+31061,Milledgeville,standard,13009,Baldwin,0.96508,1
+31061,Milledgeville,standard,13237,Putnam,0.02819,2
+31061,Milledgeville,standard,13141,Hancock,0.00374,3
+31061,Milledgeville,standard,13319,Wilkinson,0.00249,4
+31061,Milledgeville,standard,13169,Jones,0.0005,5
+31062,Milledgeville,other,13009,Baldwin,1.0,1
+31063,Montezuma,standard,13193,Macon,0.96556,1
+31063,Montezuma,standard,13093,Dooly,0.03444,2
+31064,Monticello,standard,13159,Jasper,0.99791,1
+31064,Monticello,standard,13217,Newton,0.00209,2
+31065,Montrose,standard,13175,Laurens,0.78837,1
+31065,Montrose,standard,13023,Bleckley,0.17447,2
+31065,Montrose,standard,13319,Wilkinson,0.03716,3
+31066,Musella,standard,13079,Crawford,0.88968,1
+31066,Musella,standard,13207,Monroe,0.07473,2
+31066,Musella,standard,13021,Bibb,0.03559,3
+31068,Oglethorpe,standard,13193,Macon,0.99508,1
+31068,Oglethorpe,standard,13249,Schley,0.0041,2
+31068,Oglethorpe,standard,13269,Taylor,0.00082,3
+31069,Perry,standard,13153,Houston,0.99001,1
+31069,Perry,standard,13225,Peach,0.00925,2
+31069,Perry,standard,13193,Macon,0.00074,3
+31070,Pinehurst,standard,13093,Dooly,1.0,1
+31071,Pineview,standard,13315,Wilcox,0.49281,1
+31071,Pineview,standard,13235,Pulaski,0.48741,2
+31071,Pineview,standard,13093,Dooly,0.01978,3
+31072,Pitts,standard,13315,Wilcox,0.92771,1
+31072,Pitts,standard,13081,Crisp,0.06158,2
+31072,Pitts,standard,13093,Dooly,0.01071,3
+31075,Rentz,standard,13175,Laurens,1.0,1
+31076,Reynolds,standard,13269,Taylor,0.89643,1
+31076,Reynolds,standard,13193,Macon,0.10298,2
+31076,Reynolds,standard,13225,Peach,0.0006,3
+31077,Rhine,standard,13091,Dodge,0.69397,1
+31077,Rhine,standard,13271,Telfair,0.30603,2
+31078,Roberta,standard,13079,Crawford,1.0,1
+31079,Rochelle,standard,13315,Wilcox,0.93244,1
+31079,Rochelle,standard,13017,Ben Hill,0.06756,2
+31081,Rupert,standard,13269,Taylor,0.90066,1
+31081,Rupert,standard,13193,Macon,0.09272,2
+31081,Rupert,standard,13249,Schley,0.00662,3
+31082,Sandersville,standard,13303,Washington,0.98825,1
+31082,Sandersville,standard,13009,Baldwin,0.01103,2
+31082,Sandersville,standard,13141,Hancock,0.00072,3
+31085,Shady Dale,standard,13159,Jasper,0.99779,1
+31085,Shady Dale,standard,13217,Newton,0.00221,2
+31087,Sparta,standard,13141,Hancock,0.9522,1
+31087,Sparta,standard,13009,Baldwin,0.04516,2
+31087,Sparta,standard,13303,Washington,0.00265,3
+31088,Warner Robins,standard,13153,Houston,1.0,1
+31089,Tennille,standard,13303,Washington,0.9767,1
+31089,Tennille,standard,13167,Johnson,0.0233,2
+31090,Toomsboro,standard,13319,Wilkinson,1.0,1
+31091,Unadilla,standard,13093,Dooly,0.95041,1
+31091,Unadilla,standard,13153,Houston,0.02583,2
+31091,Unadilla,standard,13235,Pulaski,0.02169,3
+31091,Unadilla,standard,13193,Macon,0.00207,4
+31092,Vienna,standard,13093,Dooly,0.9657,1
+31092,Vienna,standard,13081,Crisp,0.03268,2
+31092,Vienna,standard,13315,Wilcox,0.00162,3
+31093,Warner Robins,standard,13153,Houston,1.0,1
+31094,Warthen,standard,13303,Washington,1.0,1
+31096,Wrightsville,standard,13167,Johnson,0.94635,1
+31096,Wrightsville,standard,13303,Washington,0.03437,2
+31096,Wrightsville,standard,13175,Laurens,0.01927,3
+31097,Yatesville,standard,13293,Upson,0.91272,1
+31097,Yatesville,standard,13171,Lamar,0.07396,2
+31097,Yatesville,standard,13207,Monroe,0.01331,3
+31098,Warner Robins,standard,13153,Houston,1.0,1
+31136,Atlanta,other,13121,Fulton,1.0,1
+31201,Macon,standard,13021,Bibb,1.0,1
+31204,Macon,standard,13021,Bibb,1.0,1
+31206,Macon,standard,13021,Bibb,1.0,1
+31207,Macon,other,13021,Bibb,1.0,1
+31209,Macon,other,13021,Bibb,1.0,1
+31210,Macon,standard,13021,Bibb,0.93634,1
+31210,Macon,standard,13207,Monroe,0.06366,2
+31211,Macon,standard,13021,Bibb,0.5542,1
+31211,Macon,standard,13169,Jones,0.4458,2
+31213,Macon,other,13021,Bibb,1.0,1
+31216,Macon,standard,13021,Bibb,1.0,1
+31217,Macon,standard,13021,Bibb,0.65072,1
+31217,Macon,standard,13169,Jones,0.19886,2
+31217,Macon,standard,13289,Twiggs,0.15041,3
+31220,Macon,standard,13021,Bibb,0.9086,1
+31220,Macon,standard,13207,Monroe,0.0914,2
+31295,Macon,other,13021,Bibb,1.0,1
+31301,Allenhurst,standard,13179,Liberty,0.68012,1
+31301,Allenhurst,standard,13183,Long,0.31988,2
+31302,Bloomingdale,standard,13051,Chatham,0.77089,1
+31302,Bloomingdale,standard,13103,Effingham,0.22818,2
+31302,Bloomingdale,standard,13029,Bryan,0.00094,3
+31303,Clyo,standard,13103,Effingham,1.0,1
+31305,Darien,standard,13191,McIntosh,1.0,1
+31308,Ellabell,standard,13029,Bryan,0.74356,1
+31308,Ellabell,standard,13031,Bulloch,0.25644,2
+31309,Fleming,standard,13179,Liberty,1.0,1
+31312,Guyton,standard,13103,Effingham,0.99958,1
+31312,Guyton,standard,13051,Chatham,0.00042,2
+31313,Hinesville,standard,13179,Liberty,0.98629,1
+31313,Hinesville,standard,13183,Long,0.01371,2
+31314,Fort Stewart,other,13179,Liberty,1.0,1
+31315,Fort Stewart,standard,13179,Liberty,1.0,1
+31316,Ludowici,standard,13183,Long,0.99791,1
+31316,Ludowici,standard,13179,Liberty,0.00209,2
+31320,Midway,standard,13179,Liberty,1.0,1
+31321,Pembroke,standard,13029,Bryan,0.61779,1
+31321,Pembroke,standard,13031,Bulloch,0.38221,2
+31322,Pooler,standard,13051,Chatham,1.0,1
+31323,Riceboro,standard,13179,Liberty,0.83784,1
+31323,Riceboro,standard,13191,McIntosh,0.16216,2
+31324,Richmond Hill,standard,13029,Bryan,1.0,1
+31326,Rincon,standard,13103,Effingham,1.0,1
+31328,Tybee Island,standard,13051,Chatham,1.0,1
+31329,Springfield,standard,13103,Effingham,1.0,1
+31331,Townsend,standard,13191,McIntosh,1.0,1
+31401,Savannah,standard,13051,Chatham,1.0,1
+31404,Savannah,standard,13051,Chatham,1.0,1
+31405,Savannah,standard,13051,Chatham,1.0,1
+31406,Savannah,standard,13051,Chatham,1.0,1
+31407,Port Wentworth,standard,13051,Chatham,0.99962,1
+31407,Port Wentworth,standard,13103,Effingham,0.00038,2
+31408,Savannah,standard,13051,Chatham,1.0,1
+31410,Savannah,standard,13051,Chatham,1.0,1
+31411,Savannah,standard,13051,Chatham,1.0,1
+31415,Savannah,standard,13051,Chatham,1.0,1
+31419,Savannah,standard,13051,Chatham,1.0,1
+31501,Waycross,standard,13299,Ware,1.0,1
+31503,Waycross,standard,13299,Ware,0.88416,1
+31503,Waycross,standard,13025,Brantley,0.11165,2
+31503,Waycross,standard,13229,Pierce,0.00419,3
+31510,Alma,standard,13005,Bacon,0.96628,1
+31510,Alma,standard,13229,Pierce,0.03223,2
+31510,Alma,standard,13161,Jeff Davis,0.00149,3
+31512,Ambrose,standard,13069,Coffee,0.99913,1
+31512,Ambrose,standard,13155,Irwin,0.00087,2
+31513,Baxley,standard,13001,Appling,0.99947,1
+31513,Baxley,standard,13161,Jeff Davis,0.00053,2
+31516,Blackshear,standard,13229,Pierce,1.0,1
+31518,Bristol,standard,13001,Appling,0.46154,1
+31518,Bristol,standard,13229,Pierce,0.38462,2
+31518,Bristol,standard,13305,Wayne,0.13609,3
+31518,Bristol,standard,13005,Bacon,0.01775,4
+31519,Broxton,standard,13069,Coffee,0.97305,1
+31519,Broxton,standard,13161,Jeff Davis,0.02648,2
+31519,Broxton,standard,13017,Ben Hill,0.00047,3
+31520,Brunswick,standard,13127,Glynn,1.0,1
+31522,Saint Simons Island,standard,13127,Glynn,1.0,1
+31523,Brunswick,standard,13127,Glynn,1.0,1
+31524,Brunswick,other,13127,Glynn,1.0,1
+31525,Brunswick,standard,13127,Glynn,1.0,1
+31527,Jekyll Island,standard,13127,Glynn,1.0,1
+31532,Denton,standard,13161,Jeff Davis,0.99364,1
+31532,Denton,standard,13069,Coffee,0.00636,2
+31533,Douglas,standard,13069,Coffee,1.0,1
+31535,Douglas,standard,13069,Coffee,1.0,1
+31537,Folkston,standard,13049,Charlton,0.94531,1
+31537,Folkston,standard,13039,Camden,0.05008,2
+31537,Folkston,standard,13025,Brantley,0.00461,3
+31539,Hazlehurst,standard,13161,Jeff Davis,0.96965,1
+31539,Hazlehurst,standard,13001,Appling,0.03022,2
+31539,Hazlehurst,standard,13005,Bacon,0.00014,3
+31542,Hoboken,standard,13025,Brantley,1.0,1
+31543,Hortense,standard,13025,Brantley,0.82191,1
+31543,Hortense,standard,13305,Wayne,0.16095,2
+31543,Hortense,standard,13127,Glynn,0.01714,3
+31544,Jacksonville,standard,13271,Telfair,1.0,1
+31545,Jesup,standard,13305,Wayne,1.0,1
+31546,Jesup,standard,13305,Wayne,1.0,1
+31547,Kings Bay,standard,13039,Camden,1.0,1
+31548,Kingsland,standard,13039,Camden,1.0,1
+31549,Lumber City,standard,13271,Telfair,0.8631,1
+31549,Lumber City,standard,13309,Wheeler,0.1369,2
+31550,Manor,standard,13299,Ware,1.0,1
+31551,Mershon,standard,13229,Pierce,0.54237,1
+31551,Mershon,standard,13005,Bacon,0.45763,2
+31552,Millwood,standard,13299,Ware,0.89871,1
+31552,Millwood,standard,13003,Atkinson,0.0627,2
+31552,Millwood,standard,13069,Coffee,0.03859,3
+31553,Nahunta,standard,13025,Brantley,0.9946,1
+31553,Nahunta,standard,13049,Charlton,0.0054,2
+31554,Nicholls,standard,13069,Coffee,0.70367,1
+31554,Nicholls,standard,13005,Bacon,0.2279,2
+31554,Nicholls,standard,13299,Ware,0.06843,3
+31555,Odum,standard,13305,Wayne,0.90963,1
+31555,Odum,standard,13001,Appling,0.09037,2
+31557,Patterson,standard,13229,Pierce,0.93141,1
+31557,Patterson,standard,13025,Brantley,0.05072,2
+31557,Patterson,standard,13001,Appling,0.01729,3
+31557,Patterson,standard,13305,Wayne,0.00058,4
+31558,Saint Marys,standard,13039,Camden,1.0,1
+31560,Screven,standard,13305,Wayne,0.99818,1
+31560,Screven,standard,13001,Appling,0.00182,2
+31562,Saint George,standard,13049,Charlton,1.0,1
+31563,Surrency,standard,13001,Appling,1.0,1
+31565,Waverly,standard,13039,Camden,0.99668,1
+31565,Waverly,standard,13025,Brantley,0.00332,2
+31566,Waynesville,standard,13025,Brantley,0.97544,1
+31566,Waynesville,standard,13127,Glynn,0.01805,2
+31566,Waynesville,standard,13039,Camden,0.00652,3
+31567,West Green,standard,13069,Coffee,1.0,1
+31568,White Oak,standard,13039,Camden,1.0,1
+31569,Woodbine,standard,13039,Camden,1.0,1
+31599,Jesup,other,13305,Wayne,1.0,1
+31601,Valdosta,standard,13185,Lowndes,1.0,1
+31602,Valdosta,standard,13185,Lowndes,0.92745,1
+31602,Valdosta,standard,13027,Brooks,0.07255,2
+31605,Valdosta,standard,13185,Lowndes,0.99927,1
+31605,Valdosta,standard,13173,Lanier,0.00073,2
+31606,Valdosta,standard,13185,Lowndes,1.0,1
+31620,Adel,standard,13075,Cook,1.0,1
+31622,Alapaha,standard,13019,Berrien,1.0,1
+31624,Axson,standard,13003,Atkinson,0.9034,1
+31624,Axson,standard,13069,Coffee,0.06395,2
+31624,Axson,standard,13299,Ware,0.03265,3
+31625,Barney,standard,13027,Brooks,1.0,1
+31626,Boston,standard,13275,Thomas,0.93811,1
+31626,Boston,standard,13027,Brooks,0.06189,2
+31629,Dixie,standard,13027,Brooks,1.0,1
+31630,Du Pont,standard,13065,Clinch,0.8,1
+31630,Du Pont,standard,13101,Echols,0.2,2
+31631,Fargo,standard,13065,Clinch,0.70629,1
+31631,Fargo,standard,13101,Echols,0.25874,2
+31631,Fargo,standard,13049,Charlton,0.02797,3
+31631,Fargo,standard,13299,Ware,0.00699,4
+31632,Hahira,standard,13185,Lowndes,0.92689,1
+31632,Hahira,standard,13075,Cook,0.07311,2
+31634,Homerville,standard,13065,Clinch,1.0,1
+31635,Lakeland,standard,13173,Lanier,0.98365,1
+31635,Lakeland,standard,13065,Clinch,0.00787,2
+31635,Lakeland,standard,13019,Berrien,0.00363,3
+31635,Lakeland,standard,13003,Atkinson,0.00303,4
+31635,Lakeland,standard,13185,Lowndes,0.00182,5
+31636,Lake Park,standard,13185,Lowndes,0.76058,1
+31636,Lake Park,standard,13101,Echols,0.23942,2
+31637,Lenox,standard,13075,Cook,0.55595,1
+31637,Lenox,standard,13019,Berrien,0.27727,2
+31637,Lenox,standard,13071,Colquitt,0.08445,3
+31637,Lenox,standard,13277,Tift,0.08234,4
+31638,Morven,standard,13027,Brooks,1.0,1
+31639,Nashville,standard,13019,Berrien,0.99425,1
+31639,Nashville,standard,13173,Lanier,0.00575,2
+31641,Naylor,standard,13185,Lowndes,0.54272,1
+31641,Naylor,standard,13173,Lanier,0.45728,2
+31642,Pearson,standard,13003,Atkinson,0.98567,1
+31642,Pearson,standard,13065,Clinch,0.0084,2
+31642,Pearson,standard,13069,Coffee,0.00593,3
+31643,Quitman,standard,13027,Brooks,1.0,1
+31645,Ray City,standard,13019,Berrien,0.53886,1
+31645,Ray City,standard,13173,Lanier,0.28963,2
+31645,Ray City,standard,13185,Lowndes,0.17152,3
+31647,Sparks,standard,13075,Cook,1.0,1
+31648,Statenville,standard,13101,Echols,1.0,1
+31649,Stockton,standard,13173,Lanier,0.97669,1
+31649,Stockton,standard,13101,Echols,0.01632,2
+31649,Stockton,standard,13065,Clinch,0.00699,3
+31650,Willacoochee,standard,13003,Atkinson,0.68894,1
+31650,Willacoochee,standard,13069,Coffee,0.31106,2
+31698,Valdosta,other,13185,Lowndes,1.0,1
+31699,Moody Afb,other,13185,Lowndes,1.0,1
+31701,Albany,standard,13095,Dougherty,0.9564,1
+31701,Albany,standard,13177,Lee,0.0436,2
+31704,Albany,other,13095,Dougherty,1.0,1
+31705,Albany,standard,13095,Dougherty,0.90557,1
+31705,Albany,standard,13321,Worth,0.06481,2
+31705,Albany,standard,13205,Mitchell,0.02961,3
+31707,Albany,standard,13095,Dougherty,0.95837,1
+31707,Albany,standard,13177,Lee,0.04163,2
+31709,Americus,standard,13261,Sumter,1.0,1
+31711,Andersonville,standard,13261,Sumter,0.65363,1
+31711,Andersonville,standard,13193,Macon,0.3352,2
+31711,Andersonville,standard,13249,Schley,0.01117,3
+31712,Arabi,standard,13081,Crisp,0.88372,1
+31712,Arabi,standard,13287,Turner,0.09012,2
+31712,Arabi,standard,13321,Worth,0.02616,3
+31714,Ashburn,standard,13287,Turner,0.97008,1
+31714,Ashburn,standard,13321,Worth,0.0277,2
+31714,Ashburn,standard,13277,Tift,0.00194,3
+31714,Ashburn,standard,13315,Wilcox,0.00028,4
+31716,Baconton,standard,13205,Mitchell,1.0,1
+31719,Americus,standard,13261,Sumter,0.99246,1
+31719,Americus,standard,13249,Schley,0.00754,2
+31721,Albany,standard,13095,Dougherty,0.9067,1
+31721,Albany,standard,13177,Lee,0.08118,2
+31721,Albany,standard,13273,Terrell,0.00642,3
+31721,Albany,standard,13007,Baker,0.0057,4
+31730,Camilla,standard,13205,Mitchell,0.98129,1
+31730,Camilla,standard,13087,Decatur,0.01828,2
+31730,Camilla,standard,13071,Colquitt,0.00022,3
+31730,Camilla,standard,13131,Grady,0.00022,4
+31733,Chula,standard,13277,Tift,0.62469,1
+31733,Chula,standard,13155,Irwin,0.37406,2
+31733,Chula,standard,13287,Turner,0.00125,3
+31735,Cobb,standard,13261,Sumter,1.0,1
+31738,Coolidge,standard,13275,Thomas,0.88417,1
+31738,Coolidge,standard,13071,Colquitt,0.11583,2
+31743,De Soto,standard,13261,Sumter,0.74315,1
+31743,De Soto,standard,13177,Lee,0.25685,2
+31744,Doerun,standard,13071,Colquitt,0.59491,1
+31744,Doerun,standard,13321,Worth,0.3653,2
+31744,Doerun,standard,13205,Mitchell,0.03979,3
+31749,Enigma,standard,13019,Berrien,0.87525,1
+31749,Enigma,standard,13277,Tift,0.118,2
+31749,Enigma,standard,13155,Irwin,0.00674,3
+31750,Fitzgerald,standard,13017,Ben Hill,0.93001,1
+31750,Fitzgerald,standard,13155,Irwin,0.06927,2
+31750,Fitzgerald,standard,13315,Wilcox,0.00072,3
+31756,Hartsfield,standard,13071,Colquitt,1.0,1
+31757,Thomasville,standard,13275,Thomas,1.0,1
+31763,Leesburg,standard,13177,Lee,0.99733,1
+31763,Leesburg,standard,13095,Dougherty,0.00267,2
+31764,Leslie,standard,13261,Sumter,0.94837,1
+31764,Leslie,standard,13177,Lee,0.05163,2
+31765,Meigs,standard,13275,Thomas,0.44199,1
+31765,Meigs,standard,13205,Mitchell,0.33149,2
+31765,Meigs,standard,13071,Colquitt,0.22652,3
+31768,Moultrie,standard,13071,Colquitt,0.99806,1
+31768,Moultrie,standard,13321,Worth,0.00194,2
+31771,Norman Park,standard,13071,Colquitt,0.97101,1
+31771,Norman Park,standard,13321,Worth,0.02899,2
+31772,Oakfield,standard,13321,Worth,1.0,1
+31773,Ochlocknee,standard,13275,Thomas,0.73104,1
+31773,Ochlocknee,standard,13131,Grady,0.25718,2
+31773,Ochlocknee,standard,13071,Colquitt,0.01178,3
+31774,Ocilla,standard,13155,Irwin,0.99908,1
+31774,Ocilla,standard,13019,Berrien,0.00061,2
+31774,Ocilla,standard,13069,Coffee,0.00031,3
+31775,Omega,standard,13277,Tift,0.57132,1
+31775,Omega,standard,13071,Colquitt,0.32981,2
+31775,Omega,standard,13321,Worth,0.09887,3
+31778,Pavo,standard,13275,Thomas,0.48276,1
+31778,Pavo,standard,13027,Brooks,0.47175,2
+31778,Pavo,standard,13071,Colquitt,0.04549,3
+31779,Pelham,standard,13205,Mitchell,0.82867,1
+31779,Pelham,standard,13131,Grady,0.16706,2
+31779,Pelham,standard,13275,Thomas,0.00427,3
+31780,Plains,standard,13261,Sumter,0.99674,1
+31780,Plains,standard,13307,Webster,0.00326,2
+31781,Poulan,standard,13321,Worth,1.0,1
+31783,Rebecca,standard,13287,Turner,0.49196,1
+31783,Rebecca,standard,13155,Irwin,0.38585,2
+31783,Rebecca,standard,13017,Ben Hill,0.12219,3
+31784,Sale City,standard,13205,Mitchell,0.97073,1
+31784,Sale City,standard,13071,Colquitt,0.02927,2
+31787,Smithville,standard,13177,Lee,0.79199,1
+31787,Smithville,standard,13261,Sumter,0.20801,2
+31788,Moultrie,standard,13071,Colquitt,0.99579,1
+31788,Moultrie,standard,13027,Brooks,0.00421,2
+31789,Sumner,standard,13321,Worth,0.99193,1
+31789,Sumner,standard,13287,Turner,0.00807,2
+31790,Sycamore,standard,13287,Turner,0.95273,1
+31790,Sycamore,standard,13277,Tift,0.03046,2
+31790,Sycamore,standard,13155,Irwin,0.01681,3
+31791,Sylvester,standard,13321,Worth,0.99169,1
+31791,Sylvester,standard,13095,Dougherty,0.00831,2
+31792,Thomasville,standard,13275,Thomas,0.97099,1
+31792,Thomasville,standard,13131,Grady,0.02901,2
+31793,Tifton,standard,13277,Tift,1.0,1
+31794,Tifton,standard,13277,Tift,0.98164,1
+31794,Tifton,standard,13019,Berrien,0.01836,2
+31795,Ty Ty,standard,13277,Tift,0.65907,1
+31795,Ty Ty,standard,13321,Worth,0.34093,2
+31796,Warwick,standard,13321,Worth,0.98939,1
+31796,Warwick,standard,13081,Crisp,0.01061,2
+31798,Wray,standard,13155,Irwin,0.47613,1
+31798,Wray,standard,13069,Coffee,0.36698,2
+31798,Wray,standard,13017,Ben Hill,0.15689,3
+31801,Box Springs,standard,13197,Marion,0.55632,1
+31801,Box Springs,standard,13263,Talbot,0.40843,2
+31801,Box Springs,standard,13215,Muscogee,0.03525,3
+31803,Buena Vista,standard,13197,Marion,0.95142,1
+31803,Buena Vista,standard,13249,Schley,0.04579,2
+31803,Buena Vista,standard,13307,Webster,0.0028,3
+31804,Cataula,standard,13145,Harris,0.99872,1
+31804,Cataula,standard,13215,Muscogee,0.00128,2
+31805,Cusseta,standard,13053,Chattahoochee,0.95341,1
+31805,Cusseta,standard,13259,Stewart,0.04659,2
+31806,Ellaville,standard,13249,Schley,0.96269,1
+31806,Ellaville,standard,13193,Macon,0.03731,2
+31807,Ellerslie,standard,13145,Harris,1.0,1
+31808,Fortson,standard,13145,Harris,0.62411,1
+31808,Fortson,standard,13215,Muscogee,0.37589,2
+31811,Hamilton,standard,13145,Harris,1.0,1
+31812,Junction City,standard,13263,Talbot,0.75522,1
+31812,Junction City,standard,13269,Taylor,0.24478,2
+31815,Lumpkin,standard,13259,Stewart,0.99866,1
+31815,Lumpkin,standard,13239,Quitman,0.00134,2
+31816,Manchester,standard,13199,Meriwether,0.95695,1
+31816,Manchester,standard,13263,Talbot,0.04305,2
+31820,Midland,standard,13215,Muscogee,0.8236,1
+31820,Midland,standard,13145,Harris,0.1764,2
+31821,Omaha,standard,13259,Stewart,1.0,1
+31822,Pine Mountain,standard,13145,Harris,0.60302,1
+31822,Pine Mountain,standard,13285,Troup,0.28557,2
+31822,Pine Mountain,standard,13199,Meriwether,0.11142,3
+31823,Pine Mountain Valley,standard,13145,Harris,1.0,1
+31824,Preston,standard,13307,Webster,0.99073,1
+31824,Preston,standard,13197,Marion,0.00463,2
+31824,Preston,standard,13273,Terrell,0.00463,3
+31825,Richland,standard,13259,Stewart,0.78858,1
+31825,Richland,standard,13307,Webster,0.21142,2
+31826,Shiloh,standard,13145,Harris,0.57064,1
+31826,Shiloh,standard,13263,Talbot,0.42936,2
+31827,Talbotton,standard,13263,Talbot,1.0,1
+31829,Upatoi,standard,13215,Muscogee,0.79191,1
+31829,Upatoi,standard,13145,Harris,0.20809,2
+31830,Warm Springs,standard,13199,Meriwether,0.92195,1
+31830,Warm Springs,standard,13145,Harris,0.07805,2
+31831,Waverly Hall,standard,13145,Harris,0.86135,1
+31831,Waverly Hall,standard,13263,Talbot,0.13865,2
+31832,Weston,standard,13307,Webster,1.0,1
+31833,West Point,standard,13285,Troup,0.70157,1
+31833,West Point,standard,13145,Harris,0.29843,2
+31836,Woodland,standard,13263,Talbot,1.0,1
+31901,Columbus,standard,13215,Muscogee,1.0,1
+31903,Columbus,standard,13215,Muscogee,1.0,1
+31904,Columbus,standard,13215,Muscogee,1.0,1
+31905,Fort Benning,standard,13053,Chattahoochee,0.5388,1
+31905,Fort Benning,standard,13215,Muscogee,0.4612,2
+31906,Columbus,standard,13215,Muscogee,1.0,1
+31907,Columbus,standard,13215,Muscogee,1.0,1
+31909,Columbus,standard,13215,Muscogee,1.0,1
+31999,Columbus,other,13215,Muscogee,1.0,1
+39813,Arlington,standard,13037,Calhoun,0.66186,1
+39813,Arlington,standard,13099,Early,0.27423,2
+39813,Arlington,standard,13007,Baker,0.06392,3
+39815,Attapulgus,standard,13087,Decatur,1.0,1
+39817,Bainbridge,standard,13087,Decatur,1.0,1
+39819,Bainbridge,standard,13087,Decatur,1.0,1
+39823,Blakely,standard,13099,Early,0.97836,1
+39823,Blakely,standard,13201,Miller,0.0199,2
+39823,Blakely,standard,13061,Clay,0.00173,3
+39824,Bluffton,standard,13061,Clay,0.77941,1
+39824,Bluffton,standard,13099,Early,0.22059,2
+39825,Brinson,standard,13087,Decatur,0.95066,1
+39825,Brinson,standard,13253,Seminole,0.04934,2
+39826,Bronwood,standard,13273,Terrell,1.0,1
+39827,Cairo,standard,13131,Grady,1.0,1
+39828,Cairo,standard,13131,Grady,0.99988,1
+39828,Cairo,standard,13275,Thomas,0.00012,2
+39834,Climax,standard,13087,Decatur,0.99616,1
+39834,Climax,standard,13131,Grady,0.00384,2
+39836,Coleman,standard,13243,Randolph,0.83761,1
+39836,Coleman,standard,13061,Clay,0.16239,2
+39837,Colquitt,standard,13201,Miller,0.88239,1
+39837,Colquitt,standard,13087,Decatur,0.05485,2
+39837,Colquitt,standard,13007,Baker,0.05457,3
+39837,Colquitt,standard,13099,Early,0.00763,4
+39837,Colquitt,standard,13253,Seminole,0.00057,5
+39840,Cuthbert,standard,13243,Randolph,0.99851,1
+39840,Cuthbert,standard,13037,Calhoun,0.00149,2
+39841,Damascus,standard,13099,Early,0.76923,1
+39841,Damascus,standard,13007,Baker,0.15789,2
+39841,Damascus,standard,13201,Miller,0.07287,3
+39842,Dawson,standard,13273,Terrell,0.99367,1
+39842,Dawson,standard,13177,Lee,0.00375,2
+39842,Dawson,standard,13037,Calhoun,0.00211,3
+39842,Dawson,standard,13095,Dougherty,0.00047,4
+39845,Donalsonville,standard,13253,Seminole,0.93586,1
+39845,Donalsonville,standard,13201,Miller,0.05689,2
+39845,Donalsonville,standard,13099,Early,0.00726,3
+39846,Edison,standard,13037,Calhoun,0.93911,1
+39846,Edison,standard,13061,Clay,0.06089,2
+39851,Fort Gaines,standard,13061,Clay,0.99281,1
+39851,Fort Gaines,standard,13243,Randolph,0.00719,2
+39854,Georgetown,standard,13239,Quitman,0.93212,1
+39854,Georgetown,standard,13061,Clay,0.0674,2
+39854,Georgetown,standard,13259,Stewart,0.00048,3
+39859,Iron City,standard,13253,Seminole,0.94918,1
+39859,Iron City,standard,13201,Miller,0.05082,2
+39861,Jakin,standard,13099,Early,0.95958,1
+39861,Jakin,standard,13253,Seminole,0.04042,2
+39862,Leary,standard,13037,Calhoun,0.57595,1
+39862,Leary,standard,13007,Baker,0.41614,2
+39862,Leary,standard,13273,Terrell,0.00791,3
+39866,Morgan,standard,13037,Calhoun,0.96691,1
+39866,Morgan,standard,13243,Randolph,0.03309,2
+39867,Morris,other,13239,Quitman,0.38782,1
+39867,Morris,other,13061,Clay,0.35256,2
+39867,Morris,other,13243,Randolph,0.23077,3
+39867,Morris,other,13259,Stewart,0.02885,4
+39870,Newton,standard,13007,Baker,1.0,1
+39877,Parrott,standard,13273,Terrell,0.54452,1
+39877,Parrott,standard,13307,Webster,0.45548,2
+39886,Shellman,standard,13243,Randolph,0.92888,1
+39886,Shellman,standard,13273,Terrell,0.05263,2
+39886,Shellman,standard,13037,Calhoun,0.01849,3
+39897,Whigham,standard,13131,Grady,0.97317,1
+39897,Whigham,standard,13087,Decatur,0.02683,2
+39901,Atlanta,other,13089,DeKalb,1.0,1
