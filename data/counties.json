@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "2.0.0",
   "generatedAt": "2026-10-18T14:25:09+00:00",
   "source": "Georgia General Assembly Office of Legislative & Congressional Reapportionment block-equivalency files, joined to U.S. Census Bureau 2020 block populations",
   "censusVintage": "2020 Census PL 94-171 (block population, POP100)",
@@ -14,7 +14,7 @@
   "note": "For each county, the 2020 population living in each district of each plan, and that as a share of the county. Districts are listed in number order. A county in several districts appears once per district. Matches the Office of Legislative and Congressional Reapportionment's county reports."
  },
  "counties": {
-  "001": {
+  "13001": {
    "name": "Appling",
    "population": 18444,
    "state-senate": [
@@ -44,7 +44,7 @@
     }
    ]
   },
-  "003": {
+  "13003": {
    "name": "Atkinson",
    "population": 8286,
    "state-senate": [
@@ -69,7 +69,7 @@
     }
    ]
   },
-  "005": {
+  "13005": {
    "name": "Bacon",
    "population": 11140,
    "state-senate": [
@@ -94,7 +94,7 @@
     }
    ]
   },
-  "007": {
+  "13007": {
    "name": "Baker",
    "population": 2876,
    "state-senate": [
@@ -119,7 +119,7 @@
     }
    ]
   },
-  "009": {
+  "13009": {
    "name": "Baldwin",
    "population": 43799,
    "state-senate": [
@@ -149,7 +149,7 @@
     }
    ]
   },
-  "011": {
+  "13011": {
    "name": "Banks",
    "population": 18035,
    "state-senate": [
@@ -174,7 +174,7 @@
     }
    ]
   },
-  "013": {
+  "13013": {
    "name": "Barrow",
    "population": 83505,
    "state-senate": [
@@ -219,7 +219,7 @@
     }
    ]
   },
-  "015": {
+  "13015": {
    "name": "Bartow",
    "population": 108901,
    "state-senate": [
@@ -254,7 +254,7 @@
     }
    ]
   },
-  "017": {
+  "13017": {
    "name": "Ben Hill",
    "population": 17194,
    "state-senate": [
@@ -284,7 +284,7 @@
     }
    ]
   },
-  "019": {
+  "13019": {
    "name": "Berrien",
    "population": 18160,
    "state-senate": [
@@ -309,7 +309,7 @@
     }
    ]
   },
-  "021": {
+  "13021": {
    "name": "Bibb",
    "population": 157346,
    "state-senate": [
@@ -369,7 +369,7 @@
     }
    ]
   },
-  "023": {
+  "13023": {
    "name": "Bleckley",
    "population": 12583,
    "state-senate": [
@@ -394,7 +394,7 @@
     }
    ]
   },
-  "025": {
+  "13025": {
    "name": "Brantley",
    "population": 18021,
    "state-senate": [
@@ -419,7 +419,7 @@
     }
    ]
   },
-  "027": {
+  "13027": {
    "name": "Brooks",
    "population": 16301,
    "state-senate": [
@@ -444,7 +444,7 @@
     }
    ]
   },
-  "029": {
+  "13029": {
    "name": "Bryan",
    "population": 44738,
    "state-senate": [
@@ -479,7 +479,7 @@
     }
    ]
   },
-  "031": {
+  "13031": {
    "name": "Bulloch",
    "population": 81099,
    "state-senate": [
@@ -514,7 +514,7 @@
     }
    ]
   },
-  "033": {
+  "13033": {
    "name": "Burke",
    "population": 24596,
    "state-senate": [
@@ -539,7 +539,7 @@
     }
    ]
   },
-  "035": {
+  "13035": {
    "name": "Butts",
    "population": 25434,
    "state-senate": [
@@ -564,7 +564,7 @@
     }
    ]
   },
-  "037": {
+  "13037": {
    "name": "Calhoun",
    "population": 5573,
    "state-senate": [
@@ -589,7 +589,7 @@
     }
    ]
   },
-  "039": {
+  "13039": {
    "name": "Camden",
    "population": 54768,
    "state-senate": [
@@ -614,7 +614,7 @@
     }
    ]
   },
-  "043": {
+  "13043": {
    "name": "Candler",
    "population": 10981,
    "state-senate": [
@@ -639,7 +639,7 @@
     }
    ]
   },
-  "045": {
+  "13045": {
    "name": "Carroll",
    "population": 119148,
    "state-senate": [
@@ -684,7 +684,7 @@
     }
    ]
   },
-  "047": {
+  "13047": {
    "name": "Catoosa",
    "population": 67872,
    "state-senate": [
@@ -714,7 +714,7 @@
     }
    ]
   },
-  "049": {
+  "13049": {
    "name": "Charlton",
    "population": 12518,
    "state-senate": [
@@ -739,7 +739,7 @@
     }
    ]
   },
-  "051": {
+  "13051": {
    "name": "Chatham",
    "population": 295291,
    "state-senate": [
@@ -799,7 +799,7 @@
     }
    ]
   },
-  "053": {
+  "13053": {
    "name": "Chattahoochee",
    "population": 9565,
    "state-senate": [
@@ -824,7 +824,7 @@
     }
    ]
   },
-  "055": {
+  "13055": {
    "name": "Chattooga",
    "population": 24965,
    "state-senate": [
@@ -849,7 +849,7 @@
     }
    ]
   },
-  "057": {
+  "13057": {
    "name": "Cherokee",
    "population": 266620,
    "state-senate": [
@@ -929,7 +929,7 @@
     }
    ]
   },
-  "059": {
+  "13059": {
    "name": "Clarke",
    "population": 128671,
    "state-senate": [
@@ -974,7 +974,7 @@
     }
    ]
   },
-  "061": {
+  "13061": {
    "name": "Clay",
    "population": 2848,
    "state-senate": [
@@ -999,7 +999,7 @@
     }
    ]
   },
-  "063": {
+  "13063": {
    "name": "Clayton",
    "population": 297595,
    "state-senate": [
@@ -1064,7 +1064,7 @@
     }
    ]
   },
-  "065": {
+  "13065": {
    "name": "Clinch",
    "population": 6749,
    "state-senate": [
@@ -1089,7 +1089,7 @@
     }
    ]
   },
-  "067": {
+  "13067": {
    "name": "Cobb",
    "population": 766149,
    "state-senate": [
@@ -1224,7 +1224,7 @@
     }
    ]
   },
-  "069": {
+  "13069": {
    "name": "Coffee",
    "population": 43092,
    "state-senate": [
@@ -1259,7 +1259,7 @@
     }
    ]
   },
-  "071": {
+  "13071": {
    "name": "Colquitt",
    "population": 45898,
    "state-senate": [
@@ -1284,7 +1284,7 @@
     }
    ]
   },
-  "073": {
+  "13073": {
    "name": "Columbia",
    "population": 156010,
    "state-senate": [
@@ -1329,7 +1329,7 @@
     }
    ]
   },
-  "075": {
+  "13075": {
    "name": "Cook",
    "population": 17229,
    "state-senate": [
@@ -1359,7 +1359,7 @@
     }
    ]
   },
-  "077": {
+  "13077": {
    "name": "Coweta",
    "population": 146158,
    "state-senate": [
@@ -1404,7 +1404,7 @@
     }
    ]
   },
-  "079": {
+  "13079": {
    "name": "Crawford",
    "population": 12130,
    "state-senate": [
@@ -1429,7 +1429,7 @@
     }
    ]
   },
-  "081": {
+  "13081": {
    "name": "Crisp",
    "population": 20128,
    "state-senate": [
@@ -1454,7 +1454,7 @@
     }
    ]
   },
-  "083": {
+  "13083": {
    "name": "Dade",
    "population": 16251,
    "state-senate": [
@@ -1479,7 +1479,7 @@
     }
    ]
   },
-  "085": {
+  "13085": {
    "name": "Dawson",
    "population": 26798,
    "state-senate": [
@@ -1509,7 +1509,7 @@
     }
    ]
   },
-  "087": {
+  "13087": {
    "name": "Decatur",
    "population": 29367,
    "state-senate": [
@@ -1534,7 +1534,7 @@
     }
    ]
   },
-  "089": {
+  "13089": {
    "name": "DeKalb",
    "population": 764382,
    "state-senate": [
@@ -1674,7 +1674,7 @@
     }
    ]
   },
-  "091": {
+  "13091": {
    "name": "Dodge",
    "population": 19925,
    "state-senate": [
@@ -1699,7 +1699,7 @@
     }
    ]
   },
-  "093": {
+  "13093": {
    "name": "Dooly",
    "population": 11208,
    "state-senate": [
@@ -1724,7 +1724,7 @@
     }
    ]
   },
-  "095": {
+  "13095": {
    "name": "Dougherty",
    "population": 85790,
    "state-senate": [
@@ -1764,7 +1764,7 @@
     }
    ]
   },
-  "097": {
+  "13097": {
    "name": "Douglas",
    "population": 144237,
    "state-senate": [
@@ -1809,7 +1809,7 @@
     }
    ]
   },
-  "099": {
+  "13099": {
    "name": "Early",
    "population": 10854,
    "state-senate": [
@@ -1834,7 +1834,7 @@
     }
    ]
   },
-  "101": {
+  "13101": {
    "name": "Echols",
    "population": 3697,
    "state-senate": [
@@ -1859,7 +1859,7 @@
     }
    ]
   },
-  "103": {
+  "13103": {
    "name": "Effingham",
    "population": 64769,
    "state-senate": [
@@ -1894,7 +1894,7 @@
     }
    ]
   },
-  "105": {
+  "13105": {
    "name": "Elbert",
    "population": 19637,
    "state-senate": [
@@ -1919,7 +1919,7 @@
     }
    ]
   },
-  "107": {
+  "13107": {
    "name": "Emanuel",
    "population": 22768,
    "state-senate": [
@@ -1944,7 +1944,7 @@
     }
    ]
   },
-  "109": {
+  "13109": {
    "name": "Evans",
    "population": 10774,
    "state-senate": [
@@ -1969,7 +1969,7 @@
     }
    ]
   },
-  "111": {
+  "13111": {
    "name": "Fannin",
    "population": 25319,
    "state-senate": [
@@ -1994,7 +1994,7 @@
     }
    ]
   },
-  "113": {
+  "13113": {
    "name": "Fayette",
    "population": 119194,
    "state-senate": [
@@ -2044,7 +2044,7 @@
     }
    ]
   },
-  "115": {
+  "13115": {
    "name": "Floyd",
    "population": 98584,
    "state-senate": [
@@ -2084,7 +2084,7 @@
     }
    ]
   },
-  "117": {
+  "13117": {
    "name": "Forsyth",
    "population": 251283,
    "state-senate": [
@@ -2139,7 +2139,7 @@
     }
    ]
   },
-  "119": {
+  "13119": {
    "name": "Franklin",
    "population": 23424,
    "state-senate": [
@@ -2164,7 +2164,7 @@
     }
    ]
   },
-  "121": {
+  "13121": {
    "name": "Fulton",
    "population": 1066710,
    "state-senate": [
@@ -2344,7 +2344,7 @@
     }
    ]
   },
-  "123": {
+  "13123": {
    "name": "Gilmer",
    "population": 31353,
    "state-senate": [
@@ -2369,7 +2369,7 @@
     }
    ]
   },
-  "125": {
+  "13125": {
    "name": "Glascock",
    "population": 2884,
    "state-senate": [
@@ -2394,7 +2394,7 @@
     }
    ]
   },
-  "127": {
+  "13127": {
    "name": "Glynn",
    "population": 84499,
    "state-senate": [
@@ -2429,7 +2429,7 @@
     }
    ]
   },
-  "129": {
+  "13129": {
    "name": "Gordon",
    "population": 57544,
    "state-senate": [
@@ -2464,7 +2464,7 @@
     }
    ]
   },
-  "131": {
+  "13131": {
    "name": "Grady",
    "population": 26236,
    "state-senate": [
@@ -2494,7 +2494,7 @@
     }
    ]
   },
-  "133": {
+  "13133": {
    "name": "Greene",
    "population": 18915,
    "state-senate": [
@@ -2519,7 +2519,7 @@
     }
    ]
   },
-  "135": {
+  "13135": {
    "name": "Gwinnett",
    "population": 957062,
    "state-senate": [
@@ -2704,7 +2704,7 @@
     }
    ]
   },
-  "137": {
+  "13137": {
    "name": "Habersham",
    "population": 46031,
    "state-senate": [
@@ -2734,7 +2734,7 @@
     }
    ]
   },
-  "139": {
+  "13139": {
    "name": "Hall",
    "population": 203136,
    "state-senate": [
@@ -2799,7 +2799,7 @@
     }
    ]
   },
-  "141": {
+  "13141": {
    "name": "Hancock",
    "population": 8735,
    "state-senate": [
@@ -2824,7 +2824,7 @@
     }
    ]
   },
-  "143": {
+  "13143": {
    "name": "Haralson",
    "population": 29919,
    "state-senate": [
@@ -2849,7 +2849,7 @@
     }
    ]
   },
-  "145": {
+  "13145": {
    "name": "Harris",
    "population": 34668,
    "state-senate": [
@@ -2879,7 +2879,7 @@
     }
    ]
   },
-  "147": {
+  "13147": {
    "name": "Hart",
    "population": 25828,
    "state-senate": [
@@ -2904,7 +2904,7 @@
     }
    ]
   },
-  "149": {
+  "13149": {
    "name": "Heard",
    "population": 11412,
    "state-senate": [
@@ -2929,7 +2929,7 @@
     }
    ]
   },
-  "151": {
+  "13151": {
    "name": "Henry",
    "population": 240712,
    "state-senate": [
@@ -3004,7 +3004,7 @@
     }
    ]
   },
-  "153": {
+  "13153": {
    "name": "Houston",
    "population": 163633,
    "state-senate": [
@@ -3059,7 +3059,7 @@
     }
    ]
   },
-  "155": {
+  "13155": {
    "name": "Irwin",
    "population": 9666,
    "state-senate": [
@@ -3084,7 +3084,7 @@
     }
    ]
   },
-  "157": {
+  "13157": {
    "name": "Jackson",
    "population": 75907,
    "state-senate": [
@@ -3129,7 +3129,7 @@
     }
    ]
   },
-  "159": {
+  "13159": {
    "name": "Jasper",
    "population": 14588,
    "state-senate": [
@@ -3154,7 +3154,7 @@
     }
    ]
   },
-  "161": {
+  "13161": {
    "name": "Jeff Davis",
    "population": 14779,
    "state-senate": [
@@ -3179,7 +3179,7 @@
     }
    ]
   },
-  "163": {
+  "13163": {
    "name": "Jefferson",
    "population": 15709,
    "state-senate": [
@@ -3204,7 +3204,7 @@
     }
    ]
   },
-  "165": {
+  "13165": {
    "name": "Jenkins",
    "population": 8674,
    "state-senate": [
@@ -3229,7 +3229,7 @@
     }
    ]
   },
-  "167": {
+  "13167": {
    "name": "Johnson",
    "population": 9189,
    "state-senate": [
@@ -3254,7 +3254,7 @@
     }
    ]
   },
-  "169": {
+  "13169": {
    "name": "Jones",
    "population": 28347,
    "state-senate": [
@@ -3284,7 +3284,7 @@
     }
    ]
   },
-  "171": {
+  "13171": {
    "name": "Lamar",
    "population": 18500,
    "state-senate": [
@@ -3314,7 +3314,7 @@
     }
    ]
   },
-  "173": {
+  "13173": {
    "name": "Lanier",
    "population": 9877,
    "state-senate": [
@@ -3339,7 +3339,7 @@
     }
    ]
   },
-  "175": {
+  "13175": {
    "name": "Laurens",
    "population": 49570,
    "state-senate": [
@@ -3364,7 +3364,7 @@
     }
    ]
   },
-  "177": {
+  "13177": {
    "name": "Lee",
    "population": 33163,
    "state-senate": [
@@ -3389,7 +3389,7 @@
     }
    ]
   },
-  "179": {
+  "13179": {
    "name": "Liberty",
    "population": 65256,
    "state-senate": [
@@ -3419,7 +3419,7 @@
     }
    ]
   },
-  "181": {
+  "13181": {
    "name": "Lincoln",
    "population": 7690,
    "state-senate": [
@@ -3444,7 +3444,7 @@
     }
    ]
   },
-  "183": {
+  "13183": {
    "name": "Long",
    "population": 16168,
    "state-senate": [
@@ -3469,7 +3469,7 @@
     }
    ]
   },
-  "185": {
+  "13185": {
    "name": "Lowndes",
    "population": 118251,
    "state-senate": [
@@ -3509,7 +3509,7 @@
     }
    ]
   },
-  "187": {
+  "13187": {
    "name": "Lumpkin",
    "population": 33488,
    "state-senate": [
@@ -3539,7 +3539,7 @@
     }
    ]
   },
-  "189": {
+  "13189": {
    "name": "McDuffie",
    "population": 21632,
    "state-senate": [
@@ -3569,7 +3569,7 @@
     }
    ]
   },
-  "191": {
+  "13191": {
    "name": "McIntosh",
    "population": 10975,
    "state-senate": [
@@ -3594,7 +3594,7 @@
     }
    ]
   },
-  "193": {
+  "13193": {
    "name": "Macon",
    "population": 12082,
    "state-senate": [
@@ -3619,7 +3619,7 @@
     }
    ]
   },
-  "195": {
+  "13195": {
    "name": "Madison",
    "population": 30120,
    "state-senate": [
@@ -3649,7 +3649,7 @@
     }
    ]
   },
-  "197": {
+  "13197": {
    "name": "Marion",
    "population": 7498,
    "state-senate": [
@@ -3674,7 +3674,7 @@
     }
    ]
   },
-  "199": {
+  "13199": {
    "name": "Meriwether",
    "population": 20613,
    "state-senate": [
@@ -3704,7 +3704,7 @@
     }
    ]
   },
-  "201": {
+  "13201": {
    "name": "Miller",
    "population": 6000,
    "state-senate": [
@@ -3729,7 +3729,7 @@
     }
    ]
   },
-  "205": {
+  "13205": {
    "name": "Mitchell",
    "population": 21755,
    "state-senate": [
@@ -3754,7 +3754,7 @@
     }
    ]
   },
-  "207": {
+  "13207": {
    "name": "Monroe",
    "population": 27957,
    "state-senate": [
@@ -3789,7 +3789,7 @@
     }
    ]
   },
-  "209": {
+  "13209": {
    "name": "Montgomery",
    "population": 8610,
    "state-senate": [
@@ -3814,7 +3814,7 @@
     }
    ]
   },
-  "211": {
+  "13211": {
    "name": "Morgan",
    "population": 20097,
    "state-senate": [
@@ -3839,7 +3839,7 @@
     }
    ]
   },
-  "213": {
+  "13213": {
    "name": "Murray",
    "population": 39973,
    "state-senate": [
@@ -3864,7 +3864,7 @@
     }
    ]
   },
-  "215": {
+  "13215": {
    "name": "Muscogee",
    "population": 206922,
    "state-senate": [
@@ -3919,7 +3919,7 @@
     }
    ]
   },
-  "217": {
+  "13217": {
    "name": "Newton",
    "population": 112483,
    "state-senate": [
@@ -3964,7 +3964,7 @@
     }
    ]
   },
-  "219": {
+  "13219": {
    "name": "Oconee",
    "population": 41799,
    "state-senate": [
@@ -3994,7 +3994,7 @@
     }
    ]
   },
-  "221": {
+  "13221": {
    "name": "Oglethorpe",
    "population": 14825,
    "state-senate": [
@@ -4019,7 +4019,7 @@
     }
    ]
   },
-  "223": {
+  "13223": {
    "name": "Paulding",
    "population": 168661,
    "state-senate": [
@@ -4069,7 +4069,7 @@
     }
    ]
   },
-  "225": {
+  "13225": {
    "name": "Peach",
    "population": 27981,
    "state-senate": [
@@ -4104,7 +4104,7 @@
     }
    ]
   },
-  "227": {
+  "13227": {
    "name": "Pickens",
    "population": 33216,
    "state-senate": [
@@ -4129,7 +4129,7 @@
     }
    ]
   },
-  "229": {
+  "13229": {
    "name": "Pierce",
    "population": 19716,
    "state-senate": [
@@ -4154,7 +4154,7 @@
     }
    ]
   },
-  "231": {
+  "13231": {
    "name": "Pike",
    "population": 18889,
    "state-senate": [
@@ -4179,7 +4179,7 @@
     }
    ]
   },
-  "233": {
+  "13233": {
    "name": "Polk",
    "population": 42853,
    "state-senate": [
@@ -4204,7 +4204,7 @@
     }
    ]
   },
-  "235": {
+  "13235": {
    "name": "Pulaski",
    "population": 9855,
    "state-senate": [
@@ -4229,7 +4229,7 @@
     }
    ]
   },
-  "237": {
+  "13237": {
    "name": "Putnam",
    "population": 22047,
    "state-senate": [
@@ -4259,7 +4259,7 @@
     }
    ]
   },
-  "239": {
+  "13239": {
    "name": "Quitman",
    "population": 2235,
    "state-senate": [
@@ -4284,7 +4284,7 @@
     }
    ]
   },
-  "241": {
+  "13241": {
    "name": "Rabun",
    "population": 16883,
    "state-senate": [
@@ -4309,7 +4309,7 @@
     }
    ]
   },
-  "243": {
+  "13243": {
    "name": "Randolph",
    "population": 6425,
    "state-senate": [
@@ -4334,7 +4334,7 @@
     }
    ]
   },
-  "245": {
+  "13245": {
    "name": "Richmond",
    "population": 206607,
    "state-senate": [
@@ -4384,7 +4384,7 @@
     }
    ]
   },
-  "247": {
+  "13247": {
    "name": "Rockdale",
    "population": 93570,
    "state-senate": [
@@ -4419,7 +4419,7 @@
     }
    ]
   },
-  "249": {
+  "13249": {
    "name": "Schley",
    "population": 4547,
    "state-senate": [
@@ -4444,7 +4444,7 @@
     }
    ]
   },
-  "251": {
+  "13251": {
    "name": "Screven",
    "population": 14067,
    "state-senate": [
@@ -4469,7 +4469,7 @@
     }
    ]
   },
-  "253": {
+  "13253": {
    "name": "Seminole",
    "population": 9147,
    "state-senate": [
@@ -4494,7 +4494,7 @@
     }
    ]
   },
-  "255": {
+  "13255": {
    "name": "Spalding",
    "population": 67306,
    "state-senate": [
@@ -4524,7 +4524,7 @@
     }
    ]
   },
-  "257": {
+  "13257": {
    "name": "Stephens",
    "population": 26784,
    "state-senate": [
@@ -4549,7 +4549,7 @@
     }
    ]
   },
-  "259": {
+  "13259": {
    "name": "Stewart",
    "population": 5314,
    "state-senate": [
@@ -4574,7 +4574,7 @@
     }
    ]
   },
-  "261": {
+  "13261": {
    "name": "Sumter",
    "population": 29616,
    "state-senate": [
@@ -4604,7 +4604,7 @@
     }
    ]
   },
-  "263": {
+  "13263": {
    "name": "Talbot",
    "population": 5733,
    "state-senate": [
@@ -4629,7 +4629,7 @@
     }
    ]
   },
-  "265": {
+  "13265": {
    "name": "Taliaferro",
    "population": 1559,
    "state-senate": [
@@ -4654,7 +4654,7 @@
     }
    ]
   },
-  "267": {
+  "13267": {
    "name": "Tattnall",
    "population": 22842,
    "state-senate": [
@@ -4684,7 +4684,7 @@
     }
    ]
   },
-  "269": {
+  "13269": {
    "name": "Taylor",
    "population": 7816,
    "state-senate": [
@@ -4709,7 +4709,7 @@
     }
    ]
   },
-  "271": {
+  "13271": {
    "name": "Telfair",
    "population": 12477,
    "state-senate": [
@@ -4739,7 +4739,7 @@
     }
    ]
   },
-  "273": {
+  "13273": {
    "name": "Terrell",
    "population": 9185,
    "state-senate": [
@@ -4764,7 +4764,7 @@
     }
    ]
   },
-  "275": {
+  "13275": {
    "name": "Thomas",
    "population": 45798,
    "state-senate": [
@@ -4794,7 +4794,7 @@
     }
    ]
   },
-  "277": {
+  "13277": {
    "name": "Tift",
    "population": 41344,
    "state-senate": [
@@ -4824,7 +4824,7 @@
     }
    ]
   },
-  "279": {
+  "13279": {
    "name": "Toombs",
    "population": 27030,
    "state-senate": [
@@ -4849,7 +4849,7 @@
     }
    ]
   },
-  "281": {
+  "13281": {
    "name": "Towns",
    "population": 12493,
    "state-senate": [
@@ -4874,7 +4874,7 @@
     }
    ]
   },
-  "283": {
+  "13283": {
    "name": "Treutlen",
    "population": 6406,
    "state-senate": [
@@ -4899,7 +4899,7 @@
     }
    ]
   },
-  "285": {
+  "13285": {
    "name": "Troup",
    "population": 69426,
    "state-senate": [
@@ -4939,7 +4939,7 @@
     }
    ]
   },
-  "287": {
+  "13287": {
    "name": "Turner",
    "population": 9006,
    "state-senate": [
@@ -4964,7 +4964,7 @@
     }
    ]
   },
-  "289": {
+  "13289": {
    "name": "Twiggs",
    "population": 8022,
    "state-senate": [
@@ -4989,7 +4989,7 @@
     }
    ]
   },
-  "291": {
+  "13291": {
    "name": "Union",
    "population": 24632,
    "state-senate": [
@@ -5014,7 +5014,7 @@
     }
    ]
   },
-  "293": {
+  "13293": {
    "name": "Upson",
    "population": 27700,
    "state-senate": [
@@ -5039,7 +5039,7 @@
     }
    ]
   },
-  "295": {
+  "13295": {
    "name": "Walker",
    "population": 67654,
    "state-senate": [
@@ -5069,7 +5069,7 @@
     }
    ]
   },
-  "297": {
+  "13297": {
    "name": "Walton",
    "population": 96673,
    "state-senate": [
@@ -5109,7 +5109,7 @@
     }
    ]
   },
-  "299": {
+  "13299": {
    "name": "Ware",
    "population": 36251,
    "state-senate": [
@@ -5144,7 +5144,7 @@
     }
    ]
   },
-  "301": {
+  "13301": {
    "name": "Warren",
    "population": 5215,
    "state-senate": [
@@ -5169,7 +5169,7 @@
     }
    ]
   },
-  "303": {
+  "13303": {
    "name": "Washington",
    "population": 19988,
    "state-senate": [
@@ -5194,7 +5194,7 @@
     }
    ]
   },
-  "305": {
+  "13305": {
    "name": "Wayne",
    "population": 30144,
    "state-senate": [
@@ -5224,7 +5224,7 @@
     }
    ]
   },
-  "307": {
+  "13307": {
    "name": "Webster",
    "population": 2348,
    "state-senate": [
@@ -5249,7 +5249,7 @@
     }
    ]
   },
-  "309": {
+  "13309": {
    "name": "Wheeler",
    "population": 7471,
    "state-senate": [
@@ -5274,7 +5274,7 @@
     }
    ]
   },
-  "311": {
+  "13311": {
    "name": "White",
    "population": 28003,
    "state-senate": [
@@ -5309,7 +5309,7 @@
     }
    ]
   },
-  "313": {
+  "13313": {
    "name": "Whitfield",
    "population": 102864,
    "state-senate": [
@@ -5344,7 +5344,7 @@
     }
    ]
   },
-  "315": {
+  "13315": {
    "name": "Wilcox",
    "population": 8766,
    "state-senate": [
@@ -5369,7 +5369,7 @@
     }
    ]
   },
-  "317": {
+  "13317": {
    "name": "Wilkes",
    "population": 9565,
    "state-senate": [
@@ -5399,7 +5399,7 @@
     }
    ]
   },
-  "319": {
+  "13319": {
    "name": "Wilkinson",
    "population": 8877,
    "state-senate": [
@@ -5424,7 +5424,7 @@
     }
    ]
   },
-  "321": {
+  "13321": {
    "name": "Worth",
    "population": 20784,
    "state-senate": [
